@@ -1,0 +1,502 @@
+[
+  {
+    "market": "amar_jyoti_penal_chart",
+    "Date": "2024-05-31",
+    "Day": "Friday",
+    "Open Panna": "149",
+    "Close Panna": "278",
+    "Open Digit": "4",
+    "Close Digit": "7",
+    "Jodi": "47"
+  },
+  {
+    "market": "bombay_night_panel_chart",
+    "Date": "2025-07-16",
+    "Day": "Wednesday",
+    "Open Panna": 136,
+    "Close Panna": 190,
+    "Open Digit": 0,
+    "Close Digit": 0,
+    "Jodi": 0
+  },
+  {
+    "market": "chetak_day_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 246,
+    "Close Panna": 667,
+    "Open Digit": 2,
+    "Close Digit": 9,
+    "Jodi": 29
+  },
+  {
+    "market": "chetak_night_panel_chart",
+    "Date": "2025-07-16",
+    "Day": "Wednesday",
+    "Open Panna": 340,
+    "Close Panna": 336,
+    "Open Digit": 7,
+    "Close Digit": 2,
+    "Jodi": 72
+  },
+  {
+    "market": "dabra_night_penal_chart",
+    "Date": "2025-07-16",
+    "Day": "Wednesday",
+    "Open Panna": "256",
+    "Close Panna": "344",
+    "Open Digit": "3",
+    "Close Digit": "1",
+    "Jodi": "31"
+  },
+  {
+    "market": "dabra_penal_chart",
+    "Date": "2025-07-02",
+    "Day": "Wednesday",
+    "Open Panna": "330",
+    "Close Panna": "789",
+    "Open Digit": "6",
+    "Close Digit": "4",
+    "Jodi": "64"
+  },
+  {
+    "market": "dadar_day_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 355,
+    "Close Panna": 149,
+    "Open Digit": 3,
+    "Close Digit": 4,
+    "Jodi": 34
+  },
+  {
+    "market": "deluxe_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "590",
+    "Close Panna": "468",
+    "Open Digit": "4",
+    "Close Digit": "8",
+    "Jodi": "48"
+  },
+  {
+    "market": "dhan_express_panel_chart",
+    "Date": "2025-07-21",
+    "Day": "Monday",
+    "Open Panna": "789",
+    "Close Panna": "129",
+    "Open Digit": "4",
+    "Close Digit": "2",
+    "Jodi": "42"
+  },
+  {
+    "market": "kalyan_morning_penal_chart",
+    "Date": "2021-07-10",
+    "Day": "Saturday",
+    "Open Panna": "***",
+    "Close Panna": "***",
+    "Open Digit": "*",
+    "Close Digit": "*",
+    "Jodi": "**"
+  },
+  {
+    "market": "kalyan_night_penal_chart",
+    "Date": "2023-09-29",
+    "Day": "Friday",
+    "Open Panna": "230",
+    "Close Panna": "130",
+    "Open Digit": "5",
+    "Close Digit": "4",
+    "Jodi": "54"
+  },
+  {
+    "market": "kalyan_penal_chart",
+    "Date": "2023-08-07",
+    "Day": "Monday",
+    "Open Panna": "678",
+    "Close Panna": "299",
+    "Open Digit": "1",
+    "Close Digit": "0",
+    "Jodi": "10"
+  },
+  {
+    "market": "kanak_day_panel_chart",
+    "Date": "2025-07-18",
+    "Day": "Friday",
+    "Open Panna": "160",
+    "Close Panna": "458",
+    "Open Digit": "7",
+    "Close Digit": "7",
+    "Jodi": "77"
+  },
+  {
+    "market": "karnataka_day_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "348",
+    "Close Panna": "350",
+    "Open Digit": "5",
+    "Close Digit": "8",
+    "Jodi": "58"
+  },
+  {
+    "market": "karnataka_night_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "200",
+    "Close Panna": "140",
+    "Open Digit": "2",
+    "Close Digit": "5",
+    "Jodi": "25"
+  },
+  {
+    "market": "kbc_bombay_penal_chart",
+    "Date": "2025-07-20",
+    "Day": "Sunday",
+    "Open Panna": "278",
+    "Close Panna": "457",
+    "Open Digit": "7",
+    "Close Digit": "6",
+    "Jodi": "76"
+  },
+  {
+    "market": "khajana_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "899",
+    "Close Panna": "348",
+    "Open Digit": "6",
+    "Close Digit": "5",
+    "Jodi": "65"
+  },
+  {
+    "market": "madhur_day_panel_chart",
+    "Date": "2025-05-18",
+    "Day": "Sunday",
+    "Open Panna": "149",
+    "Close Panna": "136",
+    "Open Digit": "4",
+    "Close Digit": "0",
+    "Jodi": "40"
+  },
+  {
+    "market": "madhur_morning_penal_chart",
+    "Date": "2025-07-15",
+    "Day": "Tuesday",
+    "Open Panna": "159",
+    "Close Panna": "236",
+    "Open Digit": "5",
+    "Close Digit": "1",
+    "Jodi": "51"
+  },
+  {
+    "market": "madhur_night_panel_chart",
+    "Date": "2023-11-04",
+    "Day": "Saturday",
+    "Open Panna": "277",
+    "Close Panna": "170",
+    "Open Digit": "6",
+    "Close Digit": "8",
+    "Jodi": "68"
+  },
+  {
+    "market": "maharani_day_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 237,
+    "Close Panna": 780,
+    "Open Digit": 2,
+    "Close Digit": 5,
+    "Jodi": 25
+  },
+  {
+    "market": "maharani_night_panel_chart",
+    "Date": "2025-07-20",
+    "Day": "Sunday",
+    "Open Panna": "679",
+    "Close Panna": "178",
+    "Open Digit": "2",
+    "Close Digit": "6",
+    "Jodi": "26"
+  },
+  {
+    "market": "maharani_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 460,
+    "Close Panna": 368,
+    "Open Digit": 0,
+    "Close Digit": 7,
+    "Jodi": 7
+  },
+  {
+    "market": "main_bazar_panel_chart",
+    "Date": "2023-09-28",
+    "Day": "Thursday",
+    "Open Panna": "338",
+    "Close Panna": "140",
+    "Open Digit": "4",
+    "Close Digit": "5",
+    "Jodi": "45"
+  },
+  {
+    "market": "main_bombay_panel_chart",
+    "Date": "2019-09-28",
+    "Day": "Saturday",
+    "Open Panna": "346",
+    "Close Panna": "350",
+    "Open Digit": "3",
+    "Close Digit": "8",
+    "Jodi": "38"
+  },
+  {
+    "market": "main_ratan_penal_chart",
+    "Date": "2023-09-28",
+    "Day": "Thursday",
+    "Open Panna": "338",
+    "Close Panna": "140",
+    "Open Digit": "4",
+    "Close Digit": "5",
+    "Jodi": "45"
+  },
+  {
+    "market": "matashri_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 135,
+    "Close Panna": 140,
+    "Open Digit": 9,
+    "Close Digit": 5,
+    "Jodi": 95
+  },
+  {
+    "market": "milan_day_penal_chart",
+    "Date": "2025-05-27",
+    "Day": "Tuesday",
+    "Open Panna": "780",
+    "Close Panna": "239",
+    "Open Digit": "5",
+    "Close Digit": "4",
+    "Jodi": "54"
+  },
+  {
+    "market": "milan_night_penal_chart",
+    "Date": "2024-04-26",
+    "Day": "Friday",
+    "Open Panna": "456",
+    "Close Panna": "138",
+    "Open Digit": "5",
+    "Close Digit": "2",
+    "Jodi": "52"
+  },
+  {
+    "market": "morning_syndicate_penal_chart",
+    "Date": "2025-07-27",
+    "Day": "Sunday",
+    "Open Panna": "360",
+    "Close Panna": "256",
+    "Open Digit": "9",
+    "Close Digit": "3",
+    "Jodi": "93"
+  },
+  {
+    "market": "prabhat_night_panel_chart",
+    "Date": "2025-06-10",
+    "Day": "Tuesday",
+    "Open Panna": "356",
+    "Close Panna": "355",
+    "Open Digit": "4",
+    "Close Digit": "3",
+    "Jodi": "43"
+  },
+  {
+    "market": "prabhat_panel_chart",
+    "Date": "2025-06-11",
+    "Day": "Wednesday",
+    "Open Panna": "126",
+    "Close Panna": "126",
+    "Open Digit": "9",
+    "Close Digit": "9",
+    "Jodi": "99"
+  },
+  {
+    "market": "raja_rani_morning_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "359",
+    "Close Panna": "667",
+    "Open Digit": "7",
+    "Close Digit": "9",
+    "Jodi": "79"
+  },
+  {
+    "market": "rajdhani_day_penal_chart",
+    "Date": "2024-06-08",
+    "Day": "Saturday",
+    "Open Panna": "150",
+    "Close Panna": "358",
+    "Open Digit": "6",
+    "Close Digit": "6",
+    "Jodi": "66"
+  },
+  {
+    "market": "rajdhani_night_penal_chart",
+    "Date": "2023-01-03",
+    "Day": "Tuesday",
+    "Open Panna": "590",
+    "Close Panna": "244",
+    "Open Digit": "4",
+    "Close Digit": "0",
+    "Jodi": "40"
+  },
+  {
+    "market": "rithi_sridevi_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": 346,
+    "Close Panna": 237,
+    "Open Digit": 3,
+    "Close Digit": 2,
+    "Jodi": 32
+  },
+  {
+    "market": "sivaji_night_panel_chart",
+    "Date": "2025-04-26",
+    "Day": "Saturday",
+    "Open Panna": "389",
+    "Close Panna": "149",
+    "Open Digit": "0",
+    "Close Digit": "4",
+    "Jodi": "04"
+  },
+  {
+    "market": "sivaji_panel_chart",
+    "Date": "2025-04-26",
+    "Day": "Saturday",
+    "Open Panna": "267",
+    "Close Panna": "125",
+    "Open Digit": "5",
+    "Close Digit": "8",
+    "Jodi": "58"
+  },
+  {
+    "market": "special_sridevi_panel_chart",
+    "Date": "2025-07-21",
+    "Day": "Monday",
+    "Open Panna": 290,
+    "Close Panna": 390,
+    "Open Digit": 1,
+    "Close Digit": 2,
+    "Jodi": 12
+  },
+  {
+    "market": "sridevi_morning_panel_chart",
+    "Date": "2025-07-23",
+    "Day": "Wednesday",
+    "Open Panna": 477,
+    "Close Panna": 145,
+    "Open Digit": 8,
+    "Close Digit": 0,
+    "Jodi": 80
+  },
+  {
+    "market": "sridevi_night_satta_penal_chart",
+    "Date": "2025-06-17",
+    "Day": "Tuesday",
+    "Open Panna": "900",
+    "Close Panna": "123",
+    "Open Digit": "9",
+    "Close Digit": "6",
+    "Jodi": "96"
+  },
+  {
+    "market": "sridevi_satta_penal_chart",
+    "Date": "2025-07-15",
+    "Day": "Tuesday",
+    "Open Panna": "589",
+    "Close Panna": "236",
+    "Open Digit": "2",
+    "Close Digit": "1",
+    "Jodi": "21"
+  },
+  {
+    "market": "star_morning_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "230",
+    "Close Panna": "178",
+    "Open Digit": "5",
+    "Close Digit": "6",
+    "Jodi": "56"
+  },
+  {
+    "market": "supreme_day_panel_chart",
+    "Date": "2025-07-22",
+    "Day": "Tuesday",
+    "Open Panna": "680",
+    "Close Panna": "370",
+    "Open Digit": "4",
+    "Close Digit": "0",
+    "Jodi": "40"
+  },
+  {
+    "market": "supreme_night_panel_chart",
+    "Date": "2025-07-14",
+    "Day": "Monday",
+    "Open Panna": "299",
+    "Close Panna": "279",
+    "Open Digit": "0",
+    "Close Digit": "8",
+    "Jodi": "08"
+  },
+  {
+    "market": "syndicate_night_penal_chart",
+    "Date": "2025-07-01",
+    "Day": "Tuesday",
+    "Open Panna": "367",
+    "Close Panna": "134",
+    "Open Digit": "6",
+    "Close Digit": "8",
+    "Jodi": "68"
+  },
+  {
+    "market": "time_bazar_panel_chart",
+    "Date": "2025-07-01",
+    "Day": "Tuesday",
+    "Open Panna": "347",
+    "Close Panna": "248",
+    "Open Digit": "4",
+    "Close Digit": "4",
+    "Jodi": "44"
+  },
+  {
+    "market": "tirtha_day_panel_chart",
+    "Date": "2025-07-19",
+    "Day": "Saturday",
+    "Open Panna": "499",
+    "Close Panna": "889",
+    "Open Digit": "2",
+    "Close Digit": "5",
+    "Jodi": "25"
+  },
+  {
+    "market": "tirtha_night_panel_chart",
+    "Date": "2025-07-21",
+    "Day": "Monday",
+    "Open Panna": "358",
+    "Close Panna": "300",
+    "Open Digit": "6",
+    "Close Digit": "3",
+    "Jodi": "63"
+  },
+  {
+    "market": "worli_day_panel_chart",
+    "Date": "2025-07-13",
+    "Day": "Sunday",
+    "Open Panna": "112",
+    "Close Panna": "136",
+    "Open Digit": "4",
+    "Close Digit": "0",
+    "Jodi": "40"
+  }
+]
