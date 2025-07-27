@@ -1,11 +1,9 @@
 name: Daily JSON Update
 
 on:
-  # Runs at 1 AM UTC daily; you can adjust the cron as needed
   schedule:
-    - cron: '0 1 * * *'
-  # Allow manual dispatch from the Actions tab
-  workflow_dispatch:
+    - cron: '0 1 * * *'   # 1 AM UTC daily
+  workflow_dispatch:    # manual trigger
 
 jobs:
   update-data:
@@ -20,22 +18,18 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if any)
+      - name: Install dependencies
         run: |
           pip install --upgrade pip
-          # If you have a requirements.txt, uncomment:
-          # pip install -r requirements.txt
+          # pip install -r requirements.txt   # if you have one
 
-      - name: Run full‐pipeline scripts
-        run: |
-          python run_full_pipeline.py
-          python generate_yesterday_results.py
+      - name: Run full‑pipeline script
+        run: python run_full_pipeline.py
 
       - name: Commit & push updated JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/todays_predictions.json data/yesterday_results.json
-          # Only commit if there are changes
           git diff --cached --quiet || git commit -m "chore: daily JSON update"
           git push
