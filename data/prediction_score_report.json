@@ -1,0 +1,3026 @@
+{
+  "generated_at": "2025-10-08T04:56:09Z",
+  "inputs": {
+    "predictions_path": "C:\\Users\\VCOM\\Desktop\\Kalyan_Penal_Scraper\\sattaboss-data\\data\\todays_predictions.json",
+    "yesterday_path": "C:\\Users\\VCOM\\Desktop\\Kalyan_Penal_Scraper\\sattaboss-data\\data\\yesterday_results.json"
+  },
+  "summary": {
+    "markets_scored": 50,
+    "hit_counts": {
+      "open_digit": 24,
+      "close_digit": 29,
+      "jodi": 11,
+      "open_panna": 8,
+      "close_panna": 7
+    },
+    "hit_rates": {
+      "open_digit": 0.48,
+      "close_digit": 0.58,
+      "jodi": 0.22,
+      "open_panna": 0.16,
+      "close_panna": 0.14
+    }
+  },
+  "markets": {
+    "amar_jyoti_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 8,
+        "jodi": "38",
+        "open_panna": "139",
+        "close_panna": "440"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "6",
+          "8",
+          "4"
+        ],
+        "close_digits": [
+          "5",
+          "8",
+          "9",
+          "4"
+        ],
+        "jodis": [
+          "44",
+          "04",
+          "88",
+          "49",
+          "45",
+          "84",
+          "48",
+          "64"
+        ],
+        "open_pannas": [
+          "770",
+          "567",
+          "158",
+          "125",
+          "558",
+          "556",
+          "189",
+          "356"
+        ],
+        "close_pannas": [
+          "149",
+          "267",
+          "258",
+          "400",
+          "347",
+          "248",
+          "999",
+          "477"
+        ]
+      }
+    },
+    "bombay_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 6,
+        "jodi": "26",
+        "open_panna": "390",
+        "close_panna": "790"
+      },
+      "predicted": {
+        "open_digits": [
+          "8",
+          "1",
+          "5",
+          "6"
+        ],
+        "close_digits": [
+          "4",
+          "1",
+          "9",
+          "6"
+        ],
+        "jodis": [
+          "64",
+          "86",
+          "61",
+          "11",
+          "66",
+          "16",
+          "14",
+          "56"
+        ],
+        "open_pannas": [
+          "380",
+          "134",
+          "258",
+          "146",
+          "116",
+          "277",
+          "367",
+          "119"
+        ],
+        "close_pannas": [
+          "469",
+          "667",
+          "347",
+          "470",
+          "880",
+          "236",
+          "699",
+          "789"
+        ]
+      }
+    },
+    "chetak_day_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": null,
+        "close_digit": null,
+        "jodi": null,
+        "open_panna": "***",
+        "close_panna": "***"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "6",
+          "8",
+          "9"
+        ],
+        "close_digits": [
+          "1",
+          "0",
+          "7",
+          "3"
+        ],
+        "jodis": [
+          "81",
+          "91",
+          "60",
+          "31",
+          "93",
+          "61",
+          "67",
+          "63"
+        ],
+        "open_pannas": [
+          "126",
+          "599",
+          "880",
+          "333",
+          "199",
+          "289",
+          "270",
+          "238"
+        ],
+        "close_pannas": [
+          "188",
+          "244",
+          "133",
+          "579",
+          "335",
+          "355",
+          "299",
+          "470"
+        ]
+      }
+    },
+    "chetak_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": null,
+        "close_digit": null,
+        "jodi": null,
+        "open_panna": "***",
+        "close_panna": "***"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "7",
+          "2",
+          "1"
+        ],
+        "close_digits": [
+          "7",
+          "5",
+          "4",
+          "0"
+        ],
+        "jodis": [
+          "57",
+          "50",
+          "24",
+          "75",
+          "15",
+          "25",
+          "74",
+          "54"
+        ],
+        "open_pannas": [
+          "250",
+          "679",
+          "100",
+          "345",
+          "340",
+          "179",
+          "227",
+          "177"
+        ],
+        "close_pannas": [
+          "578",
+          "177",
+          "569",
+          "348",
+          "167",
+          "257",
+          "149",
+          "244"
+        ]
+      }
+    },
+    "dabra_night_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 5,
+        "jodi": "95",
+        "open_panna": "379",
+        "close_panna": "500"
+      },
+      "predicted": {
+        "open_digits": [
+          "8",
+          "2",
+          "4",
+          "1"
+        ],
+        "close_digits": [
+          "4",
+          "1",
+          "7",
+          "6"
+        ],
+        "jodis": [
+          "47",
+          "86",
+          "16",
+          "81",
+          "27",
+          "26",
+          "87",
+          "46"
+        ],
+        "open_pannas": [
+          "220",
+          "489",
+          "345",
+          "167",
+          "128",
+          "440",
+          "455",
+          "380"
+        ],
+        "close_pannas": [
+          "344",
+          "150",
+          "178",
+          "557",
+          "700",
+          "600",
+          "455",
+          "112"
+        ]
+      }
+    },
+    "dabra_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 8,
+        "close_digit": 3,
+        "jodi": "83",
+        "open_panna": "440",
+        "close_panna": "337"
+      },
+      "predicted": {
+        "open_digits": [
+          "6",
+          "5",
+          "7",
+          "0"
+        ],
+        "close_digits": [
+          "1",
+          "7",
+          "6",
+          "9"
+        ],
+        "jodis": [
+          "09",
+          "79",
+          "61",
+          "69",
+          "59",
+          "76",
+          "66",
+          "71"
+        ],
+        "open_pannas": [
+          "370",
+          "235",
+          "457",
+          "556",
+          "244",
+          "299",
+          "124",
+          "330"
+        ],
+        "close_pannas": [
+          "225",
+          "349",
+          "344",
+          "269",
+          "160",
+          "270",
+          "568",
+          "169"
+        ]
+      }
+    },
+    "dadar_day_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 8,
+        "jodi": "58",
+        "open_panna": "113",
+        "close_panna": "567"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "9",
+          "4",
+          "7"
+        ],
+        "close_digits": [
+          "3",
+          "5",
+          "8",
+          "1"
+        ],
+        "jodis": [
+          "98",
+          "38",
+          "71",
+          "41",
+          "93",
+          "91",
+          "31",
+          "35"
+        ],
+        "open_pannas": [
+          "377",
+          "234",
+          "467",
+          "449",
+          "126",
+          "270",
+          "599",
+          "120"
+        ],
+        "close_pannas": [
+          "111",
+          "678",
+          "279",
+          "456",
+          "337",
+          "690",
+          "579",
+          "238"
+        ]
+      }
+    },
+    "deluxe_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 2,
+        "jodi": "72",
+        "open_panna": "124",
+        "close_panna": "589"
+      },
+      "predicted": {
+        "open_digits": [
+          "6",
+          "2",
+          "8",
+          "3"
+        ],
+        "close_digits": [
+          "0",
+          "2",
+          "9",
+          "4"
+        ],
+        "jodis": [
+          "62",
+          "89",
+          "20",
+          "30",
+          "60",
+          "69",
+          "39",
+          "80"
+        ],
+        "open_pannas": [
+          "689",
+          "123",
+          "170",
+          "580",
+          "440",
+          "139",
+          "790",
+          "378"
+        ],
+        "close_pannas": [
+          "138",
+          "246",
+          "270",
+          "550",
+          "190",
+          "370",
+          "127",
+          "220"
+        ]
+      }
+    },
+    "dhan_express_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 1,
+        "close_digit": 6,
+        "jodi": "16",
+        "open_panna": "245",
+        "close_panna": "457"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "1",
+          "4",
+          "2"
+        ],
+        "close_digits": [
+          "1",
+          "2",
+          "8",
+          "0"
+        ],
+        "jodis": [
+          "72",
+          "40",
+          "71",
+          "12",
+          "70",
+          "78",
+          "41",
+          "42"
+        ],
+        "open_pannas": [
+          "345",
+          "248",
+          "236",
+          "560",
+          "336",
+          "335",
+          "255",
+          "250"
+        ],
+        "close_pannas": [
+          "567",
+          "550",
+          "399",
+          "245",
+          "560",
+          "440",
+          "125",
+          "147"
+        ]
+      }
+    },
+    "kalyan_morning_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 1,
+        "jodi": "31",
+        "open_panna": "256",
+        "close_panna": "489"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "4",
+          "5",
+          "6"
+        ],
+        "close_digits": [
+          "8",
+          "3",
+          "1",
+          "2"
+        ],
+        "jodis": [
+          "52",
+          "08",
+          "42",
+          "51",
+          "63",
+          "43",
+          "48",
+          "53"
+        ],
+        "open_pannas": [
+          "190",
+          "280",
+          "357",
+          "367",
+          "339",
+          "555",
+          "338",
+          "488"
+        ],
+        "close_pannas": [
+          "490",
+          "679",
+          "125",
+          "170",
+          "129",
+          "279",
+          "247",
+          "155"
+        ]
+      }
+    },
+    "kalyan_night_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 1,
+        "close_digit": 6,
+        "jodi": "16",
+        "open_panna": "344",
+        "close_panna": "790"
+      },
+      "predicted": {
+        "open_digits": [
+          "1",
+          "5",
+          "0",
+          "2"
+        ],
+        "close_digits": [
+          "4",
+          "5",
+          "0",
+          "2"
+        ],
+        "jodis": [
+          "04",
+          "14",
+          "12",
+          "10",
+          "00",
+          "05",
+          "15",
+          "02"
+        ],
+        "open_pannas": [
+          "499",
+          "140",
+          "660",
+          "579",
+          "122",
+          "380",
+          "690",
+          "236"
+        ],
+        "close_pannas": [
+          "230",
+          "336",
+          "156",
+          "357",
+          "589",
+          "680",
+          "258",
+          "248"
+        ]
+      }
+    },
+    "kalyan_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 6,
+        "jodi": "96",
+        "open_panna": "379",
+        "close_panna": "448"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "7",
+          "4",
+          "8"
+        ],
+        "close_digits": [
+          "5",
+          "6",
+          "3",
+          "1"
+        ],
+        "jodis": [
+          "81",
+          "71",
+          "41",
+          "73",
+          "43",
+          "76",
+          "75",
+          "51"
+        ],
+        "open_pannas": [
+          "458",
+          "279",
+          "348",
+          "134",
+          "340",
+          "800",
+          "257",
+          "220"
+        ],
+        "close_pannas": [
+          "579",
+          "445",
+          "150",
+          "470",
+          "448",
+          "779",
+          "137",
+          "357"
+        ]
+      }
+    },
+    "kanak_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 7,
+        "jodi": "77",
+        "open_panna": "160",
+        "close_panna": "458"
+      },
+      "predicted": {
+        "open_digits": [
+          "2",
+          "6",
+          "7",
+          "5"
+        ],
+        "close_digits": [
+          "6",
+          "7",
+          "9",
+          "0"
+        ],
+        "jodis": [
+          "27",
+          "76",
+          "79",
+          "20",
+          "57",
+          "67",
+          "77",
+          "29"
+        ],
+        "open_pannas": [
+          "278",
+          "160",
+          "230",
+          "880",
+          "123",
+          "255",
+          "890",
+          "177"
+        ],
+        "close_pannas": [
+          "389",
+          "900",
+          "269",
+          "160",
+          "448",
+          "555",
+          "349",
+          "790"
+        ]
+      }
+    },
+    "karnataka_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 7,
+        "jodi": "67",
+        "open_panna": "790",
+        "close_panna": "566"
+      },
+      "predicted": {
+        "open_digits": [
+          "2",
+          "6",
+          "4",
+          "5"
+        ],
+        "close_digits": [
+          "1",
+          "9",
+          "2",
+          "7"
+        ],
+        "jodis": [
+          "49",
+          "69",
+          "51",
+          "59",
+          "41",
+          "52",
+          "61",
+          "21"
+        ],
+        "open_pannas": [
+          "338",
+          "177",
+          "339",
+          "366",
+          "147",
+          "239",
+          "466",
+          "357"
+        ],
+        "close_pannas": [
+          "129",
+          "289",
+          "234",
+          "160",
+          "480",
+          "345",
+          "223",
+          "669"
+        ]
+      }
+    },
+    "karnataka_night_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 6,
+        "jodi": "96",
+        "open_panna": "234",
+        "close_panna": "169"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "3",
+          "9",
+          "0"
+        ],
+        "close_digits": [
+          "2",
+          "5",
+          "9",
+          "7"
+        ],
+        "jodis": [
+          "07",
+          "32",
+          "39",
+          "92",
+          "95",
+          "97",
+          "99",
+          "37"
+        ],
+        "open_pannas": [
+          "270",
+          "444",
+          "118",
+          "580",
+          "333",
+          "779",
+          "334",
+          "145"
+        ],
+        "close_pannas": [
+          "160",
+          "388",
+          "478",
+          "799",
+          "666",
+          "267",
+          "377",
+          "225"
+        ]
+      }
+    },
+    "kbc_bombay_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 7,
+        "jodi": "77",
+        "open_panna": "269",
+        "close_panna": "467"
+      },
+      "predicted": {
+        "open_digits": [
+          "8",
+          "1",
+          "2",
+          "3"
+        ],
+        "close_digits": [
+          "7",
+          "6",
+          "1",
+          "8"
+        ],
+        "jodis": [
+          "87",
+          "27",
+          "37",
+          "81",
+          "86",
+          "17",
+          "11",
+          "31"
+        ],
+        "open_pannas": [
+          "669",
+          "777",
+          "670",
+          "337",
+          "110",
+          "589",
+          "990",
+          "260"
+        ],
+        "close_pannas": [
+          "449",
+          "134",
+          "245",
+          "368",
+          "188",
+          "350",
+          "169",
+          "116"
+        ]
+      }
+    },
+    "khajana_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 8,
+        "jodi": "68",
+        "open_panna": "367",
+        "close_panna": "369"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "6",
+          "8",
+          "1"
+        ],
+        "close_digits": [
+          "9",
+          "2",
+          "3",
+          "5"
+        ],
+        "jodis": [
+          "43",
+          "63",
+          "82",
+          "15",
+          "85",
+          "65",
+          "83",
+          "42"
+        ],
+        "open_pannas": [
+          "279",
+          "266",
+          "459",
+          "167",
+          "169",
+          "189",
+          "239",
+          "128"
+        ],
+        "close_pannas": [
+          "122",
+          "360",
+          "300",
+          "788",
+          "889",
+          "355",
+          "267",
+          "126"
+        ]
+      }
+    },
+    "madhur_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 8,
+        "jodi": "78",
+        "open_panna": "124",
+        "close_panna": "558"
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "1",
+          "7",
+          "5"
+        ],
+        "close_digits": [
+          "4",
+          "9",
+          "0",
+          "2"
+        ],
+        "jodis": [
+          "99",
+          "72",
+          "94",
+          "92",
+          "74",
+          "90",
+          "70",
+          "79"
+        ],
+        "open_pannas": [
+          "388",
+          "137",
+          "999",
+          "180",
+          "380",
+          "119",
+          "560",
+          "379"
+        ],
+        "close_pannas": [
+          "778",
+          "478",
+          "446",
+          "333",
+          "469",
+          "226",
+          "770",
+          "370"
+        ]
+      }
+    },
+    "madhur_morning_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 0,
+        "jodi": "20",
+        "open_panna": "778",
+        "close_panna": "488"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "8",
+          "2",
+          "3"
+        ],
+        "close_digits": [
+          "0",
+          "8",
+          "1",
+          "7"
+        ],
+        "jodis": [
+          "48",
+          "27",
+          "40",
+          "20",
+          "28",
+          "47",
+          "88",
+          "38"
+        ],
+        "open_pannas": [
+          "400",
+          "157",
+          "778",
+          "233",
+          "590",
+          "238",
+          "589",
+          "680"
+        ],
+        "close_pannas": [
+          "145",
+          "359",
+          "125",
+          "578",
+          "399",
+          "128",
+          "190",
+          "127"
+        ]
+      }
+    },
+    "madhur_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 4,
+        "close_digit": 7,
+        "jodi": "47",
+        "open_panna": "130",
+        "close_panna": "160"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "0",
+          "2",
+          "5"
+        ],
+        "close_digits": [
+          "0",
+          "7",
+          "2",
+          "1"
+        ],
+        "jodis": [
+          "02",
+          "77",
+          "72",
+          "52",
+          "57",
+          "27",
+          "22",
+          "71"
+        ],
+        "open_pannas": [
+          "480",
+          "458",
+          "269",
+          "339",
+          "250",
+          "679",
+          "366",
+          "578"
+        ],
+        "close_pannas": [
+          "160",
+          "589",
+          "458",
+          "480",
+          "678",
+          "389",
+          "679",
+          "235"
+        ]
+      }
+    },
+    "maharani_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 1,
+        "close_digit": 0,
+        "jodi": "10",
+        "open_panna": "236",
+        "close_panna": "479"
+      },
+      "predicted": {
+        "open_digits": [
+          "1",
+          "7",
+          "8",
+          "4"
+        ],
+        "close_digits": [
+          "2",
+          "0",
+          "9",
+          "5"
+        ],
+        "jodis": [
+          "10",
+          "19",
+          "89",
+          "42",
+          "72",
+          "75",
+          "80",
+          "15"
+        ],
+        "open_pannas": [
+          "890",
+          "800",
+          "124",
+          "356",
+          "588",
+          "369",
+          "470",
+          "455"
+        ],
+        "close_pannas": [
+          "569",
+          "345",
+          "339",
+          "568",
+          "666",
+          "469",
+          "389",
+          "479"
+        ]
+      }
+    },
+    "maharani_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 0,
+        "jodi": "90",
+        "open_panna": "667",
+        "close_panna": "578"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "7",
+          "2",
+          "8"
+        ],
+        "close_digits": [
+          "9",
+          "5",
+          "0",
+          "8"
+        ],
+        "jodis": [
+          "20",
+          "28",
+          "89",
+          "50",
+          "58",
+          "80",
+          "78",
+          "88"
+        ],
+        "open_pannas": [
+          "477",
+          "359",
+          "258",
+          "340",
+          "133",
+          "115",
+          "250",
+          "350"
+        ],
+        "close_pannas": [
+          "578",
+          "469",
+          "279",
+          "389",
+          "267",
+          "189",
+          "140",
+          "677"
+        ]
+      }
+    },
+    "maharani_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 9,
+        "jodi": "29",
+        "open_panna": "156",
+        "close_panna": "450"
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "2",
+          "4",
+          "5"
+        ],
+        "close_digits": [
+          "0",
+          "3",
+          "1",
+          "4"
+        ],
+        "jodis": [
+          "94",
+          "50",
+          "21",
+          "40",
+          "24",
+          "23",
+          "20",
+          "90"
+        ],
+        "open_pannas": [
+          "249",
+          "366",
+          "499",
+          "348",
+          "390",
+          "780",
+          "230",
+          "117"
+        ],
+        "close_pannas": [
+          "190",
+          "588",
+          "677",
+          "355",
+          "257",
+          "680",
+          "590",
+          "356"
+        ]
+      }
+    },
+    "main_bazar_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 8,
+        "jodi": "68",
+        "open_panna": "556",
+        "close_panna": "224"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "4",
+          "8",
+          "6"
+        ],
+        "close_digits": [
+          "8",
+          "1",
+          "2",
+          "3"
+        ],
+        "jodis": [
+          "63",
+          "61",
+          "83",
+          "62",
+          "31",
+          "42",
+          "33",
+          "43"
+        ],
+        "open_pannas": [
+          "268",
+          "356",
+          "468",
+          "556",
+          "114",
+          "130",
+          "378",
+          "125"
+        ],
+        "close_pannas": [
+          "236",
+          "369",
+          "200",
+          "100",
+          "156",
+          "678",
+          "148",
+          "189"
+        ]
+      }
+    },
+    "main_bombay_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 8,
+        "jodi": "38",
+        "open_panna": "346",
+        "close_panna": "350"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "2",
+          "1",
+          "4"
+        ],
+        "close_digits": [
+          "6",
+          "0",
+          "7",
+          "4"
+        ],
+        "jodis": [
+          "74",
+          "70",
+          "46",
+          "40",
+          "76",
+          "10",
+          "77",
+          "47"
+        ],
+        "open_pannas": [
+          "458",
+          "669",
+          "480",
+          "778",
+          "368",
+          "890",
+          "340",
+          "377"
+        ],
+        "close_pannas": [
+          "566",
+          "677",
+          "158",
+          "458",
+          "789",
+          "557",
+          "280",
+          "899"
+        ]
+      }
+    },
+    "main_ratan_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 8,
+        "jodi": "68",
+        "open_panna": "556",
+        "close_panna": "224"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "4",
+          "9",
+          "3"
+        ],
+        "close_digits": [
+          "3",
+          "6",
+          "9",
+          "5"
+        ],
+        "jodis": [
+          "55",
+          "93",
+          "59",
+          "56",
+          "33",
+          "53",
+          "99",
+          "43"
+        ],
+        "open_pannas": [
+          "379",
+          "559",
+          "478",
+          "599",
+          "289",
+          "177",
+          "135",
+          "166"
+        ],
+        "close_pannas": [
+          "300",
+          "358",
+          "159",
+          "178",
+          "667",
+          "247",
+          "337",
+          "457"
+        ]
+      }
+    },
+    "matashri_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": null,
+        "close_digit": null,
+        "jodi": null,
+        "open_panna": "***",
+        "close_panna": "***"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "6",
+          "2",
+          "9"
+        ],
+        "close_digits": [
+          "2",
+          "1",
+          "6",
+          "0"
+        ],
+        "jodis": [
+          "60",
+          "96",
+          "62",
+          "26",
+          "61",
+          "66",
+          "92",
+          "20"
+        ],
+        "open_pannas": [
+          "180",
+          "347",
+          "147",
+          "150",
+          "246",
+          "158",
+          "135",
+          "129"
+        ],
+        "close_pannas": [
+          "334",
+          "150",
+          "280",
+          "147",
+          "244",
+          "778",
+          "178",
+          "589"
+        ]
+      }
+    },
+    "milan_day_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 9,
+        "jodi": "09",
+        "open_panna": "460",
+        "close_panna": "126"
+      },
+      "predicted": {
+        "open_digits": [
+          "2",
+          "8",
+          "6",
+          "0"
+        ],
+        "close_digits": [
+          "5",
+          "6",
+          "1",
+          "9"
+        ],
+        "jodis": [
+          "89",
+          "09",
+          "25",
+          "69",
+          "86",
+          "81",
+          "85",
+          "29"
+        ],
+        "open_pannas": [
+          "600",
+          "336",
+          "668",
+          "345",
+          "233",
+          "570",
+          "118",
+          "358"
+        ],
+        "close_pannas": [
+          "380",
+          "379",
+          "169",
+          "358",
+          "277",
+          "339",
+          "360",
+          "447"
+        ]
+      }
+    },
+    "milan_night_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 8,
+        "close_digit": 9,
+        "jodi": "89",
+        "open_panna": "116",
+        "close_panna": "180"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "1",
+          "8",
+          "7"
+        ],
+        "close_digits": [
+          "7",
+          "5",
+          "9",
+          "8"
+        ],
+        "jodis": [
+          "87",
+          "17",
+          "19",
+          "39",
+          "89",
+          "37",
+          "79",
+          "77"
+        ],
+        "open_pannas": [
+          "788",
+          "139",
+          "459",
+          "579",
+          "800",
+          "489",
+          "399",
+          "160"
+        ],
+        "close_pannas": [
+          "260",
+          "999",
+          "459",
+          "230",
+          "567",
+          "780",
+          "366",
+          "126"
+        ]
+      }
+    },
+    "morning_syndicate_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 1,
+        "jodi": "61",
+        "open_panna": "880",
+        "close_panna": "344"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "1",
+          "9",
+          "2"
+        ],
+        "close_digits": [
+          "5",
+          "0",
+          "1",
+          "2"
+        ],
+        "jodis": [
+          "90",
+          "20",
+          "45",
+          "91",
+          "40",
+          "95",
+          "41",
+          "42"
+        ],
+        "open_pannas": [
+          "338",
+          "666",
+          "138",
+          "360",
+          "167",
+          "344",
+          "128",
+          "255"
+        ],
+        "close_pannas": [
+          "138",
+          "778",
+          "550",
+          "479",
+          "480",
+          "110",
+          "122",
+          "780"
+        ]
+      }
+    },
+    "prabhat_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 9,
+        "jodi": "79",
+        "open_panna": "223",
+        "close_panna": "135"
+      },
+      "predicted": {
+        "open_digits": [
+          "1",
+          "6",
+          "3",
+          "0"
+        ],
+        "close_digits": [
+          "6",
+          "4",
+          "8",
+          "9"
+        ],
+        "jodis": [
+          "16",
+          "18",
+          "19",
+          "36",
+          "66",
+          "69",
+          "64",
+          "39"
+        ],
+        "open_pannas": [
+          "238",
+          "145",
+          "157",
+          "599",
+          "120",
+          "247",
+          "334",
+          "268"
+        ],
+        "close_pannas": [
+          "266",
+          "199",
+          "446",
+          "556",
+          "789",
+          "466",
+          "457",
+          "279"
+        ]
+      }
+    },
+    "prabhat_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 5,
+        "jodi": "05",
+        "open_panna": "578",
+        "close_panna": "456"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "3",
+          "6",
+          "8"
+        ],
+        "close_digits": [
+          "4",
+          "7",
+          "5",
+          "9"
+        ],
+        "jodis": [
+          "37",
+          "87",
+          "85",
+          "89",
+          "77",
+          "84",
+          "74",
+          "67"
+        ],
+        "open_pannas": [
+          "178",
+          "600",
+          "367",
+          "170",
+          "160",
+          "229",
+          "139",
+          "566"
+        ],
+        "close_pannas": [
+          "160",
+          "140",
+          "666",
+          "278",
+          "225",
+          "770",
+          "458",
+          "133"
+        ]
+      }
+    },
+    "raja_rani_morning_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 8,
+        "close_digit": 8,
+        "jodi": "88",
+        "open_panna": "567",
+        "close_panna": "350"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "4",
+          "3",
+          "5"
+        ],
+        "close_digits": [
+          "7",
+          "9",
+          "5",
+          "1"
+        ],
+        "jodis": [
+          "37",
+          "31",
+          "51",
+          "79",
+          "41",
+          "39",
+          "35",
+          "55"
+        ],
+        "open_pannas": [
+          "220",
+          "160",
+          "348",
+          "250",
+          "247",
+          "456",
+          "157",
+          "580"
+        ],
+        "close_pannas": [
+          "333",
+          "258",
+          "666",
+          "160",
+          "667",
+          "588",
+          "100",
+          "889"
+        ]
+      }
+    },
+    "rajdhani_day_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 7,
+        "jodi": "27",
+        "open_panna": "156",
+        "close_panna": "890"
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "2",
+          "8",
+          "7"
+        ],
+        "close_digits": [
+          "6",
+          "3",
+          "8",
+          "5"
+        ],
+        "jodis": [
+          "75",
+          "26",
+          "25",
+          "83",
+          "76",
+          "23",
+          "28",
+          "73"
+        ],
+        "open_pannas": [
+          "499",
+          "570",
+          "117",
+          "138",
+          "223",
+          "568",
+          "480",
+          "440"
+        ],
+        "close_pannas": [
+          "256",
+          "222",
+          "799",
+          "457",
+          "120",
+          "330",
+          "690",
+          "339"
+        ]
+      }
+    },
+    "rajdhani_night_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 1,
+        "jodi": "71",
+        "open_panna": "160",
+        "close_panna": "470"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "6",
+          "4",
+          "1"
+        ],
+        "close_digits": [
+          "8",
+          "1",
+          "3",
+          "7"
+        ],
+        "jodis": [
+          "11",
+          "47",
+          "41",
+          "01",
+          "07",
+          "08",
+          "67",
+          "61"
+        ],
+        "open_pannas": [
+          "236",
+          "335",
+          "479",
+          "240",
+          "169",
+          "470",
+          "367",
+          "400"
+        ],
+        "close_pannas": [
+          "777",
+          "700",
+          "120",
+          "588",
+          "111",
+          "256",
+          "579",
+          "470"
+        ]
+      }
+    },
+    "rithi_sridevi_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 8,
+        "close_digit": 4,
+        "jodi": "84",
+        "open_panna": "233",
+        "close_panna": "266"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "8",
+          "0",
+          "4"
+        ],
+        "close_digits": [
+          "9",
+          "1",
+          "8",
+          "7"
+        ],
+        "jodis": [
+          "48",
+          "87",
+          "47",
+          "07",
+          "08",
+          "09",
+          "01",
+          "58"
+        ],
+        "open_pannas": [
+          "235",
+          "446",
+          "800",
+          "258",
+          "488",
+          "118",
+          "145",
+          "459"
+        ],
+        "close_pannas": [
+          "459",
+          "100",
+          "333",
+          "450",
+          "467",
+          "225",
+          "990",
+          "135"
+        ]
+      }
+    },
+    "sivaji_night_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 4,
+        "jodi": "04",
+        "open_panna": "389",
+        "close_panna": "149"
+      },
+      "predicted": {
+        "open_digits": [
+          "2",
+          "5",
+          "0",
+          "8"
+        ],
+        "close_digits": [
+          "0",
+          "4",
+          "5",
+          "3"
+        ],
+        "jodis": [
+          "23",
+          "54",
+          "04",
+          "53",
+          "84",
+          "00",
+          "05",
+          "03"
+        ],
+        "open_pannas": [
+          "145",
+          "570",
+          "134",
+          "168",
+          "479",
+          "235",
+          "389",
+          "336"
+        ],
+        "close_pannas": [
+          "239",
+          "366",
+          "120",
+          "267",
+          "249",
+          "167",
+          "257",
+          "580"
+        ]
+      }
+    },
+    "sivaji_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 8,
+        "jodi": "58",
+        "open_panna": "267",
+        "close_panna": "125"
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "2",
+          "0",
+          "5"
+        ],
+        "close_digits": [
+          "5",
+          "7",
+          "8",
+          "0"
+        ],
+        "jodis": [
+          "97",
+          "50",
+          "27",
+          "07",
+          "08",
+          "58",
+          "57",
+          "55"
+        ],
+        "open_pannas": [
+          "200",
+          "550",
+          "780",
+          "246",
+          "778",
+          "190",
+          "230",
+          "345"
+        ],
+        "close_pannas": [
+          "278",
+          "339",
+          "340",
+          "179",
+          "189",
+          "369",
+          "566",
+          "235"
+        ]
+      }
+    },
+    "special_sridevi_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 7,
+        "jodi": "27",
+        "open_panna": "345",
+        "close_panna": "700"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "1",
+          "6",
+          "8"
+        ],
+        "close_digits": [
+          "8",
+          "1",
+          "0",
+          "3"
+        ],
+        "jodis": [
+          "48",
+          "11",
+          "18",
+          "60",
+          "40",
+          "80",
+          "61",
+          "43"
+        ],
+        "open_pannas": [
+          "448",
+          "990",
+          "358",
+          "239",
+          "440",
+          "579",
+          "330",
+          "680"
+        ],
+        "close_pannas": [
+          "125",
+          "233",
+          "137",
+          "170",
+          "244",
+          "260",
+          "116",
+          "290"
+        ]
+      }
+    },
+    "sridevi_morning_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 1,
+        "close_digit": 1,
+        "jodi": "11",
+        "open_panna": "245",
+        "close_panna": "100"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "2",
+          "1",
+          "8"
+        ],
+        "close_digits": [
+          "3",
+          "9",
+          "6",
+          "8"
+        ],
+        "jodis": [
+          "26",
+          "29",
+          "38",
+          "23",
+          "33",
+          "19",
+          "89",
+          "28"
+        ],
+        "open_pannas": [
+          "228",
+          "139",
+          "247",
+          "245",
+          "233",
+          "288",
+          "489",
+          "224"
+        ],
+        "close_pannas": [
+          "880",
+          "157",
+          "600",
+          "900",
+          "178",
+          "378",
+          "670",
+          "180"
+        ]
+      }
+    },
+    "sridevi_night_satta_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 1,
+        "jodi": "51",
+        "open_panna": "140",
+        "close_panna": "470"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "4",
+          "2",
+          "5"
+        ],
+        "close_digits": [
+          "3",
+          "4",
+          "2",
+          "1"
+        ],
+        "jodis": [
+          "53",
+          "42",
+          "52",
+          "51",
+          "41",
+          "43",
+          "44",
+          "23"
+        ],
+        "open_pannas": [
+          "140",
+          "129",
+          "266",
+          "158",
+          "390",
+          "346",
+          "130",
+          "338"
+        ],
+        "close_pannas": [
+          "678",
+          "579",
+          "489",
+          "128",
+          "146",
+          "239",
+          "480",
+          "490"
+        ]
+      }
+    },
+    "sridevi_satta_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 4,
+        "jodi": "94",
+        "open_panna": "234",
+        "close_panna": "158"
+      },
+      "predicted": {
+        "open_digits": [
+          "8",
+          "5",
+          "4",
+          "9"
+        ],
+        "close_digits": [
+          "0",
+          "2",
+          "3",
+          "7"
+        ],
+        "jodis": [
+          "43",
+          "93",
+          "47",
+          "90",
+          "83",
+          "97",
+          "87",
+          "80"
+        ],
+        "open_pannas": [
+          "189",
+          "680",
+          "667",
+          "134",
+          "234",
+          "590",
+          "889",
+          "270"
+        ],
+        "close_pannas": [
+          "890",
+          "133",
+          "570",
+          "569",
+          "390",
+          "226",
+          "377",
+          "139"
+        ]
+      }
+    },
+    "star_morning_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 3,
+        "jodi": "03",
+        "open_panna": "578",
+        "close_panna": "229"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "1",
+          "6",
+          "2"
+        ],
+        "close_digits": [
+          "2",
+          "4",
+          "1",
+          "5"
+        ],
+        "jodis": [
+          "65",
+          "24",
+          "25",
+          "61",
+          "64",
+          "42",
+          "22",
+          "62"
+        ],
+        "open_pannas": [
+          "489",
+          "679",
+          "129",
+          "290",
+          "158",
+          "248",
+          "680",
+          "239"
+        ],
+        "close_pannas": [
+          "345",
+          "356",
+          "688",
+          "590",
+          "167",
+          "499",
+          "248",
+          "660"
+        ]
+      }
+    },
+    "supreme_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 8,
+        "jodi": "78",
+        "open_panna": "449",
+        "close_panna": "288"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "3",
+          "9",
+          "1"
+        ],
+        "close_digits": [
+          "0",
+          "2",
+          "8",
+          "1"
+        ],
+        "jodis": [
+          "92",
+          "70",
+          "78",
+          "38",
+          "71",
+          "98",
+          "31",
+          "72"
+        ],
+        "open_pannas": [
+          "269",
+          "689",
+          "669",
+          "340",
+          "449",
+          "379",
+          "478",
+          "678"
+        ],
+        "close_pannas": [
+          "110",
+          "336",
+          "678",
+          "479",
+          "190",
+          "569",
+          "280",
+          "255"
+        ]
+      }
+    },
+    "supreme_night_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 8,
+        "close_digit": 0,
+        "jodi": "80",
+        "open_panna": "477",
+        "close_panna": "280"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "6",
+          "9",
+          "8"
+        ],
+        "close_digits": [
+          "0",
+          "6",
+          "9",
+          "2"
+        ],
+        "jodis": [
+          "82",
+          "90",
+          "80",
+          "32",
+          "92",
+          "60",
+          "62",
+          "30"
+        ],
+        "open_pannas": [
+          "330",
+          "556",
+          "369",
+          "900",
+          "256",
+          "577",
+          "277",
+          "114"
+        ],
+        "close_pannas": [
+          "550",
+          "333",
+          "778",
+          "589",
+          "336",
+          "568",
+          "345",
+          "360"
+        ]
+      }
+    },
+    "syndicate_night_penal_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 7,
+        "jodi": "37",
+        "open_panna": "490",
+        "close_panna": "124"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        "close_digits": [
+          "7",
+          "4",
+          "2",
+          "8"
+        ],
+        "jodis": [
+          "18",
+          "27",
+          "38",
+          "58",
+          "17",
+          "37",
+          "57",
+          "28"
+        ],
+        "open_pannas": [
+          "159",
+          "238",
+          "128",
+          "129",
+          "678",
+          "447",
+          "335",
+          "246"
+        ],
+        "close_pannas": [
+          "459",
+          "557",
+          "124",
+          "990",
+          "566",
+          "680",
+          "679",
+          "130"
+        ]
+      }
+    },
+    "time_bazar_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 9,
+        "jodi": "39",
+        "open_panna": "157",
+        "close_panna": "559"
+      },
+      "predicted": {
+        "open_digits": [
+          "6",
+          "7",
+          "1",
+          "5"
+        ],
+        "close_digits": [
+          "3",
+          "8",
+          "9",
+          "5"
+        ],
+        "jodis": [
+          "19",
+          "53",
+          "65",
+          "59",
+          "55",
+          "79",
+          "63",
+          "69"
+        ],
+        "open_pannas": [
+          "236",
+          "160",
+          "230",
+          "140",
+          "267",
+          "447",
+          "357",
+          "240"
+        ],
+        "close_pannas": [
+          "258",
+          "157",
+          "788",
+          "346",
+          "249",
+          "135",
+          "117",
+          "229"
+        ]
+      }
+    },
+    "tirtha_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 3,
+        "jodi": "23",
+        "open_panna": "390",
+        "close_panna": "157"
+      },
+      "predicted": {
+        "open_digits": [
+          "2",
+          "1",
+          "5",
+          "7"
+        ],
+        "close_digits": [
+          "7",
+          "0",
+          "5",
+          "8"
+        ],
+        "jodis": [
+          "50",
+          "78",
+          "58",
+          "28",
+          "25",
+          "77",
+          "27",
+          "20"
+        ],
+        "open_pannas": [
+          "129",
+          "456",
+          "140",
+          "557",
+          "124",
+          "499",
+          "223",
+          "447"
+        ],
+        "close_pannas": [
+          "479",
+          "566",
+          "378",
+          "233",
+          "230",
+          "369",
+          "260",
+          "134"
+        ]
+      }
+    },
+    "tirtha_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "actual": {
+        "open_digit": 2,
+        "close_digit": 9,
+        "jodi": "29",
+        "open_panna": "156",
+        "close_panna": "135"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "0",
+          "9",
+          "6"
+        ],
+        "close_digits": [
+          "9",
+          "0",
+          "7",
+          "1"
+        ],
+        "jodis": [
+          "50",
+          "69",
+          "59",
+          "51",
+          "09",
+          "61",
+          "67",
+          "60"
+        ],
+        "open_pannas": [
+          "330",
+          "230",
+          "289",
+          "899",
+          "379",
+          "388",
+          "370",
+          "123"
+        ],
+        "close_pannas": [
+          "135",
+          "890",
+          "126",
+          "136",
+          "579",
+          "557",
+          "235",
+          "669"
+        ]
+      }
+    },
+    "worli_day_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 5,
+        "jodi": "75",
+        "open_panna": "269",
+        "close_panna": "267"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "0",
+          "5",
+          "1"
+        ],
+        "close_digits": [
+          "5",
+          "0",
+          "4",
+          "7"
+        ],
+        "jodis": [
+          "55",
+          "05",
+          "37",
+          "30",
+          "34",
+          "50",
+          "15",
+          "35"
+        ],
+        "open_pannas": [
+          "146",
+          "355",
+          "334",
+          "148",
+          "238",
+          "229",
+          "578",
+          "779"
+        ],
+        "close_pannas": [
+          "334",
+          "226",
+          "230",
+          "159",
+          "780",
+          "799",
+          "136",
+          "168"
+        ]
+      }
+    }
+  }
+}
