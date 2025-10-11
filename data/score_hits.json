@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-10-11T16:21:11Z",
+  "inputs": {
+    "archived_predictions": "C:\\Users\\VCOM\\Desktop\\Kalyan_Penal_Scraper\\output\\history\\pranit.json",
+    "history_file": "C:\\Users\\VCOM\\Desktop\\Kalyan_Penal_Scraper\\all_markets_history.json"
+  },
+  "summary": {
+    "markets_scored": 50,
+    "markets_with_hits": 0,
+    "hit_counts": {
+      "open_digit": 0,
+      "close_digit": 0,
+      "jodi": 0,
+      "open_panna": 0,
+      "close_panna": 0
+    },
+    "hit_rates": {
+      "open_digit": 0.0,
+      "close_digit": 0.0,
+      "jodi": 0.0,
+      "open_panna": 0.0,
+      "close_panna": 0.0
+    }
+  },
+  "hits": {}
+}
