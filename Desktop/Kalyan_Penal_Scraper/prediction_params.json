@@ -1,0 +1,457 @@
+{
+  "_meta": {
+    "last_updated": "2025-10-13T12:48:35Z"
+  },
+  "markets": {
+    "amar_jyoti_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "bombay_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "chetak_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "chetak_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "dabra_night_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "dabra_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "dadar_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "deluxe_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "dhan_express_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "kalyan_morning_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "kalyan_night_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "kalyan_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "kanak_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "karnataka_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "karnataka_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "kbc_bombay_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "khajana_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "madhur_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "madhur_morning_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "madhur_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "maharani_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "maharani_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "maharani_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "main_bazar_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "main_bombay_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "main_ratan_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "matashri_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "milan_day_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "milan_night_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "morning_syndicate_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "prabhat_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "prabhat_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "raja_rani_morning_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "rajdhani_day_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "rajdhani_night_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "rithi_sridevi_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "sivaji_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "sivaji_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "special_sridevi_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "sridevi_morning_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "sridevi_night_satta_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "sridevi_satta_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "star_morning_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "supreme_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "supreme_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "syndicate_night_penal_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "time_bazar_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "tirtha_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "tirtha_night_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    },
+    "worli_day_panel_chart": {
+      "half_life_days": 7.0,
+      "exploration_rate": 0.3,
+      "streak_boost": 0.0,
+      "_stats": {
+        "days": 12,
+        "jodi_hits": 0
+      }
+    }
+  }
+}

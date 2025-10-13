@@ -1,0 +1,365 @@
+[
+  {
+    "market": "DELUXE_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        6,
+        8,
+        9
+      ],
+      "close_digits": [
+        9,
+        8,
+        6
+      ],
+      "open_pannas": [
+        "448",
+        "170",
+        "289"
+      ],
+      "close_pannas": [
+        "180",
+        "477",
+        "790"
+      ],
+      "jodis": [
+        "39",
+        "13",
+        "50",
+        "58",
+        "12",
+        "48"
+      ]
+    }
+  },
+  {
+    "market": "DHAN_EXPRESS_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        9,
+        4,
+        8
+      ],
+      "close_digits": [
+        4,
+        6,
+        3
+      ],
+      "open_pannas": [
+        "478",
+        "149",
+        "990"
+      ],
+      "close_pannas": [
+        "266",
+        "330",
+        "166"
+      ],
+      "jodis": [
+        "54",
+        "95",
+        "77",
+        "40",
+        "89",
+        "53"
+      ]
+    }
+  },
+  {
+    "market": "KARNATAKA_DAY_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        1,
+        2,
+        9
+      ],
+      "close_digits": [
+        9,
+        1,
+        2
+      ],
+      "open_pannas": [
+        "100",
+        "138",
+        "577"
+      ],
+      "close_pannas": [
+        "333",
+        "560",
+        "660"
+      ],
+      "jodis": [
+        "33",
+        "99",
+        "70",
+        "15",
+        "31",
+        "91"
+      ]
+    }
+  },
+  {
+    "market": "MADHUR_MORNING_PENAL_CHART",
+    "predictions": {
+      "open_digits": [
+        8,
+        2,
+        6
+      ],
+      "close_digits": [
+        9,
+        7,
+        4
+      ],
+      "open_pannas": [
+        "288",
+        "110",
+        "240"
+      ],
+      "close_pannas": [
+        "999",
+        "188",
+        "356"
+      ],
+      "jodis": [
+        "59",
+        "31",
+        "79",
+        "91",
+        "08",
+        "24"
+      ]
+    }
+  },
+  {
+    "market": "MATASHRI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        0,
+        1,
+        6
+      ],
+      "close_digits": [
+        8,
+        6,
+        3
+      ],
+      "open_pannas": [
+        "668",
+        "678",
+        "556"
+      ],
+      "close_pannas": [
+        "567",
+        "556",
+        "788"
+      ],
+      "jodis": [
+        "50",
+        "94",
+        "02",
+        "41",
+        "75",
+        "13"
+      ]
+    }
+  },
+  {
+    "market": "RAJA_RANI_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        0,
+        9,
+        7
+      ],
+      "close_digits": [
+        2,
+        9,
+        8
+      ],
+      "open_pannas": [
+        "460",
+        "289",
+        "566"
+      ],
+      "close_pannas": [
+        "147",
+        "126",
+        "134"
+      ],
+      "jodis": [
+        "70",
+        "40",
+        "09",
+        "91",
+        "84",
+        "81"
+      ]
+    }
+  },
+  {
+    "market": "SIVAJI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        2,
+        6,
+        3
+      ],
+      "close_digits": [
+        5,
+        3,
+        9
+      ],
+      "open_pannas": [
+        "200",
+        "880",
+        "256"
+      ],
+      "close_pannas": [
+        "230",
+        "779",
+        "199"
+      ],
+      "jodis": [
+        "31",
+        "25",
+        "60",
+        "10",
+        "13",
+        "26"
+      ]
+    }
+  },
+  {
+    "market": "SPECIAL_SRIDEVI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        1,
+        2,
+        7
+      ],
+      "close_digits": [
+        9,
+        5,
+        4
+      ],
+      "open_pannas": [
+        "128",
+        "255",
+        "557"
+      ],
+      "close_pannas": [
+        "577",
+        "780",
+        "220"
+      ],
+      "jodis": [
+        "18",
+        "25",
+        "23",
+        "85",
+        "46",
+        "79"
+      ]
+    }
+  },
+  {
+    "market": "SRIDEVI_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        2,
+        5,
+        9
+      ],
+      "close_digits": [
+        8,
+        1,
+        6
+      ],
+      "open_pannas": [
+        "480",
+        "140",
+        "388"
+      ],
+      "close_pannas": [
+        "279",
+        "155",
+        "150"
+      ],
+      "jodis": [
+        "31",
+        "96",
+        "81",
+        "48",
+        "11",
+        "23"
+      ]
+    }
+  },
+  {
+    "market": "SRIDEVI_SATTA_PENAL_CHART",
+    "predictions": {
+      "open_digits": [
+        8,
+        7,
+        9
+      ],
+      "close_digits": [
+        1,
+        8,
+        2
+      ],
+      "open_pannas": [
+        "468",
+        "124",
+        "450"
+      ],
+      "close_pannas": [
+        "290",
+        "800",
+        "129"
+      ],
+      "jodis": [
+        "66",
+        "08",
+        "40",
+        "29",
+        "70",
+        "69"
+      ]
+    }
+  },
+  {
+    "market": "STAR_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        5,
+        1,
+        4
+      ],
+      "close_digits": [
+        3,
+        7,
+        0
+      ],
+      "open_pannas": [
+        "168",
+        "100",
+        "257"
+      ],
+      "close_pannas": [
+        "139",
+        "160",
+        "569"
+      ],
+      "jodis": [
+        "10",
+        "73",
+        "75",
+        "14",
+        "54",
+        "93"
+      ]
+    }
+  }
+]

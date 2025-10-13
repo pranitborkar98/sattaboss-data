@@ -1,0 +1,65 @@
+{
+  "DHAN_EXPRESS_PANEL_CHART": {
+    "Open Digit": 4,
+    "Close Digit": 4,
+    "Jodi": 47,
+    "Open Panna": 332,
+    "Close Panna": 350
+  },
+  "KARNATAKA_DAY_PANEL_CHART": {
+    "Open Digit": 4,
+    "Close Digit": 4,
+    "Jodi": 48,
+    "Open Panna": 380,
+    "Close Panna": 369
+  },
+  "MADHUR_MORNING_PENAL_CHART": {
+    "Open Digit": 5,
+    "Close Digit": 5,
+    "Jodi": 52,
+    "Open Panna": 359,
+    "Close Panna": 379
+  },
+  "RAJA_RANI_MORNING_PANEL_CHART": {
+    "Open Digit": 5,
+    "Close Digit": 4,
+    "Jodi": 54,
+    "Open Panna": 333,
+    "Close Panna": 398
+  },
+  "SIVAJI_PANEL_CHART": {
+    "Open Digit": 4,
+    "Close Digit": 4,
+    "Jodi": 49,
+    "Open Panna": 324,
+    "Close Panna": 303
+  },
+  "SPECIAL_SRIDEVI_PANEL_CHART": {
+    "Open Digit": 5,
+    "Close Digit": 7,
+    "Jodi": 55,
+    "Open Panna": 218,
+    "Close Panna": 262
+  },
+  "SRIDEVI_MORNING_PANEL_CHART": {
+    "Open Digit": 5,
+    "Close Digit": 4,
+    "Jodi": 50,
+    "Open Panna": 446,
+    "Close Panna": 220
+  },
+  "SRIDEVI_SATTA_PENAL_CHART": {
+    "Open Digit": 4,
+    "Close Digit": 5,
+    "Jodi": 50,
+    "Open Panna": 363,
+    "Close Panna": 373
+  },
+  "STAR_MORNING_PANEL_CHART": {
+    "Open Digit": 4,
+    "Close Digit": 5,
+    "Jodi": 46,
+    "Open Panna": 329,
+    "Close Panna": 339
+  }
+}

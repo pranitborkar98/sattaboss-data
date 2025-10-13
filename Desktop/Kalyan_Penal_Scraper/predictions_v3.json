@@ -1,0 +1,376 @@
+[
+  {
+    "market": "DELUXE_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        4,
+        9,
+        1
+      ],
+      "close_digits": [
+        6,
+        1,
+        8
+      ],
+      "open_pannas": [
+        "112",
+        "667",
+        "245"
+      ],
+      "close_pannas": [
+        "150",
+        "100",
+        "567"
+      ],
+      "jodis": [
+        "48",
+        "92",
+        "81",
+        "39",
+        "87",
+        "50"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "DHAN_EXPRESS_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        8,
+        9,
+        4
+      ],
+      "close_digits": [
+        4,
+        5,
+        3
+      ],
+      "open_pannas": [
+        "558",
+        "999",
+        "338"
+      ],
+      "close_pannas": [
+        "248",
+        "267",
+        "490"
+      ],
+      "jodis": [
+        "53",
+        "30",
+        "89",
+        "95",
+        "54",
+        "76"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "KARNATAKA_DAY_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        9,
+        1,
+        2
+      ],
+      "close_digits": [
+        1,
+        0,
+        2
+      ],
+      "open_pannas": [
+        "999",
+        "290",
+        "480"
+      ],
+      "close_pannas": [
+        "588",
+        "479",
+        "480"
+      ],
+      "jodis": [
+        "60",
+        "31",
+        "40",
+        "70",
+        "99",
+        "15"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "MADHUR_MORNING_PENAL_CHART",
+    "predictions": {
+      "open_digits": [
+        3,
+        2,
+        6
+      ],
+      "close_digits": [
+        1,
+        9,
+        7
+      ],
+      "open_pannas": [
+        "238",
+        "660",
+        "330"
+      ],
+      "close_pannas": [
+        "579",
+        "289",
+        "458"
+      ],
+      "jodis": [
+        "21",
+        "91",
+        "81",
+        "31",
+        "59",
+        "79"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "MATASHRI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        0,
+        6,
+        1
+      ],
+      "close_digits": [
+        4,
+        3,
+        0
+      ],
+      "open_pannas": [
+        "370",
+        "448",
+        "335"
+      ],
+      "close_pannas": [
+        "699",
+        "157",
+        "299"
+      ],
+      "jodis": [
+        "19",
+        "13",
+        "02",
+        "41",
+        "75",
+        "94"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "RAJA_RANI_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        8,
+        7,
+        4
+      ],
+      "close_digits": [
+        2,
+        9,
+        1
+      ],
+      "open_pannas": [
+        "350",
+        "188",
+        "248"
+      ],
+      "close_pannas": [
+        "660",
+        "379",
+        "146"
+      ],
+      "jodis": [
+        "20",
+        "40",
+        "84",
+        "70",
+        "09",
+        "02"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "SIVAJI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        2,
+        5,
+        1
+      ],
+      "close_digits": [
+        7,
+        3,
+        0
+      ],
+      "open_pannas": [
+        "345",
+        "249",
+        "588"
+      ],
+      "close_pannas": [
+        "269",
+        "445",
+        "677"
+      ],
+      "jodis": [
+        "10",
+        "89",
+        "26",
+        "14",
+        "62",
+        "13"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "SPECIAL_SRIDEVI_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        2,
+        3,
+        1
+      ],
+      "close_digits": [
+        3,
+        4,
+        6
+      ],
+      "open_pannas": [
+        "390",
+        "229",
+        "119"
+      ],
+      "close_pannas": [
+        "300",
+        "347",
+        "790"
+      ],
+      "jodis": [
+        "39",
+        "85",
+        "86",
+        "18",
+        "42",
+        "46"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "SRIDEVI_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        3,
+        4,
+        5
+      ],
+      "close_digits": [
+        1,
+        3,
+        5
+      ],
+      "open_pannas": [
+        "779",
+        "770",
+        "140"
+      ],
+      "close_pannas": [
+        "399",
+        "148",
+        "339"
+      ],
+      "jodis": [
+        "48",
+        "28",
+        "96",
+        "59",
+        "23",
+        "65"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "SRIDEVI_SATTA_PENAL_CHART",
+    "predictions": {
+      "open_digits": [
+        7,
+        0,
+        8
+      ],
+      "close_digits": [
+        1,
+        0,
+        9
+      ],
+      "open_pannas": [
+        "133",
+        "389",
+        "369"
+      ],
+      "close_pannas": [
+        "137",
+        "488",
+        "117"
+      ],
+      "jodis": [
+        "66",
+        "29",
+        "69",
+        "08",
+        "59",
+        "98"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  },
+  {
+    "market": "STAR_MORNING_PANEL_CHART",
+    "predictions": {
+      "open_digits": [
+        5,
+        1,
+        6
+      ],
+      "close_digits": [
+        9,
+        3,
+        0
+      ],
+      "open_pannas": [
+        "339",
+        "155",
+        "114"
+      ],
+      "close_pannas": [
+        "289",
+        "157",
+        "389"
+      ],
+      "jodis": [
+        "18",
+        "50",
+        "54",
+        "20",
+        "60",
+        "10"
+      ]
+    },
+    "logic": "fake-repeat trap based on history counters"
+  }
+]
