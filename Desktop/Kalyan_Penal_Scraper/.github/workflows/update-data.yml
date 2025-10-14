@@ -1,0 +1,22 @@
+﻿name: update-data
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Run pipeline
+        run: python3 data/run_full_pipeline.py
+      - name: Commit outputs
+        run: |
+          git add sattaboss-data/data/*.json || true
+          if ! git diff --cached --quiet; then git commit -m "auto updates"; git push origin master; fi
