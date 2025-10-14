@@ -1,22 +1,51 @@
 ﻿name: update-data
+
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # runs daily at 02:00 UTC
+
 permissions:
   contents: write
+
 jobs:
-  build:
+  build-and-push:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo (persist credentials)
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
-      - uses: actions/setup-python@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - name: Run pipeline
-        run: python3 data/run_full_pipeline.py
-      - name: Commit outputs
+
+      - name: Run full pipeline (from repo root)
         run: |
-          git add sattaboss-data/data/*.json || true
-          if ! git diff --cached --quiet; then git commit -m "auto updates"; git push origin master; fi
+          set -euo pipefail
+          pwd
+          ls -la
+          ls -la sattaboss-data || true
+          python3 data/run_full_pipeline.py
+
+      - name: Commit & push updated JSON files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sattaboss-data/data/todays_predictions.json \
+                  sattaboss-data/data/yesterday_results.json \
+                  sattaboss-data/data/prediction_score_report.json \
+                  sattaboss-data/data/score_hits.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: automated JSON update (from pipeline)"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi
