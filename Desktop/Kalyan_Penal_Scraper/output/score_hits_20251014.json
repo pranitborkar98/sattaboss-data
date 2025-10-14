@@ -22,7 +22,7 @@
       "close_panna": 0.92
     }
   },
-  "markets": {
+  "hits": {
     "amar_jyoti_penal_chart": {
       "hits": {
         "open_digit": true,
@@ -2077,65 +2077,6 @@
           "138",
           "480",
           "780"
-        ]
-      }
-    },
-    "morning_syndicate_penal_chart": {
-      "hits": {
-        "open_digit": false,
-        "close_digit": false,
-        "jodi": false,
-        "open_panna": false,
-        "close_panna": false
-      },
-      "family_hit": false,
-      "matched_families": [],
-      "line_predicted": null,
-      "line_match": null,
-      "any_hit": false,
-      "actual": {
-        "open_digit": 4,
-        "close_digit": 4,
-        "jodi": "89",
-        "open_panna": "112",
-        "close_panna": "590"
-      },
-      "predicted": {
-        "open_digits": [
-          "5",
-          "2",
-          "1"
-        ],
-        "close_digits": [
-          "8",
-          "9",
-          "1"
-        ],
-        "jodis": [
-          "28",
-          "18",
-          "59",
-          "21",
-          "29",
-          "58"
-        ],
-        "open_pannas": [
-          "100",
-          "378",
-          "558",
-          "577",
-          "348",
-          "880",
-          "568"
-        ],
-        "close_pannas": [
-          "100",
-          "129",
-          "234",
-          "690",
-          "567",
-          "344",
-          "469"
         ]
       }
     },
