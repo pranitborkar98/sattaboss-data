@@ -30,6 +30,7 @@ jobs:
           pwd
           ls -la
           ls -la sattaboss-data || true
+          find . -maxdepth 4 -name "todays_predictions.json" || true
           python3 data/run_full_pipeline.py
 
       - name: Commit & push updated JSON files
