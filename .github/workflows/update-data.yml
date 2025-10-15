@@ -1,69 +1,125 @@
-# .github/workflows/update-data.yml
 name: update-data
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'  # runs daily at 02:00 UTC
+    - cron: '0 2 * * *'  # daily at 02:00 UTC
 
 permissions:
   contents: write
 
 jobs:
-  build-and-push:
+  build-and-publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo (persist credentials, full history)
+      - name: Checkout (full history)
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Run full pipeline (from repo root)
+      - name: Show workspace (debug)
+        run: |
+          echo "PWD: $(pwd)"
+          ls -la || true
+
+      - name: Run prediction pipeline
+        id: run-pipeline
         run: |
           set -euo pipefail
-          # attempt to run the pipeline from the repo root (adjust if your entrypoint differs)
-          python3 data/run_full_pipeline.py || python3 Desktop/Kalyan_Penal_Scraper/run_full_pipeline.py || true
+          # Try repo-root entrypoints; adjust if needed
+          if python3 data/run_full_pipeline.py; then
+            echo "pipeline=ran-from-data" >> $GITHUB_OUTPUT
+          elif python3 Desktop/Kalyan_Penal_Scraper/run_full_pipeline.py; then
+            echo "pipeline=ran-from-desktop" >> $GITHUB_OUTPUT
+          else
+            echo "pipeline=failed" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: false
 
-      - name: Find generated JSON files and copy into sattaboss-data/data/
+      - name: Find generated JSON files
+        id: find
+        run: |
+          set -euo pipefail
+          # Look for expected output names and save to file
+          find . -type f \( -iname "todays_predictions.json" -o -iname "prediction_score_report.json" -o -iname "score_hits.json" -o -iname "yesterday_results.json" \) -print > found_paths.txt || true
+          echo "Found files:"
+          cat found_paths.txt || true
+          paths=$(paste -sd "|" found_paths.txt || true)
+          echo "paths=$paths" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Ensure target data folder
         run: |
           set -euo pipefail
           mkdir -p sattaboss-data/data
-          # look for likely output files and copy them into the expected folder
-          find . -type f \( -iname "todays_predictions.json" -o -iname "prediction_score_report.json" -o -iname "score_hits.json" -o -iname "yesterday_results.json" \) -print | tee found_paths.txt || true
-          while read -r p; do
-            if [ -n "$p" ]; then
-              echo "Copying $p -> sattaboss-data/data/$(basename "$p")"
-              cp -f "$p" "sattaboss-data/data/$(basename "$p")" || echo "copy failed for $p"
-            fi
-          done < found_paths.txt || true
-          ls -la sattaboss-data/data || true
+          ls -la sattaboss-data || true
 
-      - name: Commit copied files to a new branch (safe - does not update main)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Copy discovered files into sattaboss-data/data/
         run: |
           set -euo pipefail
-          now=$(date -u +"%Y%m%d_%H%M%S")
-          branch="fix/data-update-$now"
-          git checkout -b "$branch"
-          git add sattaboss-data/data/*.json || true
-          if ! git diff --cached --quiet; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git commit -m "chore: copy generated JSONs into sattaboss-data/data/ (diagnostic) [$now]"
-            git push --set-upstream origin "$branch"
-            echo "BRANCH_PUSHED::$branch"
+          if [ -f found_paths.txt ] && [ -s found_paths.txt ]; then
+            while IFS= read -r p; do
+              if [ -n "$p" ]; then
+                fname=$(basename "$p")
+                echo "Copying $p -> sattaboss-data/data/$fname"
+                cp -f "$p" "sattaboss-data/data/$fname" || (echo "copy failed for $p" && exit 1)
+              fi
+            done < found_paths.txt
           else
-            echo "NO_FILES_TO_COMMIT"
+            echo "No discovered JSON files to copy."
           fi
+          echo "Files now in sattaboss-data/data:"
+          ls -la sattaboss-data/data || true
 
-      - name: Upload found_paths.txt as artifact
+      - name: Create or update pull request with JSON changes
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: chore: update generated JSONs
+          committer: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          branch: data-update
+          base: main
+          title: "Automated data update: todays_predictions / score report"
+          body: |
+            This PR updates the generated JSONs (todays_predictions, prediction_score_report, score_hits, etc.)
+            - Generated by workflow: ${{ github.workflow }}
+            - Run: ${{ github.run_id }}
+          labels: automated, data-update
+          # If you prefer the action to update an existing PR (same branch), it will do so.
+
+      # Optional: auto-merge the PR if you want fully automated deploys
+      # - name: Auto-merge the PR (optional)
+      #   if: steps.find.outputs.paths != ''
+      #   uses: actions/github-script@v6
+      #   with:
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
+      #     script: |
+      #       const owner = context.repo.owner;
+      #       const repo = context.repo.repo;
+      #       // find open PR with head 'data-update' and merge with 'merge' method if mergeable
+      #       const { data: pulls } = await github.rest.pulls.list({
+      #         owner, repo, head: `${owner}:data-update`, state: 'open'
+      #       });
+      #       if (pulls.length > 0) {
+      #         const pr = pulls[0];
+      #         if (pr.mergeable) {
+      #           await github.rest.pulls.merge({ owner, repo, pull_number: pr.number, merge_method: 'merge' });
+      #           console.log(`Merged PR #${pr.number}`);
+      #         } else {
+      #           console.log(`PR #${pr.number} not mergeable now (wait).`);
+      #         }
+      #       } else {
+      #         console.log('No open PR to auto-merge.');
+      #       }
+
+      - name: Upload found_paths.txt artifact (for debugging / audit)
         uses: actions/upload-artifact@v4
         with:
           name: found-paths
