@@ -1,0 +1,70 @@
+# .github/workflows/update-data.yml
+name: update-data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # runs daily at 02:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (persist credentials, full history)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run full pipeline (from repo root)
+        run: |
+          set -euo pipefail
+          # attempt to run the pipeline from the repo root (adjust if your entrypoint differs)
+          python3 data/run_full_pipeline.py || python3 Desktop/Kalyan_Penal_Scraper/run_full_pipeline.py || true
+
+      - name: Find generated JSON files and copy into sattaboss-data/data/
+        run: |
+          set -euo pipefail
+          mkdir -p sattaboss-data/data
+          # look for likely output files and copy them into the expected folder
+          find . -type f \( -iname "todays_predictions.json" -o -iname "prediction_score_report.json" -o -iname "score_hits.json" -o -iname "yesterday_results.json" \) -print | tee found_paths.txt || true
+          while read -r p; do
+            if [ -n "$p" ]; then
+              echo "Copying $p -> sattaboss-data/data/$(basename "$p")"
+              cp -f "$p" "sattaboss-data/data/$(basename "$p")" || echo "copy failed for $p"
+            fi
+          done < found_paths.txt || true
+          ls -la sattaboss-data/data || true
+
+      - name: Commit copied files to a new branch (safe - does not update main)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          now=$(date -u +"%Y%m%d_%H%M%S")
+          branch="fix/data-update-$now"
+          git checkout -b "$branch"
+          git add sattaboss-data/data/*.json || true
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: copy generated JSONs into sattaboss-data/data/ (diagnostic) [$now]"
+            git push --set-upstream origin "$branch"
+            echo "BRANCH_PUSHED::$branch"
+          else
+            echo "NO_FILES_TO_COMMIT"
+          fi
+
+      - name: Upload found_paths.txt as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: found-paths
+          path: found_paths.txt
