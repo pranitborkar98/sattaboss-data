@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-10-16T08:19:18.309526Z",
+  "pred_only_count": 0,
+  "yest_only_count": 1,
+  "pred_only_sample": [],
+  "yest_only_sample": [
+    "yesterday_single_market"
+  ]
+}

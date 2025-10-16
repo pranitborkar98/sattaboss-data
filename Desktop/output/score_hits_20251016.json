@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-10-16T08:19:18Z",
+  "inputs": {
+    "predictions_path": "C:\\Users\\VCOM\\Desktop\\sattaboss-data\\data\\todays_predictions.json",
+    "yesterday_path": "C:\\Users\\VCOM\\Desktop\\output\\yesterday_results.json"
+  },
+  "summary": {
+    "markets_scored": 0,
+    "markets_with_hits": 0,
+    "hit_counts": {
+      "open_digit": 0,
+      "close_digit": 0,
+      "jodi": 0,
+      "open_panna": 0,
+      "close_panna": 0
+    },
+    "hit_rates": {
+      "open_digit": 0.0,
+      "close_digit": 0.0,
+      "jodi": 0.0,
+      "open_panna": 0.0,
+      "close_panna": 0.0
+    }
+  },
+  "hits": {}
+}
