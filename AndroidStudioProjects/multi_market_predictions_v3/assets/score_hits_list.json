@@ -49,7 +49,7 @@
     "actual": {
       "open_digit": 9,
       "close_digit": 9,
-      "jodi": "49",
+      "jodi": "20",
       "open_panna": "112",
       "close_panna": "115"
     },
@@ -61,7 +61,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": false,
+      "jodi": true,
       "open_panna": true,
       "close_panna": true
     },
@@ -106,7 +106,7 @@
     "actual": {
       "open_digit": 1,
       "close_digit": 7,
-      "jodi": "95",
+      "jodi": "97",
       "open_panna": "113",
       "close_panna": "777"
     },
@@ -163,7 +163,7 @@
     "actual": {
       "open_digit": 8,
       "close_digit": 4,
-      "jodi": "92",
+      "jodi": "99",
       "open_panna": "100",
       "close_panna": "112"
     },
@@ -220,7 +220,7 @@
     "actual": {
       "open_digit": 7,
       "close_digit": 1,
-      "jodi": "47",
+      "jodi": "75",
       "open_panna": "116",
       "close_panna": "113"
     },
@@ -277,7 +277,7 @@
     "actual": {
       "open_digit": 9,
       "close_digit": 2,
-      "jodi": "12",
+      "jodi": "42",
       "open_panna": "100",
       "close_panna": "110"
     },
@@ -334,7 +334,7 @@
     "actual": {
       "open_digit": 3,
       "close_digit": 0,
-      "jodi": "30",
+      "jodi": "80",
       "open_panna": "113",
       "close_panna": "100"
     },
@@ -346,7 +346,7 @@
     "hits": {
       "open_digit": false,
       "close_digit": false,
-      "jodi": true,
+      "jodi": false,
       "open_panna": true,
       "close_panna": false
     },
@@ -391,7 +391,7 @@
     "actual": {
       "open_digit": 8,
       "close_digit": 1,
-      "jodi": "39",
+      "jodi": "34",
       "open_panna": "777",
       "close_panna": "112"
     },
@@ -448,7 +448,7 @@
     "actual": {
       "open_digit": 8,
       "close_digit": 2,
-      "jodi": "82",
+      "jodi": "22",
       "open_panna": "110",
       "close_panna": "777"
     },
@@ -505,7 +505,7 @@
     "actual": {
       "open_digit": 5,
       "close_digit": 0,
-      "jodi": "48",
+      "jodi": "49",
       "open_panna": "112",
       "close_panna": "199"
     },
@@ -517,7 +517,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": false,
+      "jodi": true,
       "open_panna": true,
       "close_panna": true
     },
@@ -562,7 +562,7 @@
     "actual": {
       "open_digit": 5,
       "close_digit": 0,
-      "jodi": null,
+      "jodi": "43",
       "open_panna": "112",
       "close_panna": "110"
     },
@@ -574,7 +574,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": true,
+      "jodi": false,
       "open_panna": true,
       "close_panna": true
     },
@@ -619,7 +619,7 @@
     "actual": {
       "open_digit": 6,
       "close_digit": 0,
-      "jodi": "60",
+      "jodi": "27",
       "open_panna": "110",
       "close_panna": "115"
     },
@@ -676,7 +676,7 @@
     "actual": {
       "open_digit": 1,
       "close_digit": 1,
-      "jodi": "86",
+      "jodi": "81",
       "open_panna": "888",
       "close_panna": "888"
     },
@@ -733,7 +733,7 @@
     "actual": {
       "open_digit": 8,
       "close_digit": 8,
-      "jodi": "77",
+      "jodi": "88",
       "open_panna": "378",
       "close_panna": "128"
     },
@@ -790,7 +790,7 @@
     "actual": {
       "open_digit": 6,
       "close_digit": 8,
-      "jodi": "68",
+      "jodi": "69",
       "open_panna": "110",
       "close_panna": "888"
     },
@@ -847,7 +847,7 @@
     "actual": {
       "open_digit": 0,
       "close_digit": 9,
-      "jodi": "20",
+      "jodi": "30",
       "open_panna": "110",
       "close_panna": "270"
     },
@@ -859,7 +859,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": false,
+      "jodi": true,
       "open_panna": true,
       "close_panna": true
     },
@@ -904,7 +904,7 @@
     "actual": {
       "open_digit": 2,
       "close_digit": 0,
-      "jodi": "30",
+      "jodi": "23",
       "open_panna": "100",
       "close_panna": "110"
     },
@@ -1018,7 +1018,7 @@
     "actual": {
       "open_digit": 5,
       "close_digit": 1,
-      "jodi": "65",
+      "jodi": "15",
       "open_panna": "100",
       "close_panna": "113"
     },
@@ -1030,7 +1030,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": true,
+      "jodi": false,
       "open_panna": true,
       "close_panna": true
     },
@@ -1075,7 +1075,7 @@
     "actual": {
       "open_digit": 2,
       "close_digit": 3,
-      "jodi": "75",
+      "jodi": "73",
       "open_panna": "888",
       "close_panna": "160"
     },
@@ -1087,7 +1087,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": false,
+      "jodi": true,
       "open_panna": false,
       "close_panna": true
     },
@@ -1132,7 +1132,7 @@
     "actual": {
       "open_digit": 5,
       "close_digit": 1,
-      "jodi": "55",
+      "jodi": "51",
       "open_panna": "115",
       "close_panna": "100"
     },
@@ -1189,7 +1189,7 @@
     "actual": {
       "open_digit": 9,
       "close_digit": 8,
-      "jodi": "89",
+      "jodi": "69",
       "open_panna": "888",
       "close_panna": "112"
     },
@@ -1201,7 +1201,7 @@
     "hits": {
       "open_digit": true,
       "close_digit": true,
-      "jodi": false,
+      "jodi": true,
       "open_panna": true,
       "close_panna": true
     },
@@ -1246,7 +1246,7 @@
     "actual": {
       "open_digit": 5,
       "close_digit": 4,
-      "jodi": "70",
+      "jodi": "44",
       "open_panna": "112",
       "close_panna": "112"
     },
@@ -1303,7 +1303,7 @@
     "actual": {
       "open_digit": 6,
       "close_digit": 4,
-      "jodi": "14",
+      "jodi": "64",
       "open_panna": "100",
       "close_panna": "100"
     },
@@ -1360,7 +1360,7 @@
     "actual": {
       "open_digit": 9,
       "close_digit": 3,
-      "jodi": "90",
+      "jodi": null,
       "open_panna": "112",
       "close_panna": "112"
     },
