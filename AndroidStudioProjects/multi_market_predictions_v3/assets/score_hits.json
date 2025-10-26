@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T16:54:00Z",
+  "generated_at": "2025-10-26T18:21:43Z",
   "hits": [
     {
       "market": "amar_jyoti_penal_chart",
@@ -51,7 +51,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 9,
-        "jodi": "97",
+        "jodi": "40",
         "open_panna": "112",
         "close_panna": "115"
       },
@@ -108,7 +108,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "10",
+        "jodi": "48",
         "open_panna": "112",
         "close_panna": "558"
       },
@@ -120,7 +120,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -165,7 +165,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 7,
-        "jodi": "17",
+        "jodi": "53",
         "open_panna": "113",
         "close_panna": "777"
       },
@@ -336,7 +336,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 7,
-        "jodi": "75",
+        "jodi": "85",
         "open_panna": "116",
         "close_panna": "113"
       },
@@ -393,7 +393,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 2,
-        "jodi": "10",
+        "jodi": "40",
         "open_panna": "100",
         "close_panna": "110"
       },
@@ -450,7 +450,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 0,
-        "jodi": "51",
+        "jodi": "80",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -462,7 +462,7 @@
       "hits": {
         "open_digit": false,
         "close_digit": false,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": false
       },
@@ -507,7 +507,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 4,
-        "jodi": "89",
+        "jodi": "39",
         "open_panna": "777",
         "close_panna": "112"
       },
@@ -564,7 +564,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 5,
-        "jodi": "91",
+        "jodi": "95",
         "open_panna": "112",
         "close_panna": "100"
       },
@@ -576,7 +576,7 @@
       "hits": {
         "open_digit": false,
         "close_digit": false,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -621,7 +621,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 2,
-        "jodi": "29",
+        "jodi": "23",
         "open_panna": "110",
         "close_panna": "777"
       },
@@ -690,7 +690,7 @@
       "hits": {
         "open_digit": false,
         "close_digit": false,
-        "jodi": false,
+        "jodi": true,
         "open_panna": false,
         "close_panna": true
       },
@@ -735,7 +735,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 0,
-        "jodi": "87",
+        "jodi": "93",
         "open_panna": "777",
         "close_panna": "777"
       },
@@ -849,7 +849,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 0,
-        "jodi": "34",
+        "jodi": "60",
         "open_panna": "110",
         "close_panna": "115"
       },
@@ -906,7 +906,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 1,
-        "jodi": "81",
+        "jodi": "86",
         "open_panna": "888",
         "close_panna": "888"
       },
@@ -1018,11 +1018,11 @@
         ]
       },
       "actual": {
-        "open_digit": 8,
+        "open_digit": 9,
         "close_digit": 8,
-        "jodi": "87",
-        "open_panna": "116",
-        "close_panna": "234"
+        "jodi": "79",
+        "open_panna": "112",
+        "close_panna": "159"
       },
       "family_hit": false,
       "line_match": null
@@ -1077,7 +1077,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 8,
-        "jodi": "29",
+        "jodi": "26",
         "open_panna": "110",
         "close_panna": "888"
       },
@@ -1134,7 +1134,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 9,
-        "jodi": "28",
+        "jodi": "09",
         "open_panna": "110",
         "close_panna": "270"
       },
@@ -1191,7 +1191,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "32",
+        "jodi": "23",
         "open_panna": "100",
         "close_panna": "110"
       },
@@ -1248,7 +1248,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 2,
-        "jodi": "02",
+        "jodi": "46",
         "open_panna": "112",
         "close_panna": "149"
       },
@@ -1305,7 +1305,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "10",
+        "jodi": "15",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -1317,7 +1317,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1362,7 +1362,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 3,
-        "jodi": "77",
+        "jodi": "27",
         "open_panna": "888",
         "close_panna": "160"
       },
@@ -1419,7 +1419,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "71",
+        "jodi": "75",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -1476,7 +1476,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 8,
-        "jodi": "98",
+        "jodi": "88",
         "open_panna": "888",
         "close_panna": "112"
       },
@@ -1590,7 +1590,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 4,
-        "jodi": "14",
+        "jodi": "64",
         "open_panna": "100",
         "close_panna": "100"
       },
@@ -1602,7 +1602,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1647,7 +1647,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 3,
-        "jodi": null,
+        "jodi": "44",
         "open_panna": "112",
         "close_panna": "112"
       },
