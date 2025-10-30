@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-10-30T00:33:52Z",
+  "generated_at": "2025-10-30T01:12:25Z",
   "hits": [
     {
       "market": "amar_jyoti_penal_chart",
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -22,12 +22,12 @@
           "0"
         ],
         "jodis": [
-          "40",
-          "99",
-          "27",
-          "49",
           "47",
-          "20"
+          "97",
+          "99",
+          "40",
+          "90",
+          "29"
         ],
         "open_pannas": [
           "112",
@@ -51,7 +51,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 9,
-        "jodi": "90",
+        "jodi": "40",
         "open_panna": "112",
         "close_panna": "115"
       },
@@ -63,7 +63,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -79,12 +79,12 @@
           "7"
         ],
         "jodis": [
-          "48",
-          "17",
-          "40",
-          "18",
+          "47",
           "90",
-          "97"
+          "98",
+          "40",
+          "97",
+          "48"
         ],
         "open_pannas": [
           "112",
@@ -108,7 +108,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "47",
+        "jodi": "48",
         "open_panna": "112",
         "close_panna": "558"
       },
@@ -136,12 +136,12 @@
           "3"
         ],
         "jodis": [
-          "93",
           "97",
-          "95",
-          "15",
+          "17",
           "53",
-          "13"
+          "55",
+          "95",
+          "15"
         ],
         "open_pannas": [
           "113",
@@ -165,7 +165,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 7,
-        "jodi": "55",
+        "jodi": "93",
         "open_panna": "113",
         "close_panna": "777"
       },
@@ -194,11 +194,11 @@
         ],
         "jodis": [
           "99",
-          "82",
+          "92",
+          "94",
           "69",
-          "89",
-          "62",
-          "92"
+          "64",
+          "62"
         ],
         "open_pannas": [
           "100",
@@ -222,7 +222,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 4,
-        "jodi": "92",
+        "jodi": "99",
         "open_panna": "100",
         "close_panna": "112"
       },
@@ -250,12 +250,12 @@
           "6"
         ],
         "jodis": [
-          "64",
           "56",
-          "62",
-          "54",
+          "04",
+          "64",
+          "52",
           "06",
-          "04"
+          "02"
         ],
         "open_pannas": [
           "479",
@@ -307,11 +307,11 @@
           "3"
         ],
         "jodis": [
-          "03",
-          "66",
-          "61",
-          "06",
           "93",
+          "66",
+          "03",
+          "91",
+          "06",
           "96"
         ],
         "open_pannas": [
@@ -336,7 +336,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 6,
-        "jodi": "66",
+        "jodi": "03",
         "open_panna": "888",
         "close_panna": "777"
       },
@@ -348,7 +348,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -364,12 +364,12 @@
           "1"
         ],
         "jodis": [
-          "91",
-          "68",
-          "94",
           "61",
+          "94",
           "81",
-          "88"
+          "68",
+          "98",
+          "64"
         ],
         "open_pannas": [
           "116",
@@ -405,7 +405,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -422,11 +422,11 @@
         ],
         "jodis": [
           "80",
+          "82",
           "40",
-          "90",
+          "89",
           "92",
-          "99",
-          "82"
+          "42"
         ],
         "open_pannas": [
           "112",
@@ -450,7 +450,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "49",
+        "jodi": "80",
         "open_panna": "112",
         "close_panna": "110"
       },
@@ -478,12 +478,12 @@
           "8"
         ],
         "jodis": [
-          "74",
-          "03",
-          "04",
-          "44",
           "08",
-          "78"
+          "43",
+          "04",
+          "78",
+          "74",
+          "73"
         ],
         "open_pannas": [
           "118",
@@ -507,7 +507,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 3,
-        "jodi": "44",
+        "jodi": "74",
         "open_panna": "118",
         "close_panna": "112"
       },
@@ -535,12 +535,12 @@
           "0"
         ],
         "jodis": [
+          "22",
           "95",
           "25",
           "90",
-          "35",
-          "30",
-          "32"
+          "32",
+          "92"
         ],
         "open_pannas": [
           "777",
@@ -592,12 +592,12 @@
           "3"
         ],
         "jodis": [
-          "38",
-          "03",
-          "68",
-          "33",
           "66",
-          "63"
+          "33",
+          "38",
+          "06",
+          "03",
+          "68"
         ],
         "open_pannas": [
           "123",
@@ -621,7 +621,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 8,
-        "jodi": "33",
+        "jodi": "38",
         "open_panna": "123",
         "close_panna": "777"
       },
@@ -633,7 +633,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -650,10 +650,10 @@
         ],
         "jodis": [
           "44",
-          "15",
-          "34",
+          "31",
+          "35",
           "14",
-          "45",
+          "41",
           "11"
         ],
         "open_pannas": [
@@ -678,7 +678,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 1,
-        "jodi": "31",
+        "jodi": "44",
         "open_panna": "112",
         "close_panna": "112"
       },
@@ -706,12 +706,12 @@
           "1"
         ],
         "jodis": [
+          "50",
           "51",
+          "88",
+          "80",
           "38",
-          "58",
-          "30",
-          "81",
-          "50"
+          "81"
         ],
         "open_pannas": [
           "113",
@@ -735,7 +735,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 0,
-        "jodi": "30",
+        "jodi": "51",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -747,7 +747,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -763,12 +763,12 @@
           "7"
         ],
         "jodis": [
-          "77",
-          "75",
+          "50",
+          "55",
           "15",
-          "57",
+          "17",
           "70",
-          "10"
+          "75"
         ],
         "open_pannas": [
           "100",
@@ -792,7 +792,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 5,
-        "jodi": "70",
+        "jodi": "77",
         "open_panna": "100",
         "close_panna": "129"
       },
@@ -820,12 +820,12 @@
           "7"
         ],
         "jodis": [
-          "97",
           "87",
           "91",
-          "80",
+          "61",
+          "97",
           "60",
-          "81"
+          "67"
         ],
         "open_pannas": [
           "888",
@@ -849,7 +849,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 1,
-        "jodi": "60",
+        "jodi": "97",
         "open_panna": "888",
         "close_panna": "100"
       },
@@ -861,7 +861,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -877,12 +877,12 @@
           "7"
         ],
         "jodis": [
-          "14",
-          "11",
-          "77",
           "24",
-          "74",
-          "71"
+          "77",
+          "71",
+          "17",
+          "11",
+          "74"
         ],
         "open_pannas": [
           "100",
@@ -906,7 +906,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 4,
-        "jodi": "77",
+        "jodi": "14",
         "open_panna": "100",
         "close_panna": "115"
       },
@@ -934,12 +934,12 @@
           "1"
         ],
         "jodis": [
-          "85",
           "95",
+          "93",
           "81",
-          "31",
-          "83",
-          "91"
+          "91",
+          "33",
+          "31"
         ],
         "open_pannas": [
           "777",
@@ -963,7 +963,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 3,
-        "jodi": "35",
+        "jodi": "85",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -991,11 +991,11 @@
           "0"
         ],
         "jodis": [
-          "76",
-          "24",
+          "96",
           "20",
-          "26",
+          "24",
           "90",
+          "26",
           "74"
         ],
         "open_pannas": [
@@ -1020,7 +1020,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 6,
-        "jodi": "94",
+        "jodi": "76",
         "open_panna": "199",
         "close_panna": "118"
       },
@@ -1047,12 +1047,12 @@
           "9"
         ],
         "jodis": [
-          "29",
+          "46",
           "49",
-          "16",
           "26",
           "19",
-          "46"
+          "29",
+          "16"
         ],
         "open_pannas": [
           "112",
@@ -1076,7 +1076,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 6,
-        "jodi": "19",
+        "jodi": "29",
         "open_panna": "112",
         "close_panna": "199"
       },
@@ -1104,12 +1104,12 @@
           "1"
         ],
         "jodis": [
-          "06",
-          "86",
-          "71",
-          "81",
           "02",
-          "76"
+          "81",
+          "82",
+          "76",
+          "71",
+          "01"
         ],
         "open_pannas": [
           "115",
@@ -1133,7 +1133,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 2,
-        "jodi": "01",
+        "jodi": "06",
         "open_panna": "115",
         "close_panna": "100"
       },
@@ -1145,7 +1145,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1161,12 +1161,12 @@
           "7"
         ],
         "jodis": [
-          "81",
-          "87",
-          "07",
-          "31",
+          "34",
           "04",
-          "37"
+          "31",
+          "01",
+          "87",
+          "07"
         ],
         "open_pannas": [
           "777",
@@ -1190,7 +1190,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 1,
-        "jodi": "04",
+        "jodi": "81",
         "open_panna": "777",
         "close_panna": "130"
       },
@@ -1218,12 +1218,12 @@
           "3"
         ],
         "jodis": [
-          "53",
           "74",
+          "53",
+          "73",
           "13",
           "54",
-          "73",
-          "75"
+          "14"
         ],
         "open_pannas": [
           "100",
@@ -1275,12 +1275,12 @@
           "8"
         ],
         "jodis": [
-          "76",
-          "06",
+          "74",
           "78",
           "68",
-          "08",
-          "04"
+          "06",
+          "76",
+          "66"
         ],
         "open_pannas": [
           "369",
@@ -1304,7 +1304,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 4,
-        "jodi": "04",
+        "jodi": "76",
         "open_panna": "369",
         "close_panna": "112"
       },
@@ -1316,7 +1316,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1333,11 +1333,125 @@
         ],
         "jodis": [
           "87",
-          "94",
-          "44",
+          "97",
           "88",
-          "84",
-          "48"
+          "44",
+          "94",
+          "84"
+        ],
+        "open_pannas": [
+          "112",
+          "126",
+          "167",
+          "279",
+          "590",
+          "170",
+          "249"
+        ],
+        "close_pannas": [
+          "124",
+          "112",
+          "356",
+          "115",
+          "279",
+          "568",
+          "168"
+        ]
+      },
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 4,
+        "jodi": "87",
+        "open_panna": "112",
+        "close_panna": "124"
+      },
+      "family_hit": false,
+      "line_match": null
+    },
+    {
+      "market": "main_bombay_panel_chart",
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": true
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "4",
+          "0"
+        ],
+        "close_digits": [
+          "0",
+          "3",
+          "2"
+        ],
+        "jodis": [
+          "43",
+          "42",
+          "53",
+          "03",
+          "02",
+          "52"
+        ],
+        "open_pannas": [
+          "112",
+          "113",
+          "168",
+          "257",
+          "148",
+          "400",
+          "180"
+        ],
+        "close_pannas": [
+          "110",
+          "777",
+          "370",
+          "456",
+          "357",
+          "670",
+          "790"
+        ]
+      },
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 0,
+        "jodi": "53",
+        "open_panna": "112",
+        "close_panna": "110"
+      },
+      "family_hit": false,
+      "line_match": null
+    },
+    {
+      "market": "main_ratan_penal_chart",
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": true
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "4",
+          "8"
+        ],
+        "close_digits": [
+          "4",
+          "7",
+          "8"
+        ],
+        "jodis": [
+          "47",
+          "97",
+          "88",
+          "94",
+          "98",
+          "87"
         ],
         "open_pannas": [
           "112",
@@ -1369,120 +1483,6 @@
       "line_match": null
     },
     {
-      "market": "main_bombay_panel_chart",
-      "hits": {
-        "open_digit": true,
-        "close_digit": true,
-        "jodi": true,
-        "open_panna": true,
-        "close_panna": true
-      },
-      "predicted": {
-        "open_digits": [
-          "5",
-          "4",
-          "0"
-        ],
-        "close_digits": [
-          "0",
-          "3",
-          "2"
-        ],
-        "jodis": [
-          "53",
-          "03",
-          "02",
-          "40",
-          "42",
-          "52"
-        ],
-        "open_pannas": [
-          "112",
-          "113",
-          "168",
-          "257",
-          "148",
-          "400",
-          "180"
-        ],
-        "close_pannas": [
-          "110",
-          "777",
-          "370",
-          "456",
-          "357",
-          "670",
-          "790"
-        ]
-      },
-      "actual": {
-        "open_digit": 5,
-        "close_digit": 0,
-        "jodi": "42",
-        "open_panna": "112",
-        "close_panna": "110"
-      },
-      "family_hit": false,
-      "line_match": null
-    },
-    {
-      "market": "main_ratan_penal_chart",
-      "hits": {
-        "open_digit": true,
-        "close_digit": true,
-        "jodi": false,
-        "open_panna": true,
-        "close_panna": true
-      },
-      "predicted": {
-        "open_digits": [
-          "9",
-          "4",
-          "8"
-        ],
-        "close_digits": [
-          "4",
-          "7",
-          "8"
-        ],
-        "jodis": [
-          "98",
-          "87",
-          "44",
-          "48",
-          "84",
-          "97"
-        ],
-        "open_pannas": [
-          "112",
-          "126",
-          "167",
-          "279",
-          "590",
-          "170",
-          "249"
-        ],
-        "close_pannas": [
-          "124",
-          "112",
-          "356",
-          "115",
-          "279",
-          "568",
-          "168"
-        ]
-      },
-      "actual": {
-        "open_digit": 9,
-        "close_digit": 4,
-        "jodi": "94",
-        "open_panna": "112",
-        "close_panna": "124"
-      },
-      "family_hit": false,
-      "line_match": null
-    },
-    {
       "market": "matashri_panel_chart",
       "hits": {
         "open_digit": true,
@@ -1503,12 +1503,12 @@
           "4"
         ],
         "jodis": [
+          "20",
           "37",
-          "64",
-          "67",
-          "27",
           "24",
-          "60"
+          "34",
+          "60",
+          "27"
         ],
         "open_pannas": [
           "110",
@@ -1532,7 +1532,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 0,
-        "jodi": "67",
+        "jodi": "37",
         "open_panna": "110",
         "close_panna": "115"
       },
@@ -1559,11 +1559,11 @@
           "8"
         ],
         "jodis": [
-          "58",
-          "38",
           "37",
+          "58",
           "35",
           "57",
+          "38",
           "55"
         ],
         "open_pannas": [
@@ -1588,7 +1588,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 7,
-        "jodi": "57",
+        "jodi": "58",
         "open_panna": "113",
         "close_panna": "115"
       },
@@ -1600,7 +1600,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1616,12 +1616,12 @@
           "8"
         ],
         "jodis": [
-          "32",
-          "72",
           "38",
           "52",
           "78",
-          "58"
+          "32",
+          "76",
+          "72"
         ],
         "open_pannas": [
           "777",
@@ -1645,7 +1645,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 6,
-        "jodi": "76",
+        "jodi": "32",
         "open_panna": "777",
         "close_panna": "125"
       },
@@ -1657,7 +1657,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1673,11 +1673,11 @@
           "8"
         ],
         "jodis": [
-          "29",
+          "79",
           "27",
-          "28",
-          "78",
           "47",
+          "48",
+          "28",
           "77"
         ],
         "open_pannas": [
@@ -1714,7 +1714,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1730,12 +1730,12 @@
           "7"
         ],
         "jodis": [
-          "38",
-          "39",
-          "57",
-          "98",
+          "37",
           "97",
-          "99"
+          "99",
+          "38",
+          "59",
+          "98"
         ],
         "open_pannas": [
           "113",
@@ -1759,7 +1759,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 9,
-        "jodi": "59",
+        "jodi": "38",
         "open_panna": "113",
         "close_panna": "146"
       },
@@ -1787,12 +1787,12 @@
           "7"
         ],
         "jodis": [
-          "69",
-          "67",
-          "99",
+          "59",
           "57",
-          "96",
-          "56"
+          "66",
+          "97",
+          "99",
+          "96"
         ],
         "open_pannas": [
           "448",
@@ -1816,7 +1816,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 6,
-        "jodi": "59",
+        "jodi": "69",
         "open_panna": "448",
         "close_panna": "888"
       },
@@ -1828,7 +1828,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1844,12 +1844,12 @@
           "1"
         ],
         "jodis": [
-          "49",
+          "41",
           "59",
-          "51",
-          "47",
+          "31",
           "37",
-          "57"
+          "39",
+          "51"
         ],
         "open_pannas": [
           "113",
@@ -1873,7 +1873,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 9,
-        "jodi": "51",
+        "jodi": "49",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -1885,7 +1885,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1901,12 +1901,12 @@
           "7"
         ],
         "jodis": [
-          "24",
           "21",
+          "84",
+          "71",
+          "81",
           "87",
-          "77",
-          "74",
-          "84"
+          "77"
         ],
         "open_pannas": [
           "116",
@@ -1930,7 +1930,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 4,
-        "jodi": "21",
+        "jodi": "24",
         "open_panna": "116",
         "close_panna": "100"
       },
@@ -1942,7 +1942,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1958,12 +1958,12 @@
           "4"
         ],
         "jodis": [
-          "25",
-          "24",
-          "85",
           "20",
-          "55",
-          "84"
+          "84",
+          "80",
+          "54",
+          "24",
+          "25"
         ],
         "open_pannas": [
           "110",
@@ -1987,7 +1987,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "80",
+        "jodi": "25",
         "open_panna": "110",
         "close_panna": "112"
       },
@@ -2014,12 +2014,12 @@
           "2"
         ],
         "jodis": [
-          "92",
+          "95",
           "82",
           "32",
-          "85",
-          "95",
-          "35"
+          "35",
+          "92",
+          "85"
         ],
         "open_pannas": [
           "116",
@@ -2043,7 +2043,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 5,
-        "jodi": "32",
+        "jodi": "92",
         "open_panna": "116",
         "close_panna": "113"
       },
@@ -2055,7 +2055,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2071,12 +2071,12 @@
           "2"
         ],
         "jodis": [
+          "23",
           "13",
-          "12",
-          "22",
-          "32",
           "10",
-          "23"
+          "32",
+          "30",
+          "33"
         ],
         "open_pannas": [
           "100",
@@ -2100,7 +2100,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "30",
+        "jodi": "13",
         "open_panna": "100",
         "close_panna": "110"
       },
@@ -2128,12 +2128,12 @@
           "9"
         ],
         "jodis": [
-          "49",
-          "46",
-          "06",
-          "02",
           "82",
-          "86"
+          "49",
+          "02",
+          "09",
+          "46",
+          "06"
         ],
         "open_pannas": [
           "112",
@@ -2185,12 +2185,12 @@
           "0"
         ],
         "jodis": [
-          "61",
-          "50",
-          "15",
-          "65",
           "51",
-          "11"
+          "61",
+          "60",
+          "11",
+          "15",
+          "10"
         ],
         "open_pannas": [
           "100",
@@ -2214,7 +2214,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "11",
+        "jodi": "61",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -2242,11 +2242,11 @@
           "5"
         ],
         "jodis": [
-          "63",
-          "60",
           "73",
           "75",
-          "65",
+          "70",
+          "63",
+          "20",
           "23"
         ],
         "open_pannas": [
@@ -2271,7 +2271,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 3,
-        "jodi": "23",
+        "jodi": "63",
         "open_panna": "888",
         "close_panna": "160"
       },
@@ -2283,7 +2283,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2299,12 +2299,12 @@
           "8"
         ],
         "jodis": [
-          "05",
-          "18",
-          "15",
+          "08",
+          "85",
           "88",
-          "04",
-          "08"
+          "14",
+          "18",
+          "84"
         ],
         "open_pannas": [
           "100",
@@ -2328,7 +2328,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 5,
-        "jodi": "18",
+        "jodi": "05",
         "open_panna": "100",
         "close_panna": "690"
       },
@@ -2340,7 +2340,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2356,12 +2356,12 @@
           "6"
         ],
         "jodis": [
-          "60",
-          "78",
-          "20",
+          "26",
           "28",
           "66",
-          "26"
+          "20",
+          "70",
+          "68"
         ],
         "open_pannas": [
           "110",
@@ -2397,7 +2397,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2413,12 +2413,12 @@
           "4"
         ],
         "jodis": [
-          "76",
+          "74",
+          "04",
           "96",
-          "94",
           "01",
           "71",
-          "06"
+          "76"
         ],
         "open_pannas": [
           "380",
@@ -2442,7 +2442,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 1,
-        "jodi": "91",
+        "jodi": "76",
         "open_panna": "380",
         "close_panna": "100"
       },
@@ -2454,7 +2454,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2470,12 +2470,12 @@
           "1"
         ],
         "jodis": [
-          "40",
-          "75",
+          "51",
+          "70",
           "55",
-          "71",
-          "50",
-          "41"
+          "41",
+          "45",
+          "71"
         ],
         "open_pannas": [
           "113",
@@ -2499,7 +2499,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "50",
+        "jodi": "40",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -2511,7 +2511,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2527,12 +2527,12 @@
           "5"
         ],
         "jodis": [
+          "95",
           "35",
           "15",
-          "97",
-          "37",
-          "11",
-          "95"
+          "91",
+          "31",
+          "97"
         ],
         "open_pannas": [
           "777",
@@ -2556,7 +2556,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 7,
-        "jodi": "91",
+        "jodi": "35",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -2568,7 +2568,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2584,12 +2584,12 @@
           "9"
         ],
         "jodis": [
-          "99",
-          "68",
-          "69",
           "64",
-          "94",
-          "84"
+          "84",
+          "98",
+          "88",
+          "69",
+          "94"
         ],
         "open_pannas": [
           "888",
@@ -2613,7 +2613,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 8,
-        "jodi": "69",
+        "jodi": "99",
         "open_panna": "888",
         "close_panna": "112"
       },
@@ -2625,7 +2625,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2641,12 +2641,12 @@
           "4"
         ],
         "jodis": [
-          "05",
-          "69",
           "09",
+          "05",
           "54",
+          "55",
           "59",
-          "04"
+          "69"
         ],
         "open_pannas": [
           "113",
@@ -2670,7 +2670,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 9,
-        "jodi": "65",
+        "jodi": "05",
         "open_panna": "113",
         "close_panna": "112"
       },
@@ -2698,12 +2698,12 @@
           "7"
         ],
         "jodis": [
+          "50",
+          "47",
           "40",
-          "44",
-          "70",
-          "74",
           "57",
-          "50"
+          "77",
+          "54"
         ],
         "open_pannas": [
           "112",
@@ -2727,7 +2727,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 4,
-        "jodi": "70",
+        "jodi": "40",
         "open_panna": "112",
         "close_panna": "112"
       },
@@ -2739,7 +2739,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2755,12 +2755,12 @@
           "5"
         ],
         "jodis": [
-          "64",
-          "61",
           "74",
-          "65",
-          "71",
-          "15"
+          "61",
+          "15",
+          "11",
+          "75",
+          "71"
         ],
         "open_pannas": [
           "100",
@@ -2784,7 +2784,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 4,
-        "jodi": "65",
+        "jodi": "64",
         "open_panna": "100",
         "close_panna": "100"
       },
@@ -2796,7 +2796,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2812,12 +2812,12 @@
           "4"
         ],
         "jodis": [
-          "00",
-          "93",
-          "04",
-          "43",
           "94",
-          "44"
+          "43",
+          "03",
+          "93",
+          "90",
+          "00"
         ],
         "open_pannas": [
           "112",
@@ -2841,7 +2841,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 3,
-        "jodi": "93",
+        "jodi": null,
         "open_panna": "112",
         "close_panna": "112"
       },
