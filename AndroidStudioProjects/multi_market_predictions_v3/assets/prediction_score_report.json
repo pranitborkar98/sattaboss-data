@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T01:16:55Z",
+  "generated_at": "2025-10-30T01:19:46Z",
   "inputs": {
     "predictions_path": "C:\\Users\\VCOM\\Desktop\\sattaboss-data\\data\\todays_predictions.json",
     "yesterday_path": "C:\\Users\\VCOM\\Desktop\\output\\yesterday_results.json"
@@ -10,14 +10,14 @@
     "hit_counts": {
       "open_digit": 50,
       "close_digit": 50,
-      "jodi": 32,
+      "jodi": 33,
       "open_panna": 50,
       "close_panna": 50
     },
     "hit_rates": {
       "open_digit": 1.0,
       "close_digit": 1.0,
-      "jodi": 0.64,
+      "jodi": 0.66,
       "open_panna": 1.0,
       "close_panna": 1.0
     }
@@ -55,12 +55,12 @@
           "0"
         ],
         "jodis": [
-          "47",
+          "20",
           "49",
-          "90",
-          "97",
           "40",
-          "29"
+          "29",
+          "90",
+          "47"
         ],
         "open_pannas": [
           "112",
@@ -118,7 +118,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -130,7 +130,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "47",
+        "jodi": "18",
         "open_panna": "112",
         "close_panna": "558"
       },
@@ -146,12 +146,12 @@
           "7"
         ],
         "jodis": [
+          "17",
           "18",
+          "98",
           "48",
-          "90",
-          "10",
-          "97",
-          "17"
+          "47",
+          "40"
         ],
         "open_pannas": [
           "112",
@@ -186,10 +186,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "47",
-          "display": "★ 47",
-          "status": "FAIL"
+          "passed": true,
+          "value": "18",
+          "display": "★ 18",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -209,7 +209,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -221,7 +221,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 7,
-        "jodi": "97",
+        "jodi": "95",
         "open_panna": "113",
         "close_panna": "777"
       },
@@ -237,12 +237,12 @@
           "3"
         ],
         "jodis": [
-          "95",
-          "55",
-          "93",
-          "53",
           "57",
-          "13"
+          "15",
+          "53",
+          "97",
+          "95",
+          "17"
         ],
         "open_pannas": [
           "113",
@@ -277,10 +277,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "97",
-          "display": "★ 97",
-          "status": "FAIL"
+          "passed": true,
+          "value": "95",
+          "display": "★ 95",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -329,11 +329,11 @@
         ],
         "jodis": [
           "99",
-          "64",
-          "69",
-          "92",
           "89",
-          "94"
+          "82",
+          "92",
+          "84",
+          "64"
         ],
         "open_pannas": [
           "100",
@@ -403,7 +403,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 4,
-        "jodi": "56",
+        "jodi": "64",
         "open_panna": "479",
         "close_panna": "112"
       },
@@ -419,12 +419,12 @@
           "6"
         ],
         "jodis": [
-          "64",
-          "66",
-          "54",
+          "06",
+          "52",
           "02",
-          "04",
-          "06"
+          "56",
+          "66",
+          "62"
         ],
         "open_pannas": [
           "479",
@@ -460,8 +460,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "56",
-          "display": "★ 56",
+          "value": "64",
+          "display": "★ 64",
           "status": "FAIL"
         },
         "open_panna": {
@@ -494,7 +494,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 6,
-        "jodi": "93",
+        "jodi": "96",
         "open_panna": "888",
         "close_panna": "777"
       },
@@ -510,12 +510,12 @@
           "3"
         ],
         "jodis": [
-          "96",
-          "03",
-          "93",
+          "01",
           "63",
-          "91",
-          "01"
+          "96",
+          "93",
+          "03",
+          "06"
         ],
         "open_pannas": [
           "888",
@@ -551,8 +551,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "93",
-          "display": "★ 93",
+          "value": "96",
+          "display": "★ 96",
           "status": "PASS"
         },
         "open_panna": {
@@ -573,7 +573,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -585,7 +585,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 4,
-        "jodi": "61",
+        "jodi": "94",
         "open_panna": "116",
         "close_panna": "100"
       },
@@ -601,12 +601,12 @@
           "1"
         ],
         "jodis": [
-          "94",
-          "91",
-          "98",
-          "84",
+          "64",
           "68",
-          "64"
+          "91",
+          "88",
+          "94",
+          "98"
         ],
         "open_pannas": [
           "116",
@@ -641,10 +641,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "61",
-          "display": "★ 61",
-          "status": "FAIL"
+          "passed": true,
+          "value": "94",
+          "display": "★ 94",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -664,7 +664,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -676,7 +676,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "80",
+        "jodi": "40",
         "open_panna": "112",
         "close_panna": "110"
       },
@@ -692,12 +692,12 @@
           "9"
         ],
         "jodis": [
+          "90",
+          "49",
           "40",
-          "89",
-          "42",
-          "92",
           "82",
-          "90"
+          "99",
+          "80"
         ],
         "open_pannas": [
           "112",
@@ -732,10 +732,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "80",
-          "display": "★ 80",
-          "status": "FAIL"
+          "passed": true,
+          "value": "40",
+          "display": "★ 40",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -755,7 +755,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -767,7 +767,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 3,
-        "jodi": "08",
+        "jodi": "73",
         "open_panna": "118",
         "close_panna": "112"
       },
@@ -783,12 +783,12 @@
           "8"
         ],
         "jodis": [
-          "73",
-          "04",
-          "78",
           "74",
-          "43",
-          "48"
+          "48",
+          "44",
+          "78",
+          "73",
+          "08"
         ],
         "open_pannas": [
           "118",
@@ -823,10 +823,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "08",
-          "display": "★ 08",
-          "status": "FAIL"
+          "passed": true,
+          "value": "73",
+          "display": "★ 73",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -858,7 +858,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 5,
-        "jodi": "22",
+        "jodi": "35",
         "open_panna": "777",
         "close_panna": "110"
       },
@@ -874,11 +874,11 @@
           "0"
         ],
         "jodis": [
+          "90",
           "35",
-          "22",
+          "92",
           "30",
           "32",
-          "90",
           "95"
         ],
         "open_pannas": [
@@ -915,8 +915,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "22",
-          "display": "★ 22",
+          "value": "35",
+          "display": "★ 35",
           "status": "PASS"
         },
         "open_panna": {
@@ -965,12 +965,12 @@
           "3"
         ],
         "jodis": [
-          "66",
+          "06",
           "36",
-          "33",
           "08",
+          "68",
           "38",
-          "68"
+          "66"
         ],
         "open_pannas": [
           "123",
@@ -1040,7 +1040,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 1,
-        "jodi": "44",
+        "jodi": "34",
         "open_panna": "112",
         "close_panna": "112"
       },
@@ -1056,10 +1056,10 @@
           "4"
         ],
         "jodis": [
-          "34",
-          "35",
-          "15",
           "11",
+          "44",
+          "45",
+          "41",
           "31",
           "14"
         ],
@@ -1097,8 +1097,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "44",
-          "display": "★ 44",
+          "value": "34",
+          "display": "★ 34",
           "status": "FAIL"
         },
         "open_panna": {
@@ -1119,7 +1119,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1131,7 +1131,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 0,
-        "jodi": "50",
+        "jodi": "80",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -1147,12 +1147,12 @@
           "1"
         ],
         "jodis": [
-          "80",
-          "88",
           "51",
-          "58",
-          "81",
-          "50"
+          "30",
+          "31",
+          "38",
+          "88",
+          "58"
         ],
         "open_pannas": [
           "113",
@@ -1187,10 +1187,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "50",
-          "display": "★ 50",
-          "status": "PASS"
+          "passed": false,
+          "value": "80",
+          "display": "★ 80",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -1222,7 +1222,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 5,
-        "jodi": "50",
+        "jodi": "77",
         "open_panna": "100",
         "close_panna": "129"
       },
@@ -1238,11 +1238,11 @@
           "7"
         ],
         "jodis": [
-          "77",
-          "10",
-          "17",
-          "57",
           "70",
+          "75",
+          "15",
+          "10",
+          "50",
           "55"
         ],
         "open_pannas": [
@@ -1279,8 +1279,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "50",
-          "display": "★ 50",
+          "value": "77",
+          "display": "★ 77",
           "status": "FAIL"
         },
         "open_panna": {
@@ -1329,12 +1329,12 @@
           "7"
         ],
         "jodis": [
-          "87",
           "67",
           "97",
+          "87",
           "61",
-          "90",
-          "91"
+          "60",
+          "90"
         ],
         "open_pannas": [
           "888",
@@ -1420,12 +1420,12 @@
           "7"
         ],
         "jodis": [
-          "24",
-          "71",
+          "74",
+          "17",
           "27",
-          "14",
-          "77",
-          "11"
+          "21",
+          "24",
+          "77"
         ],
         "open_pannas": [
           "100",
@@ -1483,7 +1483,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1495,7 +1495,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 3,
-        "jodi": "95",
+        "jodi": "33",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -1511,11 +1511,11 @@
           "1"
         ],
         "jodis": [
-          "33",
+          "91",
           "95",
-          "83",
           "31",
           "81",
+          "93",
           "85"
         ],
         "open_pannas": [
@@ -1551,10 +1551,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "95",
-          "display": "★ 95",
-          "status": "PASS"
+          "passed": false,
+          "value": "33",
+          "display": "★ 33",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -1586,7 +1586,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 6,
-        "jodi": "96",
+        "jodi": "90",
         "open_panna": "199",
         "close_panna": "118"
       },
@@ -1603,11 +1603,11 @@
         ],
         "jodis": [
           "90",
-          "20",
-          "94",
           "96",
           "76",
-          "70"
+          "70",
+          "26",
+          "20"
         ],
         "open_pannas": [
           "199",
@@ -1643,8 +1643,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "96",
-          "display": "★ 96",
+          "value": "90",
+          "display": "★ 90",
           "status": "PASS"
         },
         "open_panna": {
@@ -1677,7 +1677,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 6,
-        "jodi": "46",
+        "jodi": "49",
         "open_panna": "112",
         "close_panna": "199"
       },
@@ -1693,11 +1693,11 @@
         ],
         "jodis": [
           "49",
-          "19",
+          "29",
           "26",
-          "16",
           "46",
-          "29"
+          "16",
+          "19"
         ],
         "open_pannas": [
           "112",
@@ -1733,8 +1733,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "46",
-          "display": "★ 46",
+          "value": "49",
+          "display": "★ 49",
           "status": "PASS"
         },
         "open_panna": {
@@ -1767,7 +1767,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 2,
-        "jodi": "02",
+        "jodi": "76",
         "open_panna": "115",
         "close_panna": "100"
       },
@@ -1783,12 +1783,12 @@
           "1"
         ],
         "jodis": [
-          "76",
-          "86",
+          "82",
+          "81",
           "06",
           "01",
-          "82",
-          "02"
+          "86",
+          "76"
         ],
         "open_pannas": [
           "115",
@@ -1824,8 +1824,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "02",
-          "display": "★ 02",
+          "value": "76",
+          "display": "★ 76",
           "status": "PASS"
         },
         "open_panna": {
@@ -1858,7 +1858,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 1,
-        "jodi": "34",
+        "jodi": "01",
         "open_panna": "777",
         "close_panna": "130"
       },
@@ -1875,11 +1875,11 @@
         ],
         "jodis": [
           "01",
-          "37",
-          "07",
+          "84",
+          "81",
           "87",
-          "34",
-          "84"
+          "04",
+          "34"
         ],
         "open_pannas": [
           "777",
@@ -1915,8 +1915,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "34",
-          "display": "★ 34",
+          "value": "01",
+          "display": "★ 01",
           "status": "PASS"
         },
         "open_panna": {
@@ -1937,7 +1937,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -1949,7 +1949,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 5,
-        "jodi": "74",
+        "jodi": "13",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -1965,12 +1965,12 @@
           "3"
         ],
         "jodis": [
-          "13",
-          "14",
-          "73",
+          "55",
+          "75",
           "53",
           "15",
-          "74"
+          "54",
+          "73"
         ],
         "open_pannas": [
           "100",
@@ -2005,10 +2005,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "74",
-          "display": "★ 74",
-          "status": "PASS"
+          "passed": false,
+          "value": "13",
+          "display": "★ 13",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -2056,12 +2056,12 @@
           "8"
         ],
         "jodis": [
+          "66",
           "74",
-          "64",
-          "08",
           "78",
-          "04",
-          "06"
+          "68",
+          "08",
+          "64"
         ],
         "open_pannas": [
           "369",
@@ -2131,7 +2131,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 4,
-        "jodi": "87",
+        "jodi": "48",
         "open_panna": "112",
         "close_panna": "124"
       },
@@ -2148,10 +2148,10 @@
         ],
         "jodis": [
           "48",
-          "98",
-          "84",
-          "88",
           "87",
+          "47",
+          "97",
+          "84",
           "44"
         ],
         "open_pannas": [
@@ -2188,8 +2188,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "87",
-          "display": "★ 87",
+          "value": "48",
+          "display": "★ 48",
           "status": "PASS"
         },
         "open_panna": {
@@ -2222,7 +2222,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 0,
-        "jodi": "43",
+        "jodi": "02",
         "open_panna": "112",
         "close_panna": "110"
       },
@@ -2238,12 +2238,12 @@
           "2"
         ],
         "jodis": [
-          "02",
-          "42",
-          "00",
           "50",
+          "40",
+          "03",
           "53",
-          "43"
+          "52",
+          "02"
         ],
         "open_pannas": [
           "112",
@@ -2279,8 +2279,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "43",
-          "display": "★ 43",
+          "value": "02",
+          "display": "★ 02",
           "status": "PASS"
         },
         "open_panna": {
@@ -2301,7 +2301,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2313,7 +2313,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 4,
-        "jodi": "47",
+        "jodi": "97",
         "open_panna": "112",
         "close_panna": "124"
       },
@@ -2329,12 +2329,12 @@
           "8"
         ],
         "jodis": [
-          "97",
-          "84",
           "98",
-          "94",
+          "88",
           "44",
-          "88"
+          "87",
+          "97",
+          "48"
         ],
         "open_pannas": [
           "112",
@@ -2369,10 +2369,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "47",
-          "display": "★ 47",
-          "status": "FAIL"
+          "passed": true,
+          "value": "97",
+          "display": "★ 97",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -2392,7 +2392,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2404,7 +2404,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 0,
-        "jodi": "20",
+        "jodi": "37",
         "open_panna": "110",
         "close_panna": "115"
       },
@@ -2420,12 +2420,12 @@
           "4"
         ],
         "jodis": [
-          "37",
-          "27",
-          "60",
+          "34",
+          "24",
+          "64",
+          "67",
           "20",
-          "30",
-          "24"
+          "30"
         ],
         "open_pannas": [
           "110",
@@ -2460,10 +2460,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "20",
-          "display": "★ 20",
-          "status": "PASS"
+          "passed": false,
+          "value": "37",
+          "display": "★ 37",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -2495,7 +2495,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 7,
-        "jodi": "37",
+        "jodi": "58",
         "open_panna": "113",
         "close_panna": "115"
       },
@@ -2510,10 +2510,10 @@
           "8"
         ],
         "jodis": [
-          "58",
-          "57",
-          "35",
           "38",
+          "57",
+          "58",
+          "35",
           "37",
           "55"
         ],
@@ -2551,8 +2551,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "37",
-          "display": "★ 37",
+          "value": "58",
+          "display": "★ 58",
           "status": "PASS"
         },
         "open_panna": {
@@ -2573,7 +2573,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2585,7 +2585,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 6,
-        "jodi": "38",
+        "jodi": "76",
         "open_panna": "777",
         "close_panna": "125"
       },
@@ -2601,12 +2601,12 @@
           "8"
         ],
         "jodis": [
-          "76",
-          "32",
-          "72",
-          "56",
           "52",
-          "36"
+          "78",
+          "38",
+          "32",
+          "56",
+          "76"
         ],
         "open_pannas": [
           "777",
@@ -2641,10 +2641,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "38",
-          "display": "★ 38",
-          "status": "FAIL"
+          "passed": true,
+          "value": "76",
+          "display": "★ 76",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -2664,7 +2664,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2676,7 +2676,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 7,
-        "jodi": "79",
+        "jodi": "27",
         "open_panna": "115",
         "close_panna": "115"
       },
@@ -2692,12 +2692,12 @@
           "8"
         ],
         "jodis": [
-          "27",
-          "78",
-          "29",
+          "28",
           "47",
+          "48",
           "77",
-          "79"
+          "79",
+          "49"
         ],
         "open_pannas": [
           "115",
@@ -2732,10 +2732,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "79",
-          "display": "★ 79",
-          "status": "PASS"
+          "passed": false,
+          "value": "27",
+          "display": "★ 27",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -2767,7 +2767,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 9,
-        "jodi": "37",
+        "jodi": "99",
         "open_panna": "113",
         "close_panna": "146"
       },
@@ -2783,12 +2783,12 @@
           "7"
         ],
         "jodis": [
-          "99",
+          "38",
+          "98",
           "97",
-          "57",
+          "39",
           "59",
-          "58",
-          "98"
+          "57"
         ],
         "open_pannas": [
           "113",
@@ -2824,8 +2824,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "37",
-          "display": "★ 37",
+          "value": "99",
+          "display": "★ 99",
           "status": "FAIL"
         },
         "open_panna": {
@@ -2858,7 +2858,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 6,
-        "jodi": "59",
+        "jodi": "57",
         "open_panna": "448",
         "close_panna": "888"
       },
@@ -2874,12 +2874,12 @@
           "7"
         ],
         "jodis": [
-          "57",
-          "69",
-          "99",
-          "67",
+          "97",
+          "96",
           "66",
-          "56"
+          "56",
+          "59",
+          "69"
         ],
         "open_pannas": [
           "448",
@@ -2915,8 +2915,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "59",
-          "display": "★ 59",
+          "value": "57",
+          "display": "★ 57",
           "status": "FAIL"
         },
         "open_panna": {
@@ -2949,7 +2949,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 9,
-        "jodi": "41",
+        "jodi": "51",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -2965,12 +2965,12 @@
           "1"
         ],
         "jodis": [
-          "51",
           "49",
-          "41",
-          "59",
           "39",
-          "57"
+          "59",
+          "31",
+          "47",
+          "51"
         ],
         "open_pannas": [
           "113",
@@ -3006,8 +3006,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "41",
-          "display": "★ 41",
+          "value": "51",
+          "display": "★ 51",
           "status": "PASS"
         },
         "open_panna": {
@@ -3028,7 +3028,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -3040,7 +3040,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 4,
-        "jodi": "21",
+        "jodi": "84",
         "open_panna": "116",
         "close_panna": "100"
       },
@@ -3056,12 +3056,12 @@
           "7"
         ],
         "jodis": [
-          "84",
-          "74",
-          "24",
-          "87",
+          "27",
+          "21",
           "71",
-          "21"
+          "81",
+          "77",
+          "74"
         ],
         "open_pannas": [
           "116",
@@ -3096,10 +3096,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "21",
-          "display": "★ 21",
-          "status": "PASS"
+          "passed": false,
+          "value": "84",
+          "display": "★ 84",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -3119,7 +3119,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -3131,7 +3131,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "20",
+        "jodi": "24",
         "open_panna": "110",
         "close_panna": "112"
       },
@@ -3147,12 +3147,12 @@
           "4"
         ],
         "jodis": [
-          "24",
-          "80",
-          "50",
-          "84",
+          "54",
           "25",
-          "85"
+          "85",
+          "24",
+          "84",
+          "20"
         ],
         "open_pannas": [
           "110",
@@ -3187,10 +3187,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "20",
-          "display": "★ 20",
-          "status": "FAIL"
+          "passed": true,
+          "value": "24",
+          "display": "★ 24",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -3222,7 +3222,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 5,
-        "jodi": "95",
+        "jodi": "85",
         "open_panna": "116",
         "close_panna": "113"
       },
@@ -3237,12 +3237,12 @@
           "2"
         ],
         "jodis": [
-          "85",
-          "32",
-          "82",
-          "95",
           "35",
-          "92"
+          "85",
+          "95",
+          "32",
+          "92",
+          "82"
         ],
         "open_pannas": [
           "116",
@@ -3278,8 +3278,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "95",
-          "display": "★ 95",
+          "value": "85",
+          "display": "★ 85",
           "status": "PASS"
         },
         "open_panna": {
@@ -3300,7 +3300,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -3312,7 +3312,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "23",
+        "jodi": "32",
         "open_panna": "100",
         "close_panna": "110"
       },
@@ -3328,12 +3328,12 @@
           "2"
         ],
         "jodis": [
+          "12",
           "32",
-          "13",
           "33",
           "22",
-          "30",
-          "20"
+          "20",
+          "23"
         ],
         "open_pannas": [
           "100",
@@ -3368,10 +3368,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "23",
-          "display": "★ 23",
-          "status": "FAIL"
+          "passed": true,
+          "value": "32",
+          "display": "★ 32",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -3391,7 +3391,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -3403,7 +3403,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 2,
-        "jodi": "82",
+        "jodi": "86",
         "open_panna": "112",
         "close_panna": "149"
       },
@@ -3419,12 +3419,12 @@
           "9"
         ],
         "jodis": [
-          "86",
-          "06",
-          "89",
-          "02",
+          "49",
+          "09",
           "42",
-          "82"
+          "82",
+          "89",
+          "02"
         ],
         "open_pannas": [
           "112",
@@ -3459,10 +3459,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "82",
-          "display": "★ 82",
-          "status": "PASS"
+          "passed": false,
+          "value": "86",
+          "display": "★ 86",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -3494,7 +3494,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "51",
+        "jodi": "10",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -3510,12 +3510,12 @@
           "0"
         ],
         "jodis": [
-          "10",
-          "50",
           "61",
+          "55",
+          "11",
           "15",
-          "60",
-          "11"
+          "50",
+          "60"
         ],
         "open_pannas": [
           "100",
@@ -3551,8 +3551,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "51",
-          "display": "★ 51",
+          "value": "10",
+          "display": "★ 10",
           "status": "FAIL"
         },
         "open_panna": {
@@ -3585,7 +3585,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 3,
-        "jodi": "73",
+        "jodi": "70",
         "open_panna": "888",
         "close_panna": "160"
       },
@@ -3601,12 +3601,12 @@
           "5"
         ],
         "jodis": [
-          "70",
-          "23",
+          "60",
+          "75",
           "20",
           "25",
-          "63",
-          "65"
+          "23",
+          "73"
         ],
         "open_pannas": [
           "888",
@@ -3642,8 +3642,8 @@
         },
         "jodi": {
           "passed": false,
-          "value": "73",
-          "display": "★ 73",
+          "value": "70",
+          "display": "★ 70",
           "status": "FAIL"
         },
         "open_panna": {
@@ -3664,7 +3664,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -3676,7 +3676,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 5,
-        "jodi": "08",
+        "jodi": "88",
         "open_panna": "100",
         "close_panna": "690"
       },
@@ -3692,12 +3692,12 @@
           "8"
         ],
         "jodis": [
-          "88",
-          "14",
+          "05",
           "18",
+          "84",
           "15",
-          "08",
-          "85"
+          "85",
+          "08"
         ],
         "open_pannas": [
           "100",
@@ -3732,10 +3732,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "08",
-          "display": "★ 08",
-          "status": "PASS"
+          "passed": false,
+          "value": "88",
+          "display": "★ 88",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -3767,7 +3767,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "26",
+        "jodi": "78",
         "open_panna": "110",
         "close_panna": "479"
       },
@@ -3784,11 +3784,11 @@
         ],
         "jodis": [
           "78",
-          "76",
+          "70",
           "20",
+          "76",
           "26",
-          "68",
-          "60"
+          "66"
         ],
         "open_pannas": [
           "110",
@@ -3824,8 +3824,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "26",
-          "display": "★ 26",
+          "value": "78",
+          "display": "★ 78",
           "status": "PASS"
         },
         "open_panna": {
@@ -3846,7 +3846,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -3858,7 +3858,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 1,
-        "jodi": "74",
+        "jodi": "06",
         "open_panna": "380",
         "close_panna": "100"
       },
@@ -3874,12 +3874,12 @@
           "4"
         ],
         "jodis": [
-          "06",
           "04",
-          "71",
-          "94",
-          "01",
-          "91"
+          "91",
+          "96",
+          "06",
+          "76",
+          "71"
         ],
         "open_pannas": [
           "380",
@@ -3914,10 +3914,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "74",
-          "display": "★ 74",
-          "status": "FAIL"
+          "passed": true,
+          "value": "06",
+          "display": "★ 06",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -3949,7 +3949,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "51",
+        "jodi": "75",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -3965,12 +3965,12 @@
           "1"
         ],
         "jodis": [
+          "55",
+          "51",
+          "70",
           "75",
           "45",
-          "40",
-          "50",
-          "51",
-          "41"
+          "71"
         ],
         "open_pannas": [
           "113",
@@ -4006,8 +4006,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "51",
-          "display": "★ 51",
+          "value": "75",
+          "display": "★ 75",
           "status": "PASS"
         },
         "open_panna": {
@@ -4040,7 +4040,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 7,
-        "jodi": "95",
+        "jodi": "35",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -4056,11 +4056,11 @@
           "5"
         ],
         "jodis": [
-          "35",
-          "17",
-          "95",
-          "97",
           "91",
+          "35",
+          "11",
+          "95",
+          "17",
           "37"
         ],
         "open_pannas": [
@@ -4097,8 +4097,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "95",
-          "display": "★ 95",
+          "value": "35",
+          "display": "★ 35",
           "status": "PASS"
         },
         "open_panna": {
@@ -4119,7 +4119,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -4147,12 +4147,12 @@
           "9"
         ],
         "jodis": [
-          "64",
-          "99",
-          "84",
+          "69",
+          "94",
+          "89",
           "68",
-          "98",
-          "88"
+          "99",
+          "84"
         ],
         "open_pannas": [
           "888",
@@ -4187,10 +4187,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
+          "passed": false,
           "value": "64",
           "display": "★ 64",
-          "status": "PASS"
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -4210,7 +4210,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -4222,7 +4222,7 @@
       "actual": {
         "open_digit": 0,
         "close_digit": 9,
-        "jodi": "09",
+        "jodi": "54",
         "open_panna": "113",
         "close_panna": "112"
       },
@@ -4238,10 +4238,10 @@
           "4"
         ],
         "jodis": [
-          "54",
-          "65",
-          "55",
           "59",
+          "69",
+          "09",
+          "54",
           "05",
           "64"
         ],
@@ -4278,10 +4278,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": false,
-          "value": "09",
-          "display": "★ 09",
-          "status": "FAIL"
+          "passed": true,
+          "value": "54",
+          "display": "★ 54",
+          "status": "PASS"
         },
         "open_panna": {
           "passed": true,
@@ -4301,7 +4301,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -4313,7 +4313,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 4,
-        "jodi": "50",
+        "jodi": "40",
         "open_panna": "112",
         "close_panna": "112"
       },
@@ -4329,12 +4329,12 @@
           "7"
         ],
         "jodis": [
-          "40",
-          "50",
-          "70",
+          "47",
+          "57",
           "44",
-          "74",
-          "54"
+          "70",
+          "54",
+          "50"
         ],
         "open_pannas": [
           "112",
@@ -4369,10 +4369,10 @@
           "status": "PASS"
         },
         "jodi": {
-          "passed": true,
-          "value": "50",
-          "display": "★ 50",
-          "status": "PASS"
+          "passed": false,
+          "value": "40",
+          "display": "★ 40",
+          "status": "FAIL"
         },
         "open_panna": {
           "passed": true,
@@ -4420,12 +4420,12 @@
           "5"
         ],
         "jodis": [
-          "74",
-          "61",
-          "15",
           "75",
-          "14",
-          "65"
+          "74",
+          "15",
+          "65",
+          "61",
+          "11"
         ],
         "open_pannas": [
           "100",
@@ -4495,7 +4495,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 3,
-        "jodi": "94",
+        "jodi": "03",
         "open_panna": "112",
         "close_panna": "112"
       },
@@ -4512,11 +4512,11 @@
         ],
         "jodis": [
           "03",
-          "94",
-          "04",
-          "93",
           "00",
-          "40"
+          "40",
+          "93",
+          "94",
+          "43"
         ],
         "open_pannas": [
           "112",
@@ -4552,8 +4552,8 @@
         },
         "jodi": {
           "passed": true,
-          "value": "94",
-          "display": "★ 94",
+          "value": "03",
+          "display": "★ 03",
           "status": "PASS"
         },
         "open_panna": {
