@@ -1,6 +1,63 @@
 {
-  "generated_at": "2025-11-03T20:44:08Z",
+  "generated_at": "2025-11-04T20:37:29Z",
   "hits": [
+    {
+      "market": "amar_jyoti_penal_chart",
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": true
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "6",
+          "7"
+        ],
+        "close_digits": [
+          "4",
+          "5",
+          "3"
+        ],
+        "jodis": [
+          "35",
+          "33",
+          "73",
+          "34",
+          "64",
+          "65"
+        ],
+        "open_pannas": [
+          "890",
+          "580",
+          "278",
+          "777",
+          "790",
+          "468",
+          "466"
+        ],
+        "close_pannas": [
+          "467",
+          "466",
+          "258",
+          "777",
+          "149",
+          "112",
+          "113"
+        ]
+      },
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 4,
+        "jodi": "73",
+        "open_panna": "777",
+        "close_panna": "113"
+      },
+      "family_hit": false,
+      "line_match": null
+    },
     {
       "market": "bombay_night_panel_chart",
       "hits": {
@@ -23,11 +80,11 @@
         ],
         "jodis": [
           "48",
-          "40",
           "90",
+          "17",
+          "47",
           "10",
-          "97",
-          "18"
+          "97"
         ],
         "open_pannas": [
           "112",
@@ -51,7 +108,7 @@
       "actual": {
         "open_digit": 4,
         "close_digit": 0,
-        "jodi": "40",
+        "jodi": "48",
         "open_panna": "112",
         "close_panna": "558"
       },
@@ -79,12 +136,12 @@
           "3"
         ],
         "jodis": [
-          "55",
-          "93",
-          "13",
-          "17",
+          "97",
           "53",
-          "95"
+          "17",
+          "57",
+          "13",
+          "93"
         ],
         "open_pannas": [
           "113",
@@ -108,7 +165,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 7,
-        "jodi": "97",
+        "jodi": "55",
         "open_panna": "113",
         "close_panna": "777"
       },
@@ -120,7 +177,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -136,12 +193,12 @@
           "2"
         ],
         "jodis": [
-          "99",
-          "92",
-          "89",
-          "64",
           "62",
-          "69"
+          "99",
+          "94",
+          "64",
+          "69",
+          "84"
         ],
         "open_pannas": [
           "100",
@@ -165,7 +222,7 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 4,
-        "jodi": "82",
+        "jodi": "99",
         "open_panna": "100",
         "close_panna": "112"
       },
@@ -175,17 +232,17 @@
     {
       "market": "dabra_night_penal_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": true,
-        "jodi": true,
-        "open_panna": true,
+        "jodi": false,
+        "open_panna": false,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "0",
           "5",
-          "7"
+          "7",
+          "1"
         ],
         "close_digits": [
           "2",
@@ -193,15 +250,15 @@
           "9"
         ],
         "jodis": [
-          "06",
-          "52",
-          "09",
-          "76",
+          "72",
           "59",
-          "79"
+          "12",
+          "19",
+          "79",
+          "16"
         ],
         "open_pannas": [
-          "226",
+          "100",
           "240",
           "230",
           "133",
@@ -211,18 +268,18 @@
         ],
         "close_pannas": [
           "110",
-          "155",
           "456",
           "390",
           "178",
           "357",
-          "199"
+          "199",
+          "579"
         ]
       },
       "actual": {
         "open_digit": 0,
         "close_digit": 2,
-        "jodi": "76",
+        "jodi": "06",
         "open_panna": "226",
         "close_panna": "110"
       },
@@ -232,7 +289,7 @@
     {
       "market": "dabra_penal_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": true,
         "jodi": false,
         "open_panna": true,
@@ -240,9 +297,9 @@
       },
       "predicted": {
         "open_digits": [
-          "9",
           "6",
-          "2"
+          "2",
+          "0"
         ],
         "close_digits": [
           "8",
@@ -250,38 +307,38 @@
           "7"
         ],
         "jodis": [
-          "27",
+          "64",
+          "04",
+          "08",
           "68",
           "28",
-          "64",
-          "94",
-          "97"
+          "67"
         ],
         "open_pannas": [
           "110",
-          "144",
           "330",
           "200",
           "224",
           "230",
-          "155"
+          "155",
+          "449"
         ],
         "close_pannas": [
           "115",
           "112",
-          "370",
           "340",
           "260",
           "160",
-          "589"
+          "589",
+          "356"
         ]
       },
       "actual": {
         "open_digit": 9,
         "close_digit": 8,
-        "jodi": "62",
+        "jodi": "27",
         "open_panna": "110",
-        "close_panna": "112"
+        "close_panna": "115"
       },
       "family_hit": false,
       "line_match": null
@@ -290,8 +347,8 @@
       "market": "dadar_day_panel_chart",
       "hits": {
         "open_digit": true,
-        "close_digit": true,
-        "jodi": true,
+        "close_digit": false,
+        "jodi": false,
         "open_panna": true,
         "close_panna": false
       },
@@ -302,29 +359,29 @@
           "3"
         ],
         "close_digits": [
-          "8",
-          "9",
-          "0"
+          "0",
+          "5",
+          "1"
         ],
         "jodis": [
-          "79",
-          "28",
-          "39",
-          "29",
           "20",
-          "38"
+          "71",
+          "70",
+          "31",
+          "75",
+          "25"
         ],
         "open_pannas": [
           "777",
           "110",
-          "115",
-          "170",
           "380",
           "160",
-          "570"
+          "570",
+          "155",
+          "111"
         ],
         "close_pannas": [
-          "990",
+          "100",
           "146",
           "379",
           "700",
@@ -336,9 +393,9 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 8,
-        "jodi": "29",
+        "jodi": "79",
         "open_panna": "777",
-        "close_panna": "115"
+        "close_panna": "990"
       },
       "family_hit": false,
       "line_match": null
@@ -346,7 +403,7 @@
     {
       "market": "deluxe_panel_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": false,
         "jodi": false,
         "open_panna": true,
@@ -354,48 +411,48 @@
       },
       "predicted": {
         "open_digits": [
-          "1",
           "6",
-          "7"
+          "7",
+          "3"
         ],
         "close_digits": [
-          "2",
           "7",
-          "9"
+          "9",
+          "8"
         ],
         "jodis": [
-          "72",
+          "68",
+          "37",
+          "69",
           "79",
-          "62",
-          "19",
-          "17",
+          "77",
           "67"
         ],
         "open_pannas": [
+          "777",
           "888",
-          "100",
-          "579",
           "390",
           "457",
           "249",
-          "269"
+          "269",
+          "148"
         ],
         "close_pannas": [
-          "110",
-          "279",
           "237",
           "289",
           "459",
           "245",
-          "458"
+          "458",
+          "779",
+          "478"
         ]
       },
       "actual": {
         "open_digit": 1,
-        "close_digit": 0,
-        "jodi": "10",
+        "close_digit": 2,
+        "jodi": "72",
         "open_panna": "888",
-        "close_panna": "100"
+        "close_panna": "110"
       },
       "family_hit": false,
       "line_match": null
@@ -403,17 +460,17 @@
     {
       "market": "dhan_express_panel_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": false,
+        "open_digit": false,
+        "close_digit": true,
         "jodi": true,
         "open_panna": false,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "0",
           "7",
-          "5"
+          "5",
+          "4"
         ],
         "close_digits": [
           "7",
@@ -421,37 +478,37 @@
           "5"
         ],
         "jodis": [
-          "70",
-          "77",
-          "07",
-          "00",
-          "05",
-          "57"
+          "47",
+          "75",
+          "55",
+          "50",
+          "40",
+          "70"
         ],
         "open_pannas": [
-          "235",
           "369",
           "269",
           "579",
           "159",
           "134",
-          "246"
+          "246",
+          "239"
         ],
         "close_pannas": [
           "115",
-          "340",
           "790",
           "890",
           "569",
           "500",
-          "270"
+          "270",
+          "469"
         ]
       },
       "actual": {
         "open_digit": 0,
-        "close_digit": 8,
-        "jodi": "57",
-        "open_panna": "356",
+        "close_digit": 7,
+        "jodi": "70",
+        "open_panna": "235",
         "close_panna": "115"
       },
       "family_hit": false,
@@ -462,7 +519,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -479,35 +536,35 @@
         ],
         "jodis": [
           "31",
-          "57",
-          "39",
-          "71",
           "77",
-          "79"
+          "39",
+          "79",
+          "51",
+          "37"
         ],
         "open_pannas": [
           "777",
-          "279",
           "478",
           "120",
           "359",
           "189",
-          "160"
+          "160",
+          "267"
         ],
         "close_pannas": [
           "100",
-          "158",
           "234",
           "579",
           "489",
           "450",
-          "890"
+          "890",
+          "344"
         ]
       },
       "actual": {
         "open_digit": 3,
         "close_digit": 9,
-        "jodi": "51",
+        "jodi": "31",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -518,53 +575,53 @@
       "market": "kalyan_night_penal_chart",
       "hits": {
         "open_digit": true,
-        "close_digit": true,
+        "close_digit": false,
         "jodi": true,
-        "open_panna": true,
+        "open_panna": false,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
           "3",
           "0",
-          "2"
+          "4"
         ],
         "close_digits": [
-          "3",
           "5",
-          "6"
+          "6",
+          "0"
         ],
         "jodis": [
+          "46",
+          "45",
+          "30",
           "36",
-          "03",
-          "05",
-          "25",
-          "23",
-          "35"
+          "35",
+          "40"
         ],
         "open_pannas": [
-          "110",
+          "112",
           "777",
-          "390",
           "689",
           "235",
           "336",
-          "499"
+          "499",
+          "446"
         ],
         "close_pannas": [
+          "118",
           "888",
           "113",
-          "777",
-          "358",
           "139",
           "799",
-          "339"
+          "339",
+          "457"
         ]
       },
       "actual": {
         "open_digit": 3,
         "close_digit": 3,
-        "jodi": "25",
+        "jodi": "36",
         "open_panna": "110",
         "close_panna": "888"
       },
@@ -574,7 +631,7 @@
     {
       "market": "kalyan_penal_chart",
       "hits": {
-        "open_digit": false,
+        "open_digit": true,
         "close_digit": true,
         "jodi": false,
         "open_panna": true,
@@ -584,29 +641,29 @@
         "open_digits": [
           "4",
           "9",
-          "0"
+          "5"
         ],
         "close_digits": [
           "4",
           "9",
-          "2"
+          "0"
         ],
         "jodis": [
-          "92",
           "44",
-          "09",
-          "04",
+          "54",
           "94",
-          "99"
+          "99",
+          "50",
+          "49"
         ],
         "open_pannas": [
+          "113",
           "112",
           "159",
           "158",
           "159",
           "789",
-          "379",
-          "569"
+          "379"
         ],
         "close_pannas": [
           "199",
@@ -619,9 +676,9 @@
         ]
       },
       "actual": {
-        "open_digit": 5,
+        "open_digit": 4,
         "close_digit": 4,
-        "jodi": "49",
+        "jodi": "92",
         "open_panna": "112",
         "close_panna": "199"
       },
@@ -633,7 +690,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -649,11 +706,11 @@
           "1"
         ],
         "jodis": [
-          "80",
-          "51",
-          "81",
           "58",
+          "88",
+          "51",
           "30",
+          "38",
           "50"
         ],
         "open_pannas": [
@@ -678,7 +735,7 @@
       "actual": {
         "open_digit": 3,
         "close_digit": 0,
-        "jodi": "30",
+        "jodi": "80",
         "open_panna": "113",
         "close_panna": "100"
       },
@@ -688,10 +745,10 @@
     {
       "market": "karnataka_day_panel_chart",
       "hits": {
-        "open_digit": false,
+        "open_digit": true,
         "close_digit": true,
         "jodi": false,
-        "open_panna": true,
+        "open_panna": false,
         "close_panna": true
       },
       "predicted": {
@@ -703,39 +760,39 @@
         "close_digits": [
           "5",
           "6",
-          "8"
+          "0"
         ],
         "jodis": [
-          "06",
+          "00",
+          "05",
+          "66",
           "65",
           "96",
-          "68",
-          "08",
-          "98"
+          "95"
         ],
         "open_pannas": [
-          "888",
-          "160",
           "390",
           "330",
           "790",
           "135",
-          "299"
+          "299",
+          "150",
+          "460"
         ],
         "close_pannas": [
           "888",
-          "578",
           "348",
           "190",
           "124",
           "237",
-          "178"
+          "178",
+          "260"
         ]
       },
       "actual": {
-        "open_digit": 7,
+        "open_digit": 9,
         "close_digit": 5,
-        "jodi": "75",
+        "jodi": "06",
         "open_panna": "888",
         "close_panna": "888"
       },
@@ -745,56 +802,56 @@
     {
       "market": "karnataka_night_panel_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": false,
-        "jodi": false,
-        "open_panna": true,
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "6",
           "3",
-          "5"
+          "5",
+          "7"
         ],
         "close_digits": [
           "2",
-          "6",
-          "4"
+          "4",
+          "0"
         ],
         "jodis": [
-          "54",
           "34",
-          "64",
-          "36",
-          "32",
-          "62"
+          "54",
+          "50",
+          "72",
+          "30",
+          "74"
         ],
         "open_pannas": [
-          "888",
-          "123",
+          "777",
           "335",
           "238",
           "550",
           "140",
-          "467"
+          "467",
+          "470"
         ],
         "close_pannas": [
           "112",
           "200",
-          "480",
           "366",
           "110",
           "358",
-          "159"
+          "159",
+          "345"
         ]
       },
       "actual": {
         "open_digit": 6,
-        "close_digit": 9,
-        "jodi": "39",
+        "close_digit": 2,
+        "jodi": "54",
         "open_panna": "888",
-        "close_panna": "200"
+        "close_panna": "112"
       },
       "family_hit": false,
       "line_match": null
@@ -806,50 +863,50 @@
         "close_digit": true,
         "jodi": true,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
           "7",
-          "2",
-          "1"
+          "1",
+          "0"
         ],
         "close_digits": [
           "4",
           "1",
-          "5"
+          "6"
         ],
         "jodis": [
+          "04",
+          "76",
           "71",
+          "01",
           "14",
-          "21",
-          "11",
-          "15",
-          "75"
+          "06"
         ],
         "open_pannas": [
           "100",
-          "110",
           "457",
           "345",
           "245",
           "244",
-          "159"
+          "159",
+          "289"
         ],
         "close_pannas": [
-          "113",
           "100",
           "112",
           "356",
           "588",
           "700",
-          "690"
+          "690",
+          "259"
         ]
       },
       "actual": {
         "open_digit": 7,
         "close_digit": 4,
-        "jodi": "14",
+        "jodi": "71",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -859,11 +916,11 @@
     {
       "market": "khajana_panel_chart",
       "hits": {
-        "open_digit": false,
+        "open_digit": true,
         "close_digit": true,
         "jodi": false,
         "open_panna": true,
-        "close_panna": false
+        "close_panna": true
       },
       "predicted": {
         "open_digits": [
@@ -877,38 +934,38 @@
           "4"
         ],
         "jodis": [
-          "54",
-          "21",
-          "14",
-          "17",
+          "57",
           "51",
-          "27"
+          "24",
+          "27",
+          "17",
+          "14"
         ],
         "open_pannas": [
           "113",
           "110",
           "100",
-          "478",
           "477",
           "380",
-          "389"
+          "389",
+          "589"
         ],
         "close_pannas": [
           "100",
-          "348",
           "230",
           "489",
           "700",
           "459",
-          "389"
+          "389",
+          "400"
         ]
       },
       "actual": {
-        "open_digit": 3,
+        "open_digit": 1,
         "close_digit": 1,
-        "jodi": "24",
-        "open_panna": "110",
-        "close_panna": "112"
+        "jodi": "54",
+        "open_panna": "113",
+        "close_panna": "100"
       },
       "family_hit": false,
       "line_match": null
@@ -918,8 +975,8 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
-        "open_panna": false,
+        "jodi": true,
+        "open_panna": true,
         "close_panna": true
       },
       "predicted": {
@@ -934,12 +991,12 @@
           "4"
         ],
         "jodis": [
-          "96",
           "76",
-          "74",
-          "24",
+          "92",
           "26",
-          "92"
+          "96",
+          "74",
+          "72"
         ],
         "open_pannas": [
           "110",
@@ -963,8 +1020,8 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 6,
-        "jodi": "72",
-        "open_panna": "100",
+        "jodi": "96",
+        "open_panna": "110",
         "close_panna": "110"
       },
       "family_hit": false,
@@ -973,17 +1030,17 @@
     {
       "market": "madhur_morning_penal_chart",
       "hits": {
-        "open_digit": false,
+        "open_digit": true,
         "close_digit": true,
         "jodi": true,
-        "open_panna": true,
-        "close_panna": true
+        "open_panna": false,
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
           "2",
-          "4",
-          "5"
+          "5",
+          "1"
         ],
         "close_digits": [
           "6",
@@ -991,15 +1048,15 @@
           "8"
         ],
         "jodis": [
+          "28",
+          "19",
           "29",
-          "59",
-          "49",
-          "48",
           "58",
-          "26"
+          "26",
+          "16"
         ],
         "open_pannas": [
-          "112",
+          "100",
           "110",
           "146",
           "336",
@@ -1008,19 +1065,19 @@
           "590"
         ],
         "close_pannas": [
-          "116",
           "556",
           "556",
           "360",
           "134",
           "189",
-          "223"
+          "223",
+          "357"
         ]
       },
       "actual": {
-        "open_digit": 1,
+        "open_digit": 2,
         "close_digit": 6,
-        "jodi": "26",
+        "jodi": "29",
         "open_panna": "112",
         "close_panna": "116"
       },
@@ -1032,7 +1089,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1048,12 +1105,12 @@
           "5"
         ],
         "jodis": [
+          "72",
+          "22",
+          "52",
           "25",
           "55",
-          "71",
-          "22",
-          "21",
-          "51"
+          "21"
         ],
         "open_pannas": [
           "113",
@@ -1077,7 +1134,7 @@
       "actual": {
         "open_digit": 7,
         "close_digit": 2,
-        "jodi": "72",
+        "jodi": "25",
         "open_panna": "113",
         "close_panna": "113"
       },
@@ -1087,56 +1144,56 @@
     {
       "market": "maharani_day_panel_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": true,
+        "open_digit": false,
+        "close_digit": false,
         "jodi": false,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
-          "0",
           "3",
-          "8"
+          "8",
+          "6"
         ],
         "close_digits": [
-          "4",
           "7",
-          "5"
+          "5",
+          "3"
         ],
         "jodis": [
-          "07",
-          "34",
-          "84",
-          "35",
+          "87",
+          "85",
+          "33",
           "37",
-          "87"
+          "35",
+          "83"
         ],
         "open_pannas": [
           "777",
-          "569",
           "256",
           "138",
           "125",
           "178",
-          "379"
+          "379",
+          "345"
         ],
         "close_pannas": [
-          "115",
-          "130",
-          "112",
           "689",
           "258",
           "458",
-          "456"
+          "456",
+          "490",
+          "790",
+          "190"
         ]
       },
       "actual": {
         "open_digit": 0,
         "close_digit": 4,
-        "jodi": "85",
+        "jodi": "07",
         "open_panna": "777",
-        "close_panna": "130"
+        "close_panna": "115"
       },
       "family_hit": false,
       "line_match": null
@@ -1146,7 +1203,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1162,12 +1219,12 @@
           "7"
         ],
         "jodis": [
-          "13",
-          "03",
-          "04",
+          "07",
           "64",
-          "63",
-          "07"
+          "03",
+          "13",
+          "14",
+          "63"
         ],
         "open_pannas": [
           "100",
@@ -1191,7 +1248,7 @@
       "actual": {
         "open_digit": 1,
         "close_digit": 4,
-        "jodi": "17",
+        "jodi": "13",
         "open_panna": "100",
         "close_panna": "777"
       },
@@ -1203,8 +1260,8 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
-        "open_panna": true,
+        "jodi": true,
+        "open_panna": false,
         "close_panna": true
       },
       "predicted": {
@@ -1220,35 +1277,35 @@
         ],
         "jodis": [
           "32",
+          "52",
+          "38",
           "39",
-          "02",
-          "09",
-          "58",
-          "59"
+          "59",
+          "08"
         ],
         "open_pannas": [
-          "113",
-          "890",
+          "777",
           "127",
           "690",
           "678",
           "580",
-          "236"
+          "236",
+          "567"
         ],
         "close_pannas": [
           "110",
-          "556",
           "279",
           "388",
           "226",
           "499",
-          "179"
+          "179",
+          "148"
         ]
       },
       "actual": {
         "open_digit": 0,
         "close_digit": 8,
-        "jodi": "38",
+        "jodi": "32",
         "open_panna": "113",
         "close_panna": "110"
       },
@@ -1258,56 +1315,56 @@
     {
       "market": "main_bazar_panel_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": false,
-        "jodi": false,
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": true,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
-          "8",
           "5",
-          "6"
+          "6",
+          "4"
         ],
         "close_digits": [
           "5",
           "9",
-          "6"
+          "2"
         ],
         "jodis": [
           "59",
-          "86",
-          "66",
-          "55",
-          "85",
-          "89"
+          "42",
+          "49",
+          "52",
+          "45",
+          "55"
         ],
         "open_pannas": [
           "888",
-          "113",
-          "590",
           "170",
           "249",
           "268",
-          "579"
+          "579",
+          "149",
+          "344"
         ],
         "close_pannas": [
-          "888",
+          "110",
           "199",
           "113",
-          "568",
           "168",
           "478",
-          "448"
+          "448",
+          "147"
         ]
       },
       "actual": {
         "open_digit": 8,
-        "close_digit": 8,
-        "jodi": "58",
+        "close_digit": 5,
+        "jodi": "59",
         "open_panna": "888",
-        "close_panna": "113"
+        "close_panna": "888"
       },
       "family_hit": false,
       "line_match": null
@@ -1317,7 +1374,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -1334,11 +1391,11 @@
         ],
         "jodis": [
           "50",
-          "52",
-          "03",
+          "40",
           "53",
-          "43",
-          "40"
+          "03",
+          "02",
+          "00"
         ],
         "open_pannas": [
           "112",
@@ -1362,7 +1419,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 0,
-        "jodi": null,
+        "jodi": "50",
         "open_panna": "112",
         "close_panna": "110"
       },
@@ -1372,56 +1429,56 @@
     {
       "market": "main_ratan_penal_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": false,
-        "jodi": false,
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": true,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
-          "8",
           "5",
-          "6"
+          "6",
+          "4"
         ],
         "close_digits": [
           "5",
           "9",
-          "6"
+          "2"
         ],
         "jodis": [
+          "59",
           "69",
-          "66",
-          "56",
-          "86",
-          "89",
-          "85"
+          "65",
+          "55",
+          "42",
+          "45"
         ],
         "open_pannas": [
           "888",
-          "113",
-          "590",
           "170",
           "249",
           "268",
-          "579"
+          "579",
+          "149",
+          "344"
         ],
         "close_pannas": [
-          "888",
+          "110",
           "199",
           "113",
-          "568",
           "168",
           "478",
-          "448"
+          "448",
+          "147"
         ]
       },
       "actual": {
         "open_digit": 8,
-        "close_digit": 8,
-        "jodi": "55",
+        "close_digit": 5,
+        "jodi": "69",
         "open_panna": "888",
-        "close_panna": "113"
+        "close_panna": "888"
       },
       "family_hit": false,
       "line_match": null
@@ -1447,11 +1504,11 @@
           "4"
         ],
         "jodis": [
-          "64",
-          "67",
-          "27",
+          "34",
+          "24",
           "60",
-          "37",
+          "30",
+          "67",
           "20"
         ],
         "open_pannas": [
@@ -1476,7 +1533,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 0,
-        "jodi": "34",
+        "jodi": "64",
         "open_panna": "110",
         "close_panna": "115"
       },
@@ -1488,9 +1545,9 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
-        "close_panna": false
+        "close_panna": true
       },
       "predicted": {
         "open_digits": [
@@ -1504,12 +1561,12 @@
           "5"
         ],
         "jodis": [
-          "78",
-          "57",
-          "35",
-          "38",
+          "75",
+          "77",
           "58",
-          "75"
+          "57",
+          "78",
+          "55"
         ],
         "open_pannas": [
           "113",
@@ -1533,9 +1590,9 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 7,
-        "jodi": "51",
+        "jodi": "78",
         "open_panna": "113",
-        "close_panna": "100"
+        "close_panna": "115"
       },
       "family_hit": false,
       "line_match": null
@@ -1545,9 +1602,9 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
@@ -1558,15 +1615,15 @@
         "close_digits": [
           "8",
           "5",
-          "2"
+          "3"
         ],
         "jodis": [
-          "22",
-          "78",
-          "62",
+          "25",
+          "23",
           "68",
-          "28",
-          "25"
+          "63",
+          "75",
+          "28"
         ],
         "open_pannas": [
           "110",
@@ -1578,13 +1635,13 @@
           "135"
         ],
         "close_pannas": [
-          "110",
           "113",
           "660",
           "116",
           "799",
           "390",
-          "779"
+          "779",
+          "478"
         ]
       },
       "actual": {
@@ -1601,7 +1658,7 @@
       "market": "morning_syndicate_penal_chart",
       "hits": {
         "open_digit": true,
-        "close_digit": true,
+        "close_digit": false,
         "jodi": false,
         "open_panna": true,
         "close_panna": true
@@ -1610,46 +1667,46 @@
         "open_digits": [
           "0",
           "7",
-          "5"
+          "6"
         ],
         "close_digits": [
-          "7",
           "0",
-          "2"
+          "2",
+          "1"
         ],
         "jodis": [
-          "77",
-          "50",
-          "52",
-          "00",
-          "72",
-          "02"
+          "01",
+          "02",
+          "71",
+          "61",
+          "60",
+          "62"
         ],
         "open_pannas": [
+          "888",
           "115",
           "790",
           "269",
           "578",
           "114",
-          "360",
-          "459"
+          "360"
         ],
         "close_pannas": [
+          "100",
           "110",
           "345",
           "124",
           "388",
           "350",
-          "389",
-          "480"
+          "389"
         ]
       },
       "actual": {
         "open_digit": 0,
         "close_digit": 7,
-        "jodi": "90",
+        "jodi": "77",
         "open_panna": "115",
-        "close_panna": "345"
+        "close_panna": "110"
       },
       "family_hit": false,
       "line_match": null
@@ -1675,11 +1732,11 @@
           "7"
         ],
         "jodis": [
-          "57",
-          "55",
+          "94",
           "54",
+          "55",
           "77",
-          "95",
+          "57",
           "97"
         ],
         "open_pannas": [
@@ -1704,7 +1761,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 5,
-        "jodi": "77",
+        "jodi": "57",
         "open_panna": "113",
         "close_panna": "113"
       },
@@ -1714,8 +1771,8 @@
     {
       "market": "prabhat_panel_chart",
       "hits": {
-        "open_digit": false,
-        "close_digit": false,
+        "open_digit": true,
+        "close_digit": true,
         "jodi": false,
         "open_panna": true,
         "close_panna": true
@@ -1732,12 +1789,12 @@
           "8"
         ],
         "jodis": [
-          "63",
+          "15",
+          "13",
           "68",
+          "38",
           "33",
-          "65",
-          "18",
-          "38"
+          "35"
         ],
         "open_pannas": [
           "777",
@@ -1759,10 +1816,10 @@
         ]
       },
       "actual": {
-        "open_digit": 5,
-        "close_digit": 7,
-        "jodi": "17",
-        "open_panna": "100",
+        "open_digit": 6,
+        "close_digit": 5,
+        "jodi": "63",
+        "open_panna": "777",
         "close_panna": "113"
       },
       "family_hit": false,
@@ -1789,30 +1846,30 @@
           "3"
         ],
         "jodis": [
-          "33",
+          "15",
+          "35",
           "51",
-          "31",
-          "13",
-          "53",
-          "11"
+          "11",
+          "55",
+          "33"
         ],
         "open_pannas": [
           "100",
           "113",
           "777",
-          "249",
           "300",
           "140",
-          "128"
+          "128",
+          "350"
         ],
         "close_pannas": [
           "777",
           "100",
-          "267",
           "489",
           "456",
           "148",
-          "479"
+          "479",
+          "235"
         ]
       },
       "actual": {
@@ -1828,17 +1885,17 @@
     {
       "market": "rajdhani_day_penal_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": true,
-        "jodi": false,
-        "open_panna": false,
+        "jodi": true,
+        "open_panna": true,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "8",
           "0",
-          "7"
+          "7",
+          "2"
         ],
         "close_digits": [
           "1",
@@ -1846,21 +1903,21 @@
           "5"
         ],
         "jodis": [
-          "75",
-          "87",
           "07",
+          "25",
+          "75",
           "05",
-          "01",
+          "71",
           "77"
         ],
         "open_pannas": [
+          "110",
           "189",
           "367",
           "235",
           "223",
           "138",
-          "899",
-          "680"
+          "899"
         ],
         "close_pannas": [
           "100",
@@ -1875,8 +1932,8 @@
       "actual": {
         "open_digit": 8,
         "close_digit": 1,
-        "jodi": "81",
-        "open_panna": "118",
+        "jodi": "75",
+        "open_panna": "189",
         "close_panna": "100"
       },
       "family_hit": false,
@@ -1886,55 +1943,55 @@
       "market": "rajdhani_night_penal_chart",
       "hits": {
         "open_digit": false,
-        "close_digit": true,
+        "close_digit": false,
         "jodi": false,
         "open_panna": true,
-        "close_panna": false
+        "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "8",
-          "6",
-          "3"
+          "3",
+          "4",
+          "0"
         ],
         "close_digits": [
-          "5",
           "6",
-          "2"
+          "2",
+          "8"
         ],
         "jodis": [
-          "86",
-          "66",
-          "35",
-          "82",
-          "65",
-          "32"
+          "46",
+          "08",
+          "02",
+          "32",
+          "06",
+          "38"
         ],
         "open_pannas": [
+          "112",
           "777",
-          "116",
-          "125",
           "190",
           "457",
           "247",
-          "490"
+          "490",
+          "130"
         ],
         "close_pannas": [
+          "116",
           "110",
-          "113",
-          "168",
           "150",
           "167",
           "330",
-          "156"
+          "156",
+          "170"
         ]
       },
       "actual": {
-        "open_digit": 5,
+        "open_digit": 8,
         "close_digit": 5,
-        "jodi": "05",
-        "open_panna": "116",
-        "close_panna": "112"
+        "jodi": "86",
+        "open_panna": "777",
+        "close_panna": "110"
       },
       "family_hit": false,
       "line_match": null
@@ -1959,12 +2016,12 @@
           "2"
         ],
         "jodis": [
-          "95",
-          "92",
-          "82",
-          "85",
+          "32",
           "35",
-          "32"
+          "85",
+          "95",
+          "82",
+          "92"
         ],
         "open_pannas": [
           "116",
@@ -1988,7 +2045,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 5,
-        "jodi": "85",
+        "jodi": "95",
         "open_panna": "116",
         "close_panna": "113"
       },
@@ -2016,12 +2073,12 @@
           "2"
         ],
         "jodis": [
+          "20",
+          "12",
+          "23",
           "30",
           "22",
-          "10",
-          "33",
-          "12",
-          "20"
+          "10"
         ],
         "open_pannas": [
           "100",
@@ -2045,7 +2102,7 @@
       "actual": {
         "open_digit": 2,
         "close_digit": 0,
-        "jodi": "12",
+        "jodi": "30",
         "open_panna": "100",
         "close_panna": "110"
       },
@@ -2073,12 +2130,12 @@
           "9"
         ],
         "jodis": [
-          "06",
           "46",
-          "02",
-          "42",
+          "82",
           "09",
-          "82"
+          "86",
+          "49",
+          "06"
         ],
         "open_pannas": [
           "112",
@@ -2130,12 +2187,12 @@
           "0"
         ],
         "jodis": [
-          "61",
-          "55",
-          "60",
-          "65",
+          "51",
+          "10",
           "15",
-          "50"
+          "60",
+          "61",
+          "11"
         ],
         "open_pannas": [
           "100",
@@ -2159,7 +2216,7 @@
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "60",
+        "jodi": "61",
         "open_panna": "100",
         "close_panna": "113"
       },
@@ -2171,7 +2228,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": true,
+        "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
@@ -2187,12 +2244,12 @@
           "5"
         ],
         "jodis": [
-          "25",
-          "23",
           "63",
-          "20",
+          "60",
           "73",
-          "75"
+          "23",
+          "75",
+          "65"
         ],
         "open_pannas": [
           "888",
@@ -2226,17 +2283,17 @@
     {
       "market": "sridevi_night_satta_penal_chart",
       "hits": {
-        "open_digit": true,
-        "close_digit": false,
+        "open_digit": false,
+        "close_digit": true,
         "jodi": false,
         "open_panna": true,
         "close_panna": true
       },
       "predicted": {
         "open_digits": [
-          "1",
           "8",
-          "3"
+          "3",
+          "2"
         ],
         "close_digits": [
           "7",
@@ -2244,36 +2301,36 @@
           "5"
         ],
         "jodis": [
-          "17",
-          "35",
-          "11",
-          "15",
-          "87",
-          "81"
+          "27",
+          "31",
+          "81",
+          "37",
+          "21",
+          "87"
         ],
         "open_pannas": [
+          "110",
           "777",
-          "100",
-          "290",
           "170",
           "157",
           "457",
-          "359"
+          "359",
+          "150"
         ],
         "close_pannas": [
           "100",
-          "156",
           "235",
           "278",
           "245",
           "190",
-          "599"
+          "599",
+          "235"
         ]
       },
       "actual": {
         "open_digit": 1,
-        "close_digit": 8,
-        "jodi": "31",
+        "close_digit": 7,
+        "jodi": "17",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -2283,7 +2340,7 @@
     {
       "market": "sridevi_satta_penal_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": true,
         "jodi": true,
         "open_panna": true,
@@ -2291,9 +2348,9 @@
       },
       "predicted": {
         "open_digits": [
-          "7",
           "8",
-          "3"
+          "3",
+          "1"
         ],
         "close_digits": [
           "6",
@@ -2302,15 +2359,15 @@
         ],
         "jodis": [
           "36",
-          "74",
           "84",
+          "81",
+          "11",
           "31",
-          "86",
-          "71"
+          "86"
         ],
         "open_pannas": [
+          "100",
           "777",
-          "340",
           "279",
           "178",
           "116",
@@ -2319,18 +2376,18 @@
         ],
         "close_pannas": [
           "100",
-          "157",
           "268",
           "470",
           "149",
           "258",
-          "256"
+          "256",
+          "124"
         ]
       },
       "actual": {
         "open_digit": 7,
         "close_digit": 6,
-        "jodi": "86",
+        "jodi": "36",
         "open_panna": "777",
         "close_panna": "100"
       },
@@ -2340,8 +2397,8 @@
     {
       "market": "star_morning_panel_chart",
       "hits": {
-        "open_digit": false,
-        "close_digit": true,
+        "open_digit": true,
+        "close_digit": false,
         "jodi": true,
         "open_panna": true,
         "close_panna": false
@@ -2353,43 +2410,43 @@
           "8"
         ],
         "close_digits": [
-          "5",
           "9",
-          "7"
+          "3",
+          "2"
         ],
         "jodis": [
-          "89",
-          "29",
+          "03",
           "09",
-          "87",
-          "27",
-          "25"
+          "02",
+          "82",
+          "22",
+          "89"
         ],
         "open_pannas": [
           "110",
-          "270",
           "136",
           "369",
           "127",
           "138",
-          "224"
+          "224",
+          "137"
         ],
         "close_pannas": [
-          "122",
+          "200",
+          "777",
           "246",
           "359",
           "300",
           "289",
-          "188",
-          "580"
+          "188"
         ]
       },
       "actual": {
-        "open_digit": 7,
+        "open_digit": 0,
         "close_digit": 5,
-        "jodi": "29",
+        "jodi": "89",
         "open_panna": "110",
-        "close_panna": "346"
+        "close_panna": "122"
       },
       "family_hit": false,
       "line_match": null
@@ -2397,54 +2454,54 @@
     {
       "market": "supreme_day_panel_chart",
       "hits": {
-        "open_digit": true,
+        "open_digit": false,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
-        "close_panna": true
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
-          "5",
           "3",
-          "2"
+          "2",
+          "0"
         ],
         "close_digits": [
           "1",
-          "3",
-          "9"
+          "9",
+          "5"
         ],
         "jodis": [
-          "29",
+          "31",
+          "05",
+          "25",
           "39",
-          "59",
-          "23",
           "21",
-          "33"
+          "29"
         ],
         "open_pannas": [
           "110",
-          "113",
-          "357",
+          "777",
           "166",
           "589",
           "137",
-          "778"
+          "778",
+          "334"
         ],
         "close_pannas": [
-          "777",
+          "113",
           "100",
-          "678",
           "146",
           "568",
           "134",
-          "112"
+          "112",
+          "580"
         ]
       },
       "actual": {
         "open_digit": 5,
         "close_digit": 1,
-        "jodi": "31",
+        "jodi": "29",
         "open_panna": "110",
         "close_panna": "777"
       },
@@ -2454,11 +2511,11 @@
     {
       "market": "supreme_night_panel_chart",
       "hits": {
-        "open_digit": false,
-        "close_digit": false,
+        "open_digit": true,
+        "close_digit": true,
         "jodi": false,
         "open_panna": true,
-        "close_panna": false
+        "close_panna": true
       },
       "predicted": {
         "open_digits": [
@@ -2472,12 +2529,12 @@
           "0"
         ],
         "jodis": [
-          "05",
-          "85",
-          "70",
+          "88",
           "80",
-          "00",
-          "08"
+          "08",
+          "75",
+          "78",
+          "00"
         ],
         "open_pannas": [
           "116",
@@ -2499,11 +2556,11 @@
         ]
       },
       "actual": {
-        "open_digit": 1,
-        "close_digit": 7,
-        "jodi": "88",
+        "open_digit": 7,
+        "close_digit": 5,
+        "jodi": "05",
         "open_panna": "116",
-        "close_panna": "188"
+        "close_panna": "146"
       },
       "family_hit": false,
       "line_match": null
@@ -2529,12 +2586,12 @@
           "9"
         ],
         "jodis": [
-          "84",
-          "98",
-          "68",
+          "94",
           "99",
-          "88",
-          "89"
+          "64",
+          "89",
+          "98",
+          "84"
         ],
         "open_pannas": [
           "888",
@@ -2558,7 +2615,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 8,
-        "jodi": "98",
+        "jodi": "84",
         "open_panna": "888",
         "close_panna": "112"
       },
@@ -2568,11 +2625,11 @@
     {
       "market": "time_bazar_panel_chart",
       "hits": {
-        "open_digit": false,
+        "open_digit": true,
         "close_digit": true,
-        "jodi": false,
-        "open_panna": false,
-        "close_panna": true
+        "jodi": true,
+        "open_panna": true,
+        "close_panna": false
       },
       "predicted": {
         "open_digits": [
@@ -2583,15 +2640,15 @@
         "close_digits": [
           "9",
           "5",
-          "4"
+          "1"
         ],
         "jodis": [
-          "69",
           "59",
-          "45",
-          "49",
-          "54",
-          "55"
+          "61",
+          "69",
+          "55",
+          "41",
+          "65"
         ],
         "open_pannas": [
           "888",
@@ -2603,7 +2660,7 @@
           "129"
         ],
         "close_pannas": [
-          "112",
+          "100",
           "113",
           "469",
           "366",
@@ -2613,10 +2670,10 @@
         ]
       },
       "actual": {
-        "open_digit": 0,
+        "open_digit": 5,
         "close_digit": 9,
-        "jodi": "09",
-        "open_panna": "113",
+        "jodi": "69",
+        "open_panna": "888",
         "close_panna": "112"
       },
       "family_hit": false,
@@ -2643,12 +2700,12 @@
           "7"
         ],
         "jodis": [
-          "57",
-          "70",
-          "44",
           "77",
           "40",
-          "50"
+          "50",
+          "57",
+          "54",
+          "44"
         ],
         "open_pannas": [
           "112",
@@ -2684,7 +2741,7 @@
       "hits": {
         "open_digit": true,
         "close_digit": true,
-        "jodi": false,
+        "jodi": true,
         "open_panna": true,
         "close_panna": true
       },
@@ -2700,12 +2757,12 @@
           "5"
         ],
         "jodis": [
-          "71",
-          "64",
           "61",
-          "65",
+          "71",
+          "75",
           "14",
-          "11"
+          "65",
+          "15"
         ],
         "open_pannas": [
           "100",
@@ -2729,7 +2786,7 @@
       "actual": {
         "open_digit": 6,
         "close_digit": 4,
-        "jodi": "75",
+        "jodi": "71",
         "open_panna": "100",
         "close_panna": "100"
       },
@@ -2757,12 +2814,12 @@
           "4"
         ],
         "jodis": [
-          "04",
-          "40",
+          "44",
+          "00",
           "94",
-          "90",
-          "03",
-          "93"
+          "43",
+          "04",
+          "90"
         ],
         "open_pannas": [
           "112",
@@ -2786,7 +2843,7 @@
       "actual": {
         "open_digit": 9,
         "close_digit": 3,
-        "jodi": "94",
+        "jodi": "04",
         "open_panna": "112",
         "close_panna": "112"
       },
