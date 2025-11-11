@@ -22,7 +22,7 @@
       "close_panna": 0.8
     }
   },
-  "markets": {
+  "hits": {
     "amar_jyoti_penal_chart": {
       "hits": {
         "open_digit": true,
@@ -2477,97 +2477,6 @@
           "value": "115",
           "display": "→ 115",
           "status": "PASS"
-        }
-      }
-    },
-    "milan_day_penal_chart": {
-      "hits": {
-        "open_digit": false,
-        "close_digit": false,
-        "jodi": false,
-        "open_panna": false,
-        "close_panna": false
-      },
-      "family_hit": false,
-      "matched_families": [],
-      "line_predicted": null,
-      "line_match": null,
-      "any_hit": false,
-      "actual": {
-        "open_digit": 5,
-        "close_digit": 8,
-        "jodi": "30",
-        "open_panna": "113",
-        "close_panna": "233"
-      },
-      "predicted": {
-        "open_digits": [
-          "7",
-          "3",
-          "9"
-        ],
-        "close_digits": [
-          "3",
-          "0",
-          "5"
-        ],
-        "jodis": [
-          "33",
-          "35",
-          "70",
-          "73",
-          "95",
-          "75"
-        ],
-        "open_pannas": [
-          "777",
-          "234",
-          "467",
-          "490",
-          "234",
-          "239",
-          "149"
-        ],
-        "close_pannas": [
-          "113",
-          "678",
-          "690",
-          "346",
-          "560",
-          "569",
-          "267"
-        ]
-      },
-      "score_details": {
-        "open": {
-          "passed": false,
-          "value": 5,
-          "display": "↑ 5",
-          "status": "FAIL"
-        },
-        "close": {
-          "passed": false,
-          "value": 8,
-          "display": "↑ 8",
-          "status": "FAIL"
-        },
-        "jodi": {
-          "passed": false,
-          "value": "30",
-          "display": "★ 30",
-          "status": "FAIL"
-        },
-        "open_panna": {
-          "passed": false,
-          "value": "113",
-          "display": "→ 113",
-          "status": "FAIL"
-        },
-        "close_panna": {
-          "passed": false,
-          "value": "233",
-          "display": "→ 233",
-          "status": "FAIL"
         }
       }
     },
