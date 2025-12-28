@@ -1,0 +1,1693 @@
+{
+  "generated_at": "2025-12-28T20:57:23Z",
+  "inputs": {
+    "predictions_path": "C:\\Users\\VCOM\\Desktop\\Kalyan_Penal_Scraper\\todays_predictions.json",
+    "yesterday_path": "C:\\Users\\VCOM\\Desktop\\output\\yesterday_results.json"
+  },
+  "summary": {
+    "markets_scored": 50,
+    "markets_with_hits": 17,
+    "hit_counts": {
+      "open_digit": 7,
+      "close_digit": 9,
+      "jodi": 3,
+      "open_panna": 1,
+      "close_panna": 2
+    },
+    "hit_rates": {
+      "open_digit": 0.14,
+      "close_digit": 0.18,
+      "jodi": 0.06,
+      "open_panna": 0.02,
+      "close_panna": 0.04
+    }
+  },
+  "hits": {
+    "amar_jyoti_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": true,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 8,
+        "jodi": "48",
+        "open_panna": "380",
+        "close_panna": "127"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "8",
+          "1"
+        ],
+        "close_digits": [
+          "2",
+          "4",
+          "6"
+        ],
+        "jodis": [
+          "32",
+          "34",
+          "36",
+          "82",
+          "84",
+          "86",
+          "12",
+          "14",
+          "16"
+        ],
+        "open_pannas": [
+          "157",
+          "238",
+          "247",
+          "134",
+          "350",
+          "170",
+          "245",
+          "380",
+          "678"
+        ],
+        "close_pannas": [
+          "156",
+          "237",
+          "147",
+          "158",
+          "167",
+          "239",
+          "240",
+          "178",
+          "259"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 6,
+          "display": "↑ 6",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": false,
+          "value": 8,
+          "display": "↑ 8",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "48",
+          "display": "★ 48",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": true,
+          "value": "380",
+          "display": "→ 380",
+          "status": "PASS"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "127",
+          "display": "→ 127",
+          "status": "FAIL"
+        }
+      }
+    },
+    "dadar_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 5,
+        "jodi": "43",
+        "open_panna": "888",
+        "close_panna": "112"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "3",
+          "7"
+        ],
+        "close_digits": [
+          "1",
+          "9",
+          "4"
+        ],
+        "jodis": [
+          "51",
+          "59",
+          "54",
+          "31",
+          "39",
+          "34",
+          "71",
+          "79",
+          "74"
+        ],
+        "open_pannas": [
+          "267",
+          "348",
+          "357",
+          "247",
+          "256",
+          "337",
+          "115",
+          "124",
+          "133"
+        ],
+        "close_pannas": [
+          "146",
+          "236",
+          "470",
+          "388",
+          "469",
+          "478",
+          "220",
+          "400",
+          "338"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 7,
+          "display": "↑ 7",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": false,
+          "value": 5,
+          "display": "↑ 5",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "43",
+          "display": "★ 43",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "888",
+          "display": "→ 888",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        }
+      }
+    },
+    "dhan_express_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 6,
+        "close_digit": 6,
+        "jodi": "02",
+        "open_panna": "112",
+        "close_panna": "110"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "1",
+          "5"
+        ],
+        "close_digits": [
+          "8",
+          "9",
+          "6"
+        ],
+        "jodis": [
+          "48",
+          "49",
+          "46",
+          "18",
+          "19",
+          "16",
+          "58",
+          "59",
+          "56"
+        ],
+        "open_pannas": [
+          "347",
+          "356",
+          "590",
+          "290",
+          "245",
+          "380",
+          "168",
+          "249",
+          "258"
+        ],
+        "close_pannas": [
+          "116",
+          "125",
+          "134",
+          "388",
+          "469",
+          "478",
+          "222",
+          "556",
+          "888"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 6,
+          "display": "↑ 6",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 6,
+          "display": "↑ 6",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "02",
+          "display": "★ 02",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "110",
+          "display": "→ 110",
+          "status": "FAIL"
+        }
+      }
+    },
+    "karnataka_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 4,
+        "jodi": "94",
+        "open_panna": "777",
+        "close_panna": "116"
+      },
+      "predicted": {
+        "open_digits": [
+          "4",
+          "3",
+          "0"
+        ],
+        "close_digits": [
+          "8",
+          "1",
+          "5"
+        ],
+        "jodis": [
+          "48",
+          "41",
+          "45",
+          "38",
+          "31",
+          "35",
+          "08",
+          "01",
+          "05"
+        ],
+        "open_pannas": [
+          "220",
+          "266",
+          "446",
+          "256",
+          "247",
+          "580",
+          "145",
+          "370",
+          "460"
+        ],
+        "close_pannas": [
+          "134",
+          "224",
+          "233",
+          "146",
+          "236",
+          "245",
+          "249",
+          "258",
+          "780"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 3,
+          "display": "↑ 3",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": false,
+          "value": 4,
+          "display": "↑ 4",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "94",
+          "display": "★ 94",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "116",
+          "display": "→ 116",
+          "status": "FAIL"
+        }
+      }
+    },
+    "karnataka_night_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 4,
+        "jodi": "54",
+        "open_panna": "112",
+        "close_panna": "113"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "7",
+          "5"
+        ],
+        "close_digits": [
+          "3",
+          "0",
+          "1"
+        ],
+        "jodis": [
+          "03",
+          "00",
+          "01",
+          "73",
+          "70",
+          "71",
+          "53",
+          "50",
+          "51"
+        ],
+        "open_pannas": [
+          "479",
+          "127",
+          "136",
+          "188",
+          "269",
+          "359",
+          "267",
+          "348",
+          "690"
+        ],
+        "close_pannas": [
+          "346",
+          "779",
+          "300",
+          "145",
+          "235",
+          "280",
+          "137",
+          "146",
+          "470"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 5,
+          "display": "↑ 5",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": false,
+          "value": 4,
+          "display": "↑ 4",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "54",
+          "display": "★ 54",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "113",
+          "display": "→ 113",
+          "status": "FAIL"
+        }
+      }
+    },
+    "kbc_bombay_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 4,
+        "close_digit": 6,
+        "jodi": "46",
+        "open_panna": "777",
+        "close_panna": "110"
+      },
+      "predicted": {
+        "open_digits": [
+          "9",
+          "0",
+          "6"
+        ],
+        "close_digits": [
+          "7",
+          "6",
+          "1"
+        ],
+        "jodis": [
+          "97",
+          "96",
+          "91",
+          "07",
+          "06",
+          "01",
+          "67",
+          "66",
+          "61"
+        ],
+        "open_pannas": [
+          "478",
+          "568",
+          "126",
+          "370",
+          "460",
+          "136",
+          "259",
+          "268",
+          "349"
+        ],
+        "close_pannas": [
+          "278",
+          "359",
+          "368",
+          "268",
+          "178",
+          "259",
+          "236",
+          "245",
+          "146"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 4,
+          "display": "↑ 4",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 6,
+          "display": "↑ 6",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "46",
+          "display": "★ 46",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "110",
+          "display": "→ 110",
+          "status": "FAIL"
+        }
+      }
+    },
+    "madhur_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 2,
+        "jodi": "34",
+        "open_panna": "777",
+        "close_panna": "110"
+      },
+      "predicted": {
+        "open_digits": [
+          "6",
+          "3",
+          "8"
+        ],
+        "close_digits": [
+          "9",
+          "7",
+          "4"
+        ],
+        "jodis": [
+          "69",
+          "67",
+          "64",
+          "39",
+          "37",
+          "34",
+          "89",
+          "87",
+          "84"
+        ],
+        "open_pannas": [
+          "123",
+          "240",
+          "268",
+          "148",
+          "157",
+          "238",
+          "369",
+          "459",
+          "189"
+        ],
+        "close_pannas": [
+          "388",
+          "478",
+          "559",
+          "458",
+          "124",
+          "340",
+          "257",
+          "347",
+          "167"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 7,
+          "display": "↑ 7",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": false,
+          "value": 2,
+          "display": "↑ 2",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": true,
+          "value": "34",
+          "display": "★ 34",
+          "status": "PASS"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "110",
+          "display": "→ 110",
+          "status": "FAIL"
+        }
+      }
+    },
+    "maharani_night_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 7,
+        "close_digit": 0,
+        "jodi": "39",
+        "open_panna": "119",
+        "close_panna": "115"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "4",
+          "9"
+        ],
+        "close_digits": [
+          "1",
+          "0",
+          "3"
+        ],
+        "jodis": [
+          "01",
+          "00",
+          "03",
+          "41",
+          "40",
+          "43",
+          "91",
+          "90",
+          "93"
+        ],
+        "open_pannas": [
+          "136",
+          "460",
+          "569",
+          "167",
+          "248",
+          "257",
+          "234",
+          "270",
+          "568"
+        ],
+        "close_pannas": [
+          "146",
+          "155",
+          "227",
+          "370",
+          "145",
+          "280",
+          "300",
+          "247",
+          "256"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 7,
+          "display": "↑ 7",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "39",
+          "display": "★ 39",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "119",
+          "display": "→ 119",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "115",
+          "display": "→ 115",
+          "status": "FAIL"
+        }
+      }
+    },
+    "main_bazar_panel_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 9,
+        "jodi": "07",
+        "open_panna": "112",
+        "close_panna": "289"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "1",
+          "8"
+        ],
+        "close_digits": [
+          "9",
+          "5",
+          "1"
+        ],
+        "jodis": [
+          "39",
+          "35",
+          "31",
+          "19",
+          "15",
+          "11",
+          "89",
+          "85",
+          "81"
+        ],
+        "open_pannas": [
+          "157",
+          "238",
+          "247",
+          "146",
+          "236",
+          "470",
+          "440",
+          "558",
+          "224"
+        ],
+        "close_pannas": [
+          "478",
+          "126",
+          "360",
+          "177",
+          "249",
+          "258",
+          "227",
+          "588",
+          "669"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 9,
+          "display": "↑ 9",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "07",
+          "display": "★ 07",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "289",
+          "display": "→ 289",
+          "status": "FAIL"
+        }
+      }
+    },
+    "main_ratan_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 9,
+        "jodi": "35",
+        "open_panna": "112",
+        "close_panna": "289"
+      },
+      "predicted": {
+        "open_digits": [
+          "3",
+          "1",
+          "8"
+        ],
+        "close_digits": [
+          "9",
+          "5",
+          "1"
+        ],
+        "jodis": [
+          "39",
+          "35",
+          "31",
+          "19",
+          "15",
+          "11",
+          "89",
+          "85",
+          "81"
+        ],
+        "open_pannas": [
+          "157",
+          "238",
+          "247",
+          "146",
+          "236",
+          "470",
+          "440",
+          "558",
+          "224"
+        ],
+        "close_pannas": [
+          "478",
+          "126",
+          "360",
+          "177",
+          "249",
+          "258",
+          "227",
+          "588",
+          "669"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 9,
+          "display": "↑ 9",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": true,
+          "value": "35",
+          "display": "★ 35",
+          "status": "PASS"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "289",
+          "display": "→ 289",
+          "status": "FAIL"
+        }
+      }
+    },
+    "milan_day_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 3,
+        "close_digit": 6,
+        "jodi": "30",
+        "open_panna": "777",
+        "close_panna": "113"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "7",
+          "0"
+        ],
+        "close_digits": [
+          "7",
+          "5",
+          "0"
+        ],
+        "jodis": [
+          "57",
+          "55",
+          "50",
+          "77",
+          "75",
+          "70",
+          "07",
+          "05",
+          "00"
+        ],
+        "open_pannas": [
+          "348",
+          "258",
+          "690",
+          "340",
+          "278",
+          "368",
+          "136",
+          "145",
+          "235"
+        ],
+        "close_pannas": [
+          "188",
+          "278",
+          "359",
+          "456",
+          "113",
+          "122",
+          "145",
+          "280",
+          "460"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 3,
+          "display": "↑ 3",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": false,
+          "value": 6,
+          "display": "↑ 6",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "30",
+          "display": "★ 30",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": true,
+          "value": "113",
+          "display": "→ 113",
+          "status": "PASS"
+        }
+      }
+    },
+    "prabhat_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 9,
+        "jodi": "09",
+        "open_panna": "100",
+        "close_panna": "777"
+      },
+      "predicted": {
+        "open_digits": [
+          "7",
+          "6",
+          "0"
+        ],
+        "close_digits": [
+          "8",
+          "3",
+          "0"
+        ],
+        "jodis": [
+          "78",
+          "73",
+          "70",
+          "68",
+          "63",
+          "60",
+          "08",
+          "03",
+          "00"
+        ],
+        "open_pannas": [
+          "269",
+          "359",
+          "890",
+          "169",
+          "178",
+          "259",
+          "479",
+          "127",
+          "136"
+        ],
+        "close_pannas": [
+          "378",
+          "468",
+          "134",
+          "166",
+          "247",
+          "256",
+          "127",
+          "136",
+          "145"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": false,
+          "value": 9,
+          "display": "↑ 9",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "09",
+          "display": "★ 09",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "100",
+          "display": "→ 100",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        }
+      }
+    },
+    "rithi_sridevi_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": true,
+        "open_panna": false,
+        "close_panna": true
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 9,
+        "close_digit": 5,
+        "jodi": "35",
+        "open_panna": "116",
+        "close_panna": "113"
+      },
+      "predicted": {
+        "open_digits": [
+          "8",
+          "3",
+          "9"
+        ],
+        "close_digits": [
+          "2",
+          "5",
+          "0"
+        ],
+        "jodis": [
+          "82",
+          "85",
+          "80",
+          "32",
+          "35",
+          "30",
+          "92",
+          "95",
+          "90"
+        ],
+        "open_pannas": [
+          "134",
+          "170",
+          "224",
+          "157",
+          "166",
+          "247",
+          "180",
+          "234",
+          "577"
+        ],
+        "close_pannas": [
+          "147",
+          "156",
+          "237",
+          "113",
+          "140",
+          "230",
+          "460",
+          "136",
+          "235"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 9,
+          "display": "↑ 9",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": true,
+          "value": 5,
+          "display": "↑ 5",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": true,
+          "value": "35",
+          "display": "★ 35",
+          "status": "PASS"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "116",
+          "display": "→ 116",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": true,
+          "value": "113",
+          "display": "→ 113",
+          "status": "PASS"
+        }
+      }
+    },
+    "sridevi_night_satta_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 4,
+        "close_digit": 0,
+        "jodi": "42",
+        "open_panna": "113",
+        "close_panna": "110"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "9",
+          "0"
+        ],
+        "close_digits": [
+          "7",
+          "0",
+          "4"
+        ],
+        "jodis": [
+          "57",
+          "50",
+          "54",
+          "97",
+          "90",
+          "94",
+          "07",
+          "00",
+          "04"
+        ],
+        "open_pannas": [
+          "348",
+          "258",
+          "690",
+          "270",
+          "568",
+          "135",
+          "136",
+          "145",
+          "460"
+        ],
+        "close_pannas": [
+          "115",
+          "124",
+          "133",
+          "136",
+          "145",
+          "460",
+          "167",
+          "257",
+          "266"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 4,
+          "display": "↑ 4",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "42",
+          "display": "★ 42",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "113",
+          "display": "→ 113",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "110",
+          "display": "→ 110",
+          "status": "FAIL"
+        }
+      }
+    },
+    "supreme_day_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 5,
+        "close_digit": 8,
+        "jodi": "79",
+        "open_panna": "112",
+        "close_panna": "477"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "5",
+          "3"
+        ],
+        "close_digits": [
+          "7",
+          "8",
+          "4"
+        ],
+        "jodis": [
+          "07",
+          "08",
+          "04",
+          "57",
+          "58",
+          "54",
+          "37",
+          "38",
+          "34"
+        ],
+        "open_pannas": [
+          "127",
+          "136",
+          "145",
+          "230",
+          "366",
+          "447",
+          "337",
+          "346",
+          "490"
+        ],
+        "close_pannas": [
+          "124",
+          "269",
+          "278",
+          "369",
+          "378",
+          "189",
+          "167",
+          "257",
+          "266"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 5,
+          "display": "↑ 5",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": true,
+          "value": 8,
+          "display": "↑ 8",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "79",
+          "display": "★ 79",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "112",
+          "display": "→ 112",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "477",
+          "display": "→ 477",
+          "status": "FAIL"
+        }
+      }
+    },
+    "supreme_night_panel_chart": {
+      "hits": {
+        "open_digit": true,
+        "close_digit": false,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 0,
+        "close_digit": 0,
+        "jodi": "08",
+        "open_panna": "100",
+        "close_panna": "116"
+      },
+      "predicted": {
+        "open_digits": [
+          "0",
+          "6",
+          "2"
+        ],
+        "close_digits": [
+          "4",
+          "6",
+          "2"
+        ],
+        "jodis": [
+          "04",
+          "06",
+          "02",
+          "64",
+          "66",
+          "62",
+          "24",
+          "26",
+          "22"
+        ],
+        "open_pannas": [
+          "136",
+          "145",
+          "235",
+          "268",
+          "178",
+          "259",
+          "336",
+          "390",
+          "246"
+        ],
+        "close_pannas": [
+          "167",
+          "239",
+          "680",
+          "123",
+          "240",
+          "457",
+          "246",
+          "390",
+          "156"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": true,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "PASS"
+        },
+        "close": {
+          "passed": false,
+          "value": 0,
+          "display": "↑ 0",
+          "status": "FAIL"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "08",
+          "display": "★ 08",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "100",
+          "display": "→ 100",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "116",
+          "display": "→ 116",
+          "status": "FAIL"
+        }
+      }
+    },
+    "syndicate_night_penal_chart": {
+      "hits": {
+        "open_digit": false,
+        "close_digit": true,
+        "jodi": false,
+        "open_panna": false,
+        "close_panna": false
+      },
+      "family_hit": false,
+      "matched_families": [],
+      "line_predicted": null,
+      "line_match": null,
+      "any_hit": true,
+      "actual": {
+        "open_digit": 4,
+        "close_digit": 3,
+        "jodi": "29",
+        "open_panna": "777",
+        "close_panna": "777"
+      },
+      "predicted": {
+        "open_digits": [
+          "5",
+          "6",
+          "0"
+        ],
+        "close_digits": [
+          "6",
+          "3",
+          "1"
+        ],
+        "jodis": [
+          "56",
+          "53",
+          "51",
+          "66",
+          "63",
+          "61",
+          "06",
+          "03",
+          "01"
+        ],
+        "open_pannas": [
+          "113",
+          "122",
+          "140",
+          "114",
+          "123",
+          "240",
+          "190",
+          "226",
+          "235"
+        ],
+        "close_pannas": [
+          "277",
+          "600",
+          "114",
+          "166",
+          "256",
+          "337",
+          "560",
+          "137",
+          "236"
+        ]
+      },
+      "score_details": {
+        "open": {
+          "passed": false,
+          "value": 4,
+          "display": "↑ 4",
+          "status": "FAIL"
+        },
+        "close": {
+          "passed": true,
+          "value": 3,
+          "display": "↑ 3",
+          "status": "PASS"
+        },
+        "jodi": {
+          "passed": false,
+          "value": "29",
+          "display": "★ 29",
+          "status": "FAIL"
+        },
+        "open_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        },
+        "close_panna": {
+          "passed": false,
+          "value": "777",
+          "display": "→ 777",
+          "status": "FAIL"
+        }
+      }
+    }
+  }
+}
